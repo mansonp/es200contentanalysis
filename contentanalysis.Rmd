@@ -2,9 +2,119 @@
 title: "Content Analysis"
 author: "Your Name"
 date: "`r Sys.Date()`"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+
+p_load(readtext,
+       quanteda, quanteda.textplots, quanteda.textstats, 
+       tidyverse, kableExtra)
+
+```
+
+# Load and Process your Data!
+
+Place your text converted files into the `data` folder in your workspace.
+
+```{r loaddata}
+
+documents <- readtext("data/*") # Load data
+
+# Prune the Name so they are more readable - drops file suffix
+documents$doc_id <- str_sub(documents$doc_id, start = 1, end = -5)
+
+# Creates corpus
+my.corpus <- corpus(documents)
+docvars(my.corpus, "Textno") <- sprintf("%02d", 1:ndoc(my.corpus))
+
+```
+
+
+# What are the basic stats of your documents?
+
+```{r basicstats}
+
+my.corpus.stats <- summary(my.corpus)
+my.corpus.stats$Text <- reorder(my.corpus.stats$Text, 1:ndoc(my.corpus), order = T)
+
+my.corpus.stats %>% kbl() %>% kable_styling()
+
+```
+
+
+## Exploring Patterns: Types
+
+```{r types}
+ggplot(my.corpus.stats, aes(Text, Types, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Types per Document") + xlab("") + ylab("")
+```
+
+
+## Exploring Patterns: Tokens
+
+```{r tokens}
+ggplot(my.corpus.stats, aes(Text, Tokens, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Tokens per Document") + xlab("") + ylab("")
+```
+
+## Common Terms in the Documents: Top 100
+
+```{r, warning=FALSE, echo=FALSE, out.width = "50%", dpi= 300}
+
+# Create Document-Feature Matrix (Engine for Analyzing Interactions)
+
+dfm_my.corpus <- corpus_subset(my.corpus) %>% 
+  dfm(remove = stopwords('english'), remove_punct = TRUE) %>%
+  dfm_trim(min_termfreq = 10, verbose = FALSE)
+
+features_my.corpus <- textstat_frequency(dfm_my.corpus, n = 100) # Adjust the n=100 if you want!
+
+# Sort by reverse frequency order
+features_my.corpus$feature <- with(features_my.corpus, reorder(feature, -frequency))
+
+ggplot(features_my.corpus, aes(x = feature, y = frequency)) +
+  geom_point() + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+```
+
+## Examine Context
+
+```{r context}
+doc.tokens <- tokens(my.corpus) # Creates the tokens for documents
+
+kwic(doc.tokens, "adapt*") %>% as_tibble() %>% 
+  kbl() %>% kable_styling()
+
+```
+
+# Exploring Patterns: Your Turn
+
+Use the following code to explore particular terms or multiple terms across documents.
+
+```{r tokenpattern} 
+doc.tokens <- tokens(my.corpus) # Creates the tokens for documents
+
+textplot_xray(
+  kwic(doc.tokens, pattern = "climate")
+)
+
+
+
+```
+
+## Or try multiple terms
+
+```{r tokenpattern_multi} 
+doc.tokens <- tokens(my.corpus) # Creates the tokens for documents
+
+textplot_xray(
+  kwic(doc.tokens, pattern = "adapt*"), 
+  kwic(doc.tokens, pattern = "mitig*")
+)
+
+
+
 ```

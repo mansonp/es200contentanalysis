@@ -1,0 +1,631 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Content Analysis},
+  pdfauthor={Your Name},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Content Analysis}
+\author{Your Name}
+\date{2023-04-18}
+
+\begin{document}
+\maketitle
+
+\hypertarget{load-and-process-your-data}{%
+\section{Load and Process your Data!}\label{load-and-process-your-data}}
+
+Place your text converted files into the \texttt{data} folder in your
+workspace.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{documents }\OtherTok{\textless{}{-}} \FunctionTok{readtext}\NormalTok{(}\StringTok{"data/*"}\NormalTok{) }\CommentTok{\# Load data}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in get_source(x, text_field = text_field, docid_field = docid_field, :
+## Unsupported extension 'lcd' of file data/dictionary/policy_agendas_english.lcd
+## treating as plain text.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Prune the Name so they are more readable {-} drops file suffix}
+\NormalTok{documents}\SpecialCharTok{$}\NormalTok{doc\_id }\OtherTok{\textless{}{-}} \FunctionTok{str\_sub}\NormalTok{(documents}\SpecialCharTok{$}\NormalTok{doc\_id, }\AttributeTok{start =} \DecValTok{1}\NormalTok{, }\AttributeTok{end =} \SpecialCharTok{{-}}\DecValTok{5}\NormalTok{)}
+
+\CommentTok{\# Creates corpus}
+\NormalTok{my.corpus }\OtherTok{\textless{}{-}} \FunctionTok{corpus}\NormalTok{(documents)}
+\FunctionTok{docvars}\NormalTok{(my.corpus, }\StringTok{"Textno"}\NormalTok{) }\OtherTok{\textless{}{-}} \FunctionTok{sprintf}\NormalTok{(}\StringTok{"\%02d"}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\FunctionTok{ndoc}\NormalTok{(my.corpus))}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{what-are-the-basic-stats-of-your-documents}{%
+\section{What are the basic stats of your
+documents?}\label{what-are-the-basic-stats-of-your-documents}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{my.corpus.stats }\OtherTok{\textless{}{-}} \FunctionTok{summary}\NormalTok{(my.corpus)}
+\NormalTok{my.corpus.stats}\SpecialCharTok{$}\NormalTok{Text }\OtherTok{\textless{}{-}} \FunctionTok{reorder}\NormalTok{(my.corpus.stats}\SpecialCharTok{$}\NormalTok{Text, }\DecValTok{1}\SpecialCharTok{:}\FunctionTok{ndoc}\NormalTok{(my.corpus), }\AttributeTok{order =}\NormalTok{ T)}
+
+\NormalTok{my.corpus.stats }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{kbl}\NormalTok{() }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{kable\_styling}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{table}
+\centering
+\begin{tabular}[t]{l|r|r|r|l}
+\hline
+Text & Types & Tokens & Sentences & Textno\\
+\hline
+Colorado & 5192 & 51143 & 1574 & 01\\
+\hline
+Louisiana & 8072 & 75834 & 2260 & 02\\
+\hline
+Michigan & 3390 & 22558 & 700 & 03\\
+\hline
+Minnesota & 3476 & 19084 & 694 & 04\\
+\hline
+policy\_agendas\_english & 1486 & 17926 & 3 & 05\\
+\hline
+Los Angeles & 1097 & 3326 & 119 & 06\\
+\hline
+New York & 1224 & 3199 & 96 & 07\\
+\hline
+San Francisco & 423 & 1157 & 28 & 08\\
+\hline
+Seattle & 1655 & 7947 & 250 & 09\\
+\hline
+\end{tabular}
+\end{table}
+
+\hypertarget{exploring-patterns-types}{%
+\subsection{Exploring Patterns: Types}\label{exploring-patterns-types}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(my.corpus.stats, }\FunctionTok{aes}\NormalTok{(Text, Types, }\AttributeTok{group =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+} \FunctionTok{geom\_point}\NormalTok{() }\SpecialCharTok{+} \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} \FunctionTok{ggtitle}\NormalTok{(}\StringTok{"Types per Document"}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{xlab}\NormalTok{(}\StringTok{""}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{ylab}\NormalTok{(}\StringTok{""}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{contentanalysis_files/figure-latex/types-1.pdf}
+
+\hypertarget{exploring-patterns-tokens}{%
+\subsection{Exploring Patterns:
+Tokens}\label{exploring-patterns-tokens}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(my.corpus.stats, }\FunctionTok{aes}\NormalTok{(Text, Tokens, }\AttributeTok{group =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+} \FunctionTok{geom\_point}\NormalTok{() }\SpecialCharTok{+} \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{vjust =} \DecValTok{1}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} \FunctionTok{ggtitle}\NormalTok{(}\StringTok{"Tokens per Document"}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{xlab}\NormalTok{(}\StringTok{""}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{ylab}\NormalTok{(}\StringTok{""}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{contentanalysis_files/figure-latex/tokens-1.pdf}
+
+\hypertarget{common-terms-in-the-documents-top-100}{%
+\subsection{Common Terms in the Documents: Top
+100}\label{common-terms-in-the-documents-top-100}}
+
+\includegraphics[width=0.5\linewidth]{contentanalysis_files/figure-latex/unnamed-chunk-1-1}
+
+\hypertarget{examine-context}{%
+\subsection{Examine Context}\label{examine-context}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{doc.tokens }\OtherTok{\textless{}{-}} \FunctionTok{tokens}\NormalTok{(my.corpus) }\CommentTok{\# Creates the tokens for documents}
+
+\FunctionTok{kwic}\NormalTok{(doc.tokens, }\StringTok{"adapt*"}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{as\_tibble}\NormalTok{() }\SpecialCharTok{\%\textgreater{}\%} 
+  \FunctionTok{kbl}\NormalTok{() }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{kable\_styling}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{table}
+\centering
+\begin{tabular}[t]{l|r|r|l|l|l|l}
+\hline
+docname & from & to & pre & keyword & post & pattern\\
+\hline
+Colorado & 346 & 346 & Tracking and Management of Progress & Adaptation & 96 E3 Scenario Analysis 98 & adapt*\\
+\hline
+Colorado & 29697 & 29697 & opportunity for equitable climate change & adaptation & and mitigation in Colorado . & adapt*\\
+\hline
+Colorado & 32701 & 32701 & Tracking and Management of Progress & Adaptation & Consistent with the resolution passed & adapt*\\
+\hline
+Colorado & 38147 & 38147 & practices must be equitable and & adaptive & to ongoing climate change and & adapt*\\
+\hline
+Colorado & 38381 & 38381 & and preparing the state to & adapt & to those climate changes that & adapt*\\
+\hline
+Colorado & 38546 & 38546 & help improve Colorado’s ability to & adapt & to future climate change impacts & adapt*\\
+\hline
+Colorado & 46378 & 46378 & address climate change mitigation and & adaptation & , and generate ecosystem benefits & adapt*\\
+\hline
+Colorado & 46415 & 46415 & accomplish agricultural emissions reductions and & adaptations & . 148 Vega State Park & adapt*\\
+\hline
+Colorado & 47554 & 47554 & plan for near- and long-term & adaptation & actions . Recognizing that climate & adapt*\\
+\hline
+Colorado & 50290 & 50290 & and Strategies to Mitigate and & Adapt & . State of Colorado , & adapt*\\
+\hline
+Colorado & 50413 & 50413 & Impacts , Risks , and & Adaptation & in the United States : & adapt*\\
+\hline
+Louisiana & 221 & 221 & the Plan is implemented and & adapted & over time . The result & adapt*\\
+\hline
+Louisiana & 301 & 301 & around the world for comprehensively & adapting & to the impacts of climate & adapt*\\
+\hline
+Louisiana & 1961 & 1961 & . . 103 Accountability and & Adaptability & to Ensure Lasting Success . & adapt*\\
+\hline
+Louisiana & 2031 & 2031 & . 108 NEXT STEPS AND & ADAPTIVE & MANAGEMENT OF LOUISIANA’S FIRST CLIMATE & adapt*\\
+\hline
+Louisiana & 3854 & 3854 & change while making our current & adaptation & efforts more successful and reducing & adapt*\\
+\hline
+Louisiana & 3964 & 3964 & the costs of mitigation or & adaptation & actions do not fall unequally & adapt*\\
+\hline
+Louisiana & 3989 & 3989 & to implement climate mitigation and & adaptation & measures which also address long-standing & adapt*\\
+\hline
+Louisiana & 4044 & 4044 & in facilities and infrastructure to & adapt & Louisiana Climate Action Plan , & adapt*\\
+\hline
+Louisiana & 4157 & 4157 & already a leader in coastal & adaptation & and is creating new systems & adapt*\\
+\hline
+Louisiana & 4187 & 4187 & they can also support community & adaptation & measures and extensive co-benefits . & adapt*\\
+\hline
+Louisiana & 4213 & 4213 & support emissions reductions and bolster & adaptation & as well . While an & adapt*\\
+\hline
+Louisiana & 4426 & 4426 & makes us more resilient and & adaptable & to changing environmental conditions . & adapt*\\
+\hline
+Louisiana & 4514 & 4514 & natural and cultural heritage while & adapting & to maintain Louisiana’s position as & adapt*\\
+\hline
+Louisiana & 4995 & 4995 & environment to climate change . & Adapting & to a Changing Climate • & adapt*\\
+\hline
+Louisiana & 6013 & 6013 & provide ways for us to & adapt & “ to maintain [ our & adapt*\\
+\hline
+Louisiana & 6437 & 6437 & combining climate mitigation goals with & adaptation & and resilience goals . In & adapt*\\
+\hline
+Louisiana & 7660 & 7660 & , to implement actions and & adaptively & manage the plan over the & adapt*\\
+\hline
+Louisiana & 9679 & 9679 & THREATS ARE SHOWN ALONG WITH & ADAPT & AT ION MEASURES T HAT & adapt*\\
+\hline
+Louisiana & 10028 & 10028 & climate change , and how & adaptation & and mitigation can reduce current & adapt*\\
+\hline
+Louisiana & 11764 & 11764 & SENSIT IVIT Y , AND & ADAPT & IVE CA PACIT Y AND & adapt*\\
+\hline
+Louisiana & 13671 & 13671 & ILIT IES . SOURCE : & ADAPTED & FROM EPA 201 7 . & adapt*\\
+\hline
+Louisiana & 15577 & 15577 & and the mental stress of & adaptation & alongside the damage to ecosystems & adapt*\\
+\hline
+Louisiana & 15648 & 15648 & ability of Indigenous peoples to & adapt & to climate-changeinduced changes can also & adapt*\\
+\hline
+Louisiana & 15973 & 15973 & actively pursuing relocation as an & adaptation & strategy to environmental risk . & adapt*\\
+\hline
+Louisiana & 17499 & 17499 & YIELDS . S OURCE : & ADAPT & ED FROM HSIANG ET AL & adapt*\\
+\hline
+Louisiana & 17688 & 17688 & sustained and substantial mitigation and & adaptation & efforts , “ climate change & adapt*\\
+\hline
+Louisiana & 18640 & 18640 & Additionally , the necessity of & adapting & to our changing environment would & adapt*\\
+\hline
+Louisiana & 18939 & 18939 & Louisiana’s capacity to cope and & adapt & . Louisiana Climate Action Plan & adapt*\\
+\hline
+Louisiana & 19051 & 19051 & can be mitigated , and & adaptation & efforts can be more successful & adapt*\\
+\hline
+Louisiana & 19231 & 19231 & opportunities to create wealth in & adaptation & , and to lead by & adapt*\\
+\hline
+Louisiana & 20448 & 20448 & Louisiana will be able to & adaptively & manage this plan to further & adapt*\\
+\hline
+Louisiana & 20496 & 20496 & in this plan , and & adaptively & manage the plan for future & adapt*\\
+\hline
+Louisiana & 21620 & 21620 & the costs of mitigation or & adaptation & actions do not to fall & adapt*\\
+\hline
+Louisiana & 21641 & 21641 & to advance climate mitigation and & adaptation & addresses long-standing inequities while promoting & adapt*\\
+\hline
+Louisiana & 22943 & 22943 & coastal ecosystems can further support & adaptation & efforts by enhancing community resilience & adapt*\\
+\hline
+Louisiana & 23045 & 23045 & and lowering energy demand . & ADAPTING & TO A CHANGING CLIMATE Climate & adapt*\\
+\hline
+Louisiana & 23051 & 23051 & TO A CHANGING CLIMATE Climate & adaptation & is an immediate need in & adapt*\\
+\hline
+Louisiana & 23115 & 23115 & to avoiding even more severe & adaptation & challenges in the coming decades & adapt*\\
+\hline
+Louisiana & 23150 & 23150 & the Task Force focus on & adapting & to a changing climate by & adapt*\\
+\hline
+Louisiana & 23192 & 23192 & emissions in this plan and & adaptation & measures go hand-in-hand . This & adapt*\\
+\hline
+Louisiana & 23502 & 23502 & at reducing GHG emissions , & adaptable & to new technologies and approaches & adapt*\\
+\hline
+Louisiana & 23551 & 23551 & Successful Implementation and Accountability and & Adaptability & to Ensure Lasting Success , & adapt*\\
+\hline
+Louisiana & 23982 & 23982 & Successful Implementation • Accountability and & Adaptability & to Ensure Lasting Success Louisiana & adapt*\\
+\hline
+Louisiana & 24306 & 24306 & implementation . Actions focused on & adaptive & management will ensure that ongoing & adapt*\\
+\hline
+Louisiana & 30314 & 30314 & workforce transition , climate change & adaptation & , and other goals established & adapt*\\
+\hline
+Louisiana & 41122 & 41122 & climate change is interconnected with & adapting & to the impacts of climate & adapt*\\
+\hline
+Louisiana & 41389 & 41389 & , climate mitigation , and & adaptation & planning This action proposes the & adapt*\\
+\hline
+Louisiana & 41488 & 41488 & land use plans and climate & adaptation & and mitigation plans that address & adapt*\\
+\hline
+Louisiana & 44357 & 44357 & to maximize climate mitigation and & adaptation & goals simultaneously , understanding that & adapt*\\
+\hline
+Louisiana & 44413 & 44413 & to maximize climate mitigation and & adaptation & goals • STRATEGY 15 : & adapt*\\
+\hline
+Louisiana & 44430 & 44430 & to maximize climate mitigation and & adaptation & goals • STRATEGY 16 . & adapt*\\
+\hline
+Louisiana & 44466 & 44466 & to maximize climate mitigation and & adaptation & goals Louisiana’s natural lands , & adapt*\\
+\hline
+Louisiana & 45394 & 45394 & to maximize climate mitigation and & adaptation & goals As with Louisiana’s inland & adapt*\\
+\hline
+Louisiana & 48832 & 48832 & in climate change mitigation and & adaptation & , and prepare Louisiana for & adapt*\\
+\hline
+Louisiana & 49499 & 49499 & Coordinate climate change mitigation and & adaptation & research needs across Louisiana’s academic & adapt*\\
+\hline
+Louisiana & 51709 & 51709 & transit connectivity , and climate & adaptation & . This strategy recommends that & adapt*\\
+\hline
+Louisiana & 52548 & 52548 & implementation of climate mitigation and & adaptation & initiatives , such as a & adapt*\\
+\hline
+Louisiana & 53191 & 53191 & SUCCESSFUL IMPLEMENTATION 107 Accountability and & Adaptability & to Ensure Lasting Success This & adapt*\\
+\hline
+Louisiana & 53321 & 53321 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS STRATEGY & adapt*\\
+\hline
+Louisiana & 53373 & 53373 & net GHG emissions reductions and & adapt & the approaches taken as needed & adapt*\\
+\hline
+Louisiana & 53902 & 53902 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 109 & adapt*\\
+\hline
+Louisiana & 54421 & 54421 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 110 & adapt*\\
+\hline
+Louisiana & 55031 & 55031 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 111 & adapt*\\
+\hline
+Louisiana & 55265 & 55265 & climate resilience Ensure long-standing and & adaptive & implementation of the Action Plan & adapt*\\
+\hline
+Louisiana & 55275 & 55275 & Plan Climate change mitigation and & adaptation & require extensive coordination across multiple & adapt*\\
+\hline
+Louisiana & 55390 & 55390 & related to climate mitigation and & adaptation & to ensure vision and action & adapt*\\
+\hline
+Louisiana & 55434 & 55434 & staffs climate change mitigation and & adaptation & across agencies , levels of & adapt*\\
+\hline
+Louisiana & 55454 & 55454 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 112 & adapt*\\
+\hline
+Louisiana & 55519 & 55519 & climate resilience Ensure long-standing and & adaptive & implementation of the Action Plan & adapt*\\
+\hline
+Louisiana & 55785 & 55785 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 113 & adapt*\\
+\hline
+Louisiana & 55803 & 55803 & net GHG emissions reductions and & adapt & the approaches taken as needed & adapt*\\
+\hline
+Louisiana & 55863 & 55863 & Plan over time through an & adaptive & management process . Actions that & adapt*\\
+\hline
+Louisiana & 55930 & 55930 & and information necessary to make & adaptive & management decisions . Highlights of & adapt*\\
+\hline
+Louisiana & 55948 & 55948 & Louisiana : • Flexibility and & Adaptability & : New technologies , processes & adapt*\\
+\hline
+Louisiana & 56061 & 56061 & As a living plan , & adaptive & management of all strategies and & adapt*\\
+\hline
+Louisiana & 56121 & 56121 & checkpoints on GHG reduction to & adaptively & manage emission reduction approaches across & adapt*\\
+\hline
+Louisiana & 56335 & 56335 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 114 & adapt*\\
+\hline
+Louisiana & 56652 & 56652 & Plan Hold implementers accountable in & adaptive & management of the Action Plan & adapt*\\
+\hline
+Louisiana & 56869 & 56869 & Plan , 2022 ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 115 & adapt*\\
+\hline
+Louisiana & 56878 & 56878 & SUCCESS 115 Next Steps and & Adaptive & Management of Louisiana’s First Climate & adapt*\\
+\hline
+Louisiana & 57443 & 57443 & of natural resources and climate & adaptation & must be aggressive but responsive & adapt*\\
+\hline
+Louisiana & 57478 & 57478 & continual effort to implement , & adaptively & manage , and better understand & adapt*\\
+\hline
+Louisiana & 58767 & 58767 & , climate mitigation , and & adaptation & planning 12.2 DOA Office of & adapt*\\
+\hline
+Louisiana & 59526 & 59526 & in in energy ACCOUNTABILITY AND & ADAPTABILITY & TO ENSURE LASTING SUCCESS 26.1 & adapt*\\
+\hline
+Louisiana & 59662 & 59662 & resilience ☒ Ensure long-standing and & adaptive & implementation of the Action Plan & adapt*\\
+\hline
+Louisiana & 59689 & 59689 & resilience ☒ Ensure long-standing and & adaptive & implementation of the Action Plan & adapt*\\
+\hline
+Louisiana & 59753 & 59753 & ☒ Hold implementers accountable in & adaptive & management of the Action Plan & adapt*\\
+\hline
+Louisiana & 60082 & 60082 & at each agency , the & adaptive & governance initiative seeks to integrate & adapt*\\
+\hline
+Louisiana & 60511 & 60511 & , waste , and pollution & Adaptation & Adaptive Governance Initiative Alternative Fuel & adapt*\\
+\hline
+Louisiana & 60512 & 60512 & waste , and pollution Adaptation & Adaptive & Governance Initiative Alternative Fuel Blue & adapt*\\
+\hline
+Louisiana & 72713 & 72713 & impacts , Risks , and & Adaptation & in the United States : & adapt*\\
+\hline
+Louisiana & 72852 & 72852 & ) . Chapter 28 : & Adaptation & Response ( pp . 1309–1345 & adapt*\\
+\hline
+Louisiana & 74114 & 74114 & effects , resources , and & adaptation & examples from health departments funded & adapt*\\
+\hline
+Michigan & 4277 & 4277 & not a comprehensive plan to & adapt & and become resilient to the & adapt*\\
+\hline
+Michigan & 4309 & 4309 & support residents and communities in & adapting & to the climate impacts we & adapt*\\
+\hline
+Michigan & 4332 & 4332 & . Additionally , mitigation and & adaptation & are not mutually exclusive – & adapt*\\
+\hline
+Michigan & 4353 & 4353 & , while there are climate & adaptation & considerations in this document , & adapt*\\
+\hline
+Michigan & 4366 & 4366 & not constitute a holistic climate & adaptation & strategy for Michigan . Concerted & adapt*\\
+\hline
+Michigan & 6371 & 6371 & cannot prevent . Importance of & adaptation & The MI Healthy Climate Plan & adapt*\\
+\hline
+Michigan & 6392 & 6392 & not a comprehensive plan to & adapt & and become resilient to the & adapt*\\
+\hline
+Michigan & 6445 & 6445 & as they prepare for and & adapt & to climate change . This & adapt*\\
+\hline
+Michigan & 6511 & 6511 & the same . Mitigation and & adaptation & are not mutually exclusive . & adapt*\\
+\hline
+Michigan & 6536 & 6536 & recent report on impacts , & adaptation & , and vulnerability , adaptation & adapt*\\
+\hline
+Michigan & 6541 & 6541 & adaptation , and vulnerability , & adaptation & measures become less effective the & adapt*\\
+\hline
+Michigan & 6567 & 6567 & less effective . We must & adapt & to the existing impacts of & adapt*\\
+\hline
+Michigan & 9891 & 9891 & 1 it commits to climate & adaptation & . Climate action will spur & adapt*\\
+\hline
+Michigan & 10973 & 10973 & carbon neutral economy—while mitigating and & adapting & to the negative impacts of & adapt*\\
+\hline
+Michigan & 11136 & 11136 & climate change and worked to & adapt & and become resilient to existing & adapt*\\
+\hline
+Michigan & 13046 & 13046 & does not contain a holistic & adaptation & and resilience strategy , though & adapt*\\
+\hline
+Michigan & 20415 & 20415 & , can yield both climate & adaptation & and mitigation benefits . This & adapt*\\
+\hline
+Michigan & 20698 & 20698 & agricultural sector to mitigate and & adapt & to climate change , we & adapt*\\
+\hline
+Michigan & 21629 & 21629 & published a Climate and Health & Adaptation & Planning Guide for Michigan Communities & adapt*\\
+\hline
+Minnesota & 835 & 835 & thresholds , opportunities for successful & adaptation & rapidly diminish . A guide & adapt*\\
+\hline
+Minnesota & 1697 & 1697 & , including crops , to & adapt & to the effects of climate & adapt*\\
+\hline
+Minnesota & 1830 & 1830 & transition : Support workers to & adapt & and evolve their skills through & adapt*\\
+\hline
+Minnesota & 2381 & 2381 & tribal governments are prioritizing climate & adaptation & planning , expanding urban and & adapt*\\
+\hline
+Minnesota & 2899 & 2899 & IPCC also recognizes that climate & adaptation & reduces risk , enhances resilience & adapt*\\
+\hline
+Minnesota & 2935 & 2935 & Celsius , opportunities for successful & adaptation & rapidly diminish . These global & adapt*\\
+\hline
+Minnesota & 4000 & 4000 & and 2030 . 2017 : & Adapting & to Climate Change in Minnesota & adapt*\\
+\hline
+Minnesota & 4024 & 4024 & . Minnesota hosts the National & Adaptation & Forum biennial conference . 2019 & adapt*\\
+\hline
+Minnesota & 4128 & 4128 & . Legislature also funds climate & adaptation & planning grants for local stormwater & adapt*\\
+\hline
+Minnesota & 4728 & 4728 & the complexities of mitigating and & adapting & to climate change , we & adapt*\\
+\hline
+Minnesota & 5131 & 5131 & and tribal nations as they & adapt & to major rainfall events by & adapt*\\
+\hline
+Minnesota & 5450 & 5450 & the University of Minnesota Climate & Adaptation & Partnership , is working to & adapt*\\
+\hline
+Minnesota & 5463 & 5463 & metrics to measure success of & adaptation & and resiliency strategies , which & adapt*\\
+\hline
+Minnesota & 5480 & 5480 & communities understand the impacts of & adaptation & actions and guide future implementation & adapt*\\
+\hline
+Minnesota & 5608 & 5608 & both reducing GHG emissions and & adapting & to our changing climate . & adapt*\\
+\hline
+Minnesota & 5987 & 5987 & develop and share resiliency and & adaptation & strategies , as well as & adapt*\\
+\hline
+Minnesota & 9586 & 9586 & to promote climate resiliency and & adaptation & of natural landscapes . 32 & adapt*\\
+\hline
+Minnesota & 9806 & 9806 & plans identify actions to increase & adaptation & . 33 CLIMATE-SMART NATURAL AND & adapt*\\
+\hline
+Minnesota & 10354 & 10354 & management promotes carbon uptake , & adapts & forests to current and future & adapt*\\
+\hline
+Minnesota & 10577 & 10577 & , including crops , to & adapt & to the effects of climate & adapt*\\
+\hline
+Minnesota & 10614 & 10614 & species , and the greatest & adaptability & to climate change . Use & adapt*\\
+\hline
+Minnesota & 10674 & 10674 & of natural lands in climate & adaptation & P Natural landscapes that effectively & adapt*\\
+\hline
+Minnesota & 12076 & 12076 & . Provide more resources for & adaptation & . Expand funding , staff & adapt*\\
+\hline
+Minnesota & 12094 & 12094 & for planning and implementation of & adaptation & and resiliency projects . The & adapt*\\
+\hline
+Minnesota & 12158 & 12158 & Share resilience best practices and & adaptation & resources and expand pilot programs & adapt*\\
+\hline
+Minnesota & 12276 & 12276 & and remodeling codes that prioritize & adaptive & reuse , and create resilient & adapt*\\
+\hline
+Minnesota & 12335 & 12335 & 2026 , at least 25 & adaptation & projects that increase community resiliency & adapt*\\
+\hline
+Minnesota & 12515 & 12515 & and intense storms . Climate & adaptation & strategies can be implemented at & adapt*\\
+\hline
+Minnesota & 12528 & 12528 & and community levels . Collective & adaptation & action protects and sustains local & adapt*\\
+\hline
+Minnesota & 12753 & 12753 & they need to implement community-specific & adaptation & actions and increase resilience , & adapt*\\
+\hline
+Minnesota & 12808 & 12808 & management , risk assessment , & adaptation & , and resilient metrics and & adapt*\\
+\hline
+Minnesota & 12817 & 12817 & metrics and performance measurements . & Adaptation & technical assistance and tools provide & adapt*\\
+\hline
+Minnesota & 12937 & 12937 & community connections to circulate successful & adaptation & strategies and project results . & adapt*\\
+\hline
+Minnesota & 12959 & 12959 & the University of Minnesota Climate & Adaptation & Partnership . Expand pilot programs & adapt*\\
+\hline
+Minnesota & 13247 & 13247 & change . lan for climate & adaptation & in residential and commercial development & adapt*\\
+\hline
+Minnesota & 13302 & 13302 & rehabilitation should encourage or require & adaptive & planning . New research , & adapt*\\
+\hline
+Minnesota & 13504 & 13504 & , and impact . Support & adaptation & for local businesses Providing better & adapt*\\
+\hline
+Minnesota & 13560 & 13560 & and skills and supporting community & adaptation & efforts . 46 RESILIENT COMMUNITIES & adapt*\\
+\hline
+Minnesota & 13674 & 13674 & Action to build resilience and & adapt & to climate change can also & adapt*\\
+\hline
+Minnesota & 13803 & 13803 & least able to invest in & adaptive & strategies . Historical policies of & adapt*\\
+\hline
+Minnesota & 13918 & 13918 & treatment at all stages of & adaptation & planning and implementation . An & adapt*\\
+\hline
+Minnesota & 13987 & 13987 & Prioritize clean-up strategies and climate & adaptation & investments in neighborhoods with fewer & adapt*\\
+\hline
+Minnesota & 14163 & 14163 & comfortable homes and businesses . & Adapt & the grid . Promote electrical & adapt*\\
+\hline
+Minnesota & 15035 & 15035 & tools to assess buildings ’ & adaptive & reuse potential . Promote the & adapt*\\
+\hline
+Minnesota & 15825 & 15825 & : MN CLIMATE ACTION FRAMEWORK & Adapt & outdoor recreation on public lands & adapt*\\
+\hline
+Minnesota & 15877 & 15877 & hazards . Plan and implement & adaptation & projects . By 2025 , & adapt*\\
+\hline
+Minnesota & 16454 & 16454 & Increase public health capacity and & adaptation & resources Increase capacity of public & adapt*\\
+\hline
+Minnesota & 16661 & 16661 & climate change through mitigation and & adaptation & actions serves to : • & adapt*\\
+\hline
+Minnesota & 16983 & 16983 & paths that help mitigate and & adapt & to climate change . The & adapt*\\
+\hline
+Minnesota & 17074 & 17074 & are employed in mitigating and & adapting & to climate change . Minnesota & adapt*\\
+\hline
+Minnesota & 17146 & 17146 & , and reskill workers to & adapt & to changing technologies and job & adapt*\\
+\hline
+Minnesota & 17397 & 17397 & money . Businesses need help & adapting & to remain competitive . Workers & adapt*\\
+\hline
+Minnesota & 17412 & 17412 & transition or retrain to successfully & adapt & to new technologies and in-demand & adapt*\\
+\hline
+Minnesota & 17580 & 17580 & racism and other barriers . & Adaptation & and growth Minnesota businesses and & adapt*\\
+\hline
+Minnesota & 17781 & 17781 & just transition Support workers to & adapt & and evolve their skills through & adapt*\\
+\hline
+Minnesota & 17824 & 17824 & and gain skills that will & adapt & to new , cleaner technologies & adapt*\\
+\hline
+Minnesota & 17839 & 17839 & Help workers in declining industries & adapt & and redevelop their skills . & adapt*\\
+\hline
+Minnesota & 17929 & 17929 & with skills that can be & adapted & to new and cleaner technologies & adapt*\\
+\hline
+Minnesota & 18130 & 18130 & • More Minnesota workers with & adaptable & skills to meet workforce demand & adapt*\\
+\hline
+Los Angeles & 1063 & 1063 & critical infrastructure to mitigate and & adapt & to the effects of climate & adapt*\\
+\hline
+New York & 142 & 142 & and take aggressive measures to & adapt & to and mitigate climate change & adapt*\\
+\hline
+\end{tabular}
+\end{table}
+
+\hypertarget{exploring-patterns-your-turn}{%
+\section{Exploring Patterns: Your
+Turn}\label{exploring-patterns-your-turn}}
+
+Use the following code to explore particular terms or multiple terms
+across documents.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{doc.tokens }\OtherTok{\textless{}{-}} \FunctionTok{tokens}\NormalTok{(my.corpus) }\CommentTok{\# Creates the tokens for documents}
+
+\FunctionTok{kwic}\NormalTok{(}\FunctionTok{tokens}\NormalTok{(doc.tokens), }\AttributeTok{pattern =} \StringTok{"climate"}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%} \CommentTok{\# change search term here}
+  \FunctionTok{textplot\_xray}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+
+\end{document}
