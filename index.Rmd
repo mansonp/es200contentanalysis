@@ -1,0 +1,307 @@
+---
+title: "Exploring Content Analysis"
+subtitle: "ES 200: Introduction to Environmental Studies"
+author: "Paul Manson"
+date: "Spring 2023"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "reed.css", "reed-fonts.css"]
+    nature:
+      beforeInit: ["js/ru_xaringan.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+    includes:
+      in_header: "./libs/partials/header.html"
+---
+
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+library(pacman)
+
+p_load(emo, quanteda, readtext, quanteda.textplots, quanteda.textstats, 
+       tidyverse, RColorBrewer, here, kableExtra)
+
+
+
+```
+
+
+layout: true
+  
+<div class="my-footer"><img src="./img/logo/reed-college-griffin-red.svg" style="height: 60px;"/></div> 
+
+---
+
+class: center, middle, inverse
+
+# Lab Session: Implementing Content Analysis
+---
+<div class="my-footer"><img src="./img/logo/reed-college-griffin-red.svg" style="height: 60px;"/></div> 
+
+#  Outline
+
+- `r ji("book")` Getting Data Collected and Processed
+- `r ji("computer")` Automated QCA Tools
+- `r ji("muscle")` Code Book Development
+- `r ji("handshake")` Preparing for Inter-Coder Testing
+
+---
+
+# Sharing Questions
+
+## In pairs answer the following:
+- What research questions do you have?
+- What types of documents have you found?
+
+---
+# Processing Data
+
+- Need to get each document into a `txt` file for analysis
+- PDF or other documents can be converted online
+- Other types?
+
+---
+# Automated Qualitative Data Analysis Tools
+
+- Lets explore your data on RStudio Server
+- `quanteda` package (http://quanteda.io/)
+
+## Goal
+
+- Understand basic patterns before coding
+- Potentially build a database for analysis
+
+---
+
+# Data Processing
+
+## Climate Action Plans or Similar
+
+- What features are common to these plans? 
+- Do they frame responses to climate change in similar or different ways?
+- Why?
+
+Data Source: (https://www.c2es.org/document/climate-action-plans/)
+
+---
+
+# Bring in Text Files
+
+```{r}
+# Read in Documents for Analysis
+documents <- readtext("data/caf/*") # Where I store data
+
+# Prune the Name so they are more readable - drops file suffix
+documents$doc_id <- str_sub(documents$doc_id, start = 1, end = -5)
+
+# Creates corpus
+my.corpus <- corpus(documents)
+docvars(my.corpus, "Textno") <- sprintf("%02d", 1:ndoc(my.corpus))
+
+```
+
+
+---
+# Basic Stats: Tokens, Types, and Sentences
+
+```{r}
+
+my.corpus.stats <- summary(my.corpus)
+my.corpus.stats$Text <- reorder(my.corpus.stats$Text, 1:ndoc(my.corpus), order = T)
+my.corpus.stats
+
+```
+
+---
+
+# Exploring Patterns: Types
+
+```{r}
+ggplot(my.corpus.stats, aes(Text, Types, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Types per Document") + xlab("") + ylab("")
+```
+
+---
+
+# Exploring Patterns: Tokens
+
+```{r}
+ggplot(my.corpus.stats, aes(Text, Tokens, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Tokens per Document") + xlab("") + ylab("")
+```
+
+
+---
+
+# What is the Context?
+
+```{r}
+doc.tokens <- tokens(my.corpus) # Creates the tokens for documents
+
+kwic(doc.tokens, "climate") %>%
+  kbl() %>%
+  kable_styling()
+
+
+```
+
+---
+# Common Terms in the Documents: Top 100
+
+```{r, warning=FALSE, echo=FALSE, out.width = "50%", dpi= 300}
+
+# Create Document-Feature Matrix (Engine for Analyzing Interactions)
+
+dfm_my.corpus <- corpus_subset(my.corpus) %>% 
+  dfm(remove = stopwords('english'), remove_punct = TRUE) %>%
+  dfm_trim(min_termfreq = 10, verbose = FALSE)
+
+features_my.corpus <- textstat_frequency(dfm_my.corpus, n = 100)
+
+# Sort by reverse frequency order
+features_my.corpus$feature <- with(features_my.corpus, reorder(feature, -frequency))
+
+ggplot(features_my.corpus, aes(x = feature, y = frequency)) +
+  geom_point() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+
+```
+
+---
+# Common Terms in the Documents: Top 30
+
+```{r, warning=FALSE, echo=FALSE, out.width = "50%", dpi= 300}
+
+# Create Document-Feature Matrix (Engine for Analyzing Interactions)
+
+dfm_my.corpus <- corpus_subset(my.corpus) %>% 
+  dfm(remove = stopwords('english'), remove_punct = TRUE) %>%
+  dfm_trim(min_termfreq = 10, verbose = FALSE)
+
+features_my.corpus <- textstat_frequency(dfm_my.corpus, n = 30)
+
+# Sort by reverse frequency order
+features_my.corpus$feature <- with(features_my.corpus, reorder(feature, -frequency))
+
+ggplot(features_my.corpus, aes(x = feature, y = frequency)) +
+  geom_point() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  coord_flip()
+
+
+```
+
+---
+
+# Explore the Placement of Terms
+
+
+.pull-left[
+
+```{r climatetoken, dpi= 300, fig.show="hide", warning=FALSE} 
+
+kwic(tokens(doc.tokens), pattern = "climate") %>%
+  textplot_xray()
+
+```
+]
+
+
+.pull-right[
+```{r, echo=FALSE}
+knitr::include_graphics(
+  knitr::fig_chunk("climatetoken", "png")
+)
+```
+]
+
+---
+
+# Placement and Relationship of Terms
+
+.pull-left[
+```{r climatemultitoken, dpi= 300, fig.show="hide", warning=FALSE}
+textplot_xray(
+  kwic(doc.tokens, pattern = "communities"),
+  kwic(doc.tokens, pattern = "environment"),
+  kwic(doc.tokens, pattern = "future")
+)
+
+```
+]
+
+.pull-right[
+```{r, echo=FALSE}
+knitr::include_graphics(
+  knitr::fig_chunk("climatemultitoken", "png")
+)
+```
+]
+
+---
+
+# Using a Dictionary to Classify
+
+
+
+```{r dictionaryimg, echo=FALSE, warning=FALSE, dpi=300, out.width="50%", fig.show='hide'}
+
+# Dictionary - Policy Agendas
+
+dict <- dictionary(file = "data/policy_agendas_english.lcd")
+dfm.plans <- dfm(my.corpus, dictionary = dict)
+dfm.plans.prop <- dfm_weight(dfm.plans, scheme = "prop")
+dfm.plans.prop.lib <- convert(dfm.plans.prop, "data.frame") %>% 
+  bind_cols(my.corpus.stats) 
+
+
+dfm.plans.pa <- convert(dfm.plans, "data.frame") %>%
+  rename(State = doc_id) %>%
+  select(State, macroeconomics, healthcare, environment, civil_rights, energy, transportation) %>%
+  gather(macroeconomics:transportation, key = "Topic", value = "Share") %>% 
+  group_by(State) %>% 
+  mutate(Share = Share/sum(Share)) %>% 
+  mutate(Topic = as_factor(Topic))
+
+ggplot(dfm.plans.pa, aes(State, Share, colour = Topic, fill = Topic)) + 
+  geom_bar(stat="identity") + 
+  scale_colour_brewer(palette = "Set1") + 
+  scale_fill_brewer(palette = "Pastel1") + 
+  ggtitle("Topics in the Climate Plan corpus based on the Policy-Agendas Dictionary") +
+  xlab("") +
+  ylab("Share of topics [%]") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+.pull-left[
+```{r, warning=FALSE}
+dict <- dictionary(file = "data/policy_agendas_english.lcd") #imports dictionary
+dfm.plans <- dfm(my.corpus, dictionary = dict) #classifies data
+dfm.plans.prop <- dfm_weight(dfm.plans, scheme = "prop") #normalize with proportions
+dfm.plans.prop.lib <- convert(dfm.plans.prop, "data.frame") %>% 
+  bind_cols(my.corpus.stats) # export for ggplot
+
+# Tidy reshape of data
+dfm.plans.pa <- convert(dfm.plans, "data.frame") %>%
+  rename(State = doc_id) %>%
+  select(State, macroeconomics, healthcare, environment, civil_rights, energy, transportation) %>%
+  gather(macroeconomics:transportation, key = "Topic", value = "Share") %>% 
+  group_by(State) %>% 
+  mutate(Share = Share/sum(Share)) %>% 
+  mutate(Topic = as_factor(Topic))
+```
+]
+
+.pull-right[
+```{r, echo=FALSE}
+knitr::include_graphics(
+  knitr::fig_chunk("dictionaryimg", "png")
+)
+```
+]

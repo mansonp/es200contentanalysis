@@ -1,0 +1,3780 @@
+Minnesota’s
+Climate Action
+Framework
+cc-mn4-01
+
+From the Governor
+Climate change is an existential threat for all people in Minnesota. That’s why Lieutenant
+Governor Flanagan and I created the Climate Change Subcabinet and Advisory Council on
+Climate Change — to seek input from thousands of Minnesotans across the state and help
+us take action together. Through these partnerships, we can protect the things we love about
+Minnesota — our clean air and water, our health, our outdoor traditions, and our four seasons.
+This Climate Action Framework includes ambitious goals that will harness the power of
+Minnesota’s innovative spirit and small businesses to create thousands of well-paying jobs
+and develop the next generation of climate-smart technologies.
+We can do this together while ensuring that everyone — including neighborhoods that have
+been historically marginalized — can thrive in Minnesota.
+This framework is Minnesota’s next step in responding to climate change, but it will not be our
+last. We will use the Climate Action Framework to work with tribal nations, the legislature,
+cities, counties, and communities to build ambitious solutions that reflect the urgency of the
+issue and ensure all Minnesotans benefit. We will not be moving forward alone.
+We know this framework will guide us to a cleaner, safer future for all Minnesotans. I invite
+you to join us in making that future possible.
+In solidarity,
+Governor Tim Walz
+
+2
+
+ACKNOWLEDGEMENTS
+The Climate Change Subcabinet is grateful to the 11 tribal sovereign
+nations in the state of Minnesota and their respective staff and to the
+Governor’s Advisory Council on Climate Change for their review and
+input on the framework.
+Thanks also to the thousands of Minnesotans who participated in the
+process by writing comments and participating in surveys to share what is
+most important to them.
+The subcabinet also thanks the members of six working groups for their
+important contributions to each goal chapter. Teams of staff and leadership
+from each of the 15 subcabinet agencies wrote this framework based on
+their expertise and the critical input from Minnesotans. Working group
+members and agency staff are listed at the end of the framework.
+
+3
+
+Contents
+
+The important role and leadership
+of tribal nations
+
+22
+
+Goal 1: Clean transportation
+
+25
+
+10
+
+Goal 2: Climate-smart natural and
+working lands
+
+32
+
+Climate affects everyone,
+but some are hit harder
+
+11
+
+Goal 3: Resilient communities
+
+41
+
+Working together to meet global goals
+
+13
+
+Goal 4: Clean energy and efficient buildings
+
+49
+
+The opportunity
+
+14
+
+Goal 5: Healthy lives and communities
+
+56
+
+Minnesota today
+
+16
+
+Goal 6: Clean economy
+
+62
+
+What’s next
+
+18
+
+Vision
+
+5
+
+Executive summary
+
+6
+
+Minnesota is changing
+
+9
+
+Leading with action
+
+Supporting documents
+
+Summary of climate actions
+Greenhouse gas analysis
+Summary of input
+
+These are available at mn.gov/framework
+
+Acronyms and glossary
+
+4
+
+The climate vision for our state
+The vision for our state embodied in this framework is:
+
+Carbon-neutral
+
+By 2050, Minnesota substantially reduces greenhouse gas (GHG) emissions and
+balances any GHG emissions with carbon storage, especially in our landscapes.
+
+Resilient
+
+Minnesota communities, businesses, and the natural environment can prepare,
+respond to, and recover from the impacts of climate change so all Minnesotans can
+thrive in the face of these challenges.
+
+Equitable
+
+Minnesotans acknowledge and address inequitable and inaccessible systems that
+contribute to some communities experiencing disproportionate climate change
+impacts; ensure fair distribution of the costs and benefits of action now and to
+future generations; and ensure meaningful participation in planning.
+To get there, we all have a role to play.
+This Climate Action Framework outlines priorities and next steps to help Minnesota achieve
+this vision. The framework also invites you, your organization, and your community to join us to
+achieve a shared vision.
+
+5
+
+Executive summary
+Climate change is happening now, and we are on course for
+more frequent, widespread, and intense weather events with
+cascading and complex effects. Communities, businesses, and
+individuals across Minnesota are acting to reduce our climatechanging pollution and build resilience against future changes.
+However, there is more work to do.
+We must act now. The international body that assesses the
+science of climate change, called the Intergovernmental Panel
+on Climate Change (IPCC), issued “a code red for humanity”
+last year, saying that urgent action is required if we are to ward
+off the worst consequences of a warming climate and keep
+global temperature increases below 1.5 degrees Celsius (about
+2.7 degrees Fahrenheit). Scientists warn that exceeding this
+temperature increase will result in long-lasting, irreversible
+changes and make parts of the planet uninhabitable. In
+addition, once we exceed those temperature thresholds,
+opportunities for successful adaptation rapidly diminish.
+A guide for the years ahead. The Climate Action Framework
+sets a vision for how Minnesota will address and prepare for
+climate change. It identifies immediate, near-term actions we
+must take to achieve our long-term vision of a carbon-neutral,
+resilient, and equitable future for our state. The framework is a
+foundational document designed to broadly guide the direction
+of climate action in the state for many years.
+
+Many people and groups weighed in. The Climate
+Change Subcabinet is publishing this framework to
+advance our conversation with Minnesotans on the work
+we all must do to reduce greenhouse gas emissions
+and build resilient communities across our state. The
+framework is informed by public input received as a part
+of previous climate work,
+as well as specific input
+received throughout the
+framework development
+process beginning in
+2021. The document
+was shaped by input
+from the 11 tribal nations
+who share Minnesota’s
+geography and the
+Governor’s Advisory
+Council on Climate
+Change. Through the
+winter and spring of 2022, the subcabinet convened
+workgroups to provide detailed input on each of the
+framework chapters. The subcabinet also shared its
+proposals broadly and received more than 130 written
+comments and nearly 3,000 responses to online surveys.
+(See Appendix 3 for more information.) All this input
+contributed to the final document.
+
+6
+
+The framework is organized
+around six goals
+1. C
+ lean transportation: Connect and serve
+all people through a safe, equitable, and
+sustainable transportation system.
+2. C
+ limate-smart natural and working lands:
+Enhance climate benefits by absorbing and
+storing carbon, reducing emissions, and
+sustaining resilient landscapes.
+3. R
+ esilient communities: Provide each
+Minnesota community with tools to plan for
+and become resilient to its unique climate
+impacts.
+4. C
+ lean energy and efficient buildings:
+Expand the use of carbon-free energy and
+create healthy, comfortable buildings that
+are cheaper to operate and pollute less.
+5. Healthy lives and communities: Protect the
+health and wellbeing of all Minnesotans in
+the face of climate change.
+6. C
+ lean economy: Build a thriving carbonneutral economy that produces goods and
+services with environmental benefit and
+equitably provides family-sustaining job
+opportunities.
+
+Within each goal
+• A
+ summary of the challenges
+• P
+ riority actions and larger
+initiatives needed to achieve
+the goal
+• M
+ easures to help gauge our
+progress
+• E
+ quity considerations and
+opportunities for addressing
+them
+Moving forward, the subcabinet
+will continue to seek input,
+report on our progress, and
+revisit and refine action
+steps as we implement the
+framework. Next steps include
+identifying lead agencies and
+setting priorities for the action
+steps in Appendix 1 and seeking
+authorities and funding as
+needed.
+
+Interconnected goals
+and collaboration
+The framework goals are
+interconnected: Work in one
+area of our lives may create
+opportunities — or challenges ­­—
+in another. We must collaborate
+across sectors to ensure that all
+outcomes are considered.
+What effect will electric vehicles
+have on demand for renewable
+energy? If we adopt newer, less
+polluting technologies, how do
+we manage the waste from the
+old technologies? Are the newer
+technologies being manufactured
+sustainably or are they creating new
+environmental challenges?
+We need a diversity of people and
+perspectives to ensure thoughtful
+and effective action. By working
+together we can address trade-offs
+and build solutions that work for all
+Minnesotans.
+
+7
+
+Summary
+
+Goals and their
+related initiatives
+Clean
+transportation
+
+Resilient buildings, infrastructure, and business:
+Help the built environment and local economies
+become more resilient to climate change.
+Clean energy and
+efficient buildings
+
+Healthy lives and
+communities
+
+Investments in emerging crops, products, and local
+economies: Support emerging agricultural and forest
+technologies and products that reduce waste, create
+jobs, and expand economic opportunities.
+
+Healthy communities: Protect communities from the
+direct and indirect health effects of climate change.
+Climate-smart public health and healthcare systems:
+Bolster public health resources and promote
+strategies to reduce GHGs from health care
+facilities.
+
+Healthy farmland: Accelerate soil health and
+nitrogen and manure management practices that
+reduce emissions and enhance carbon storage, water
+quality, and habitat.
+Sustainable landscapes and water management:
+Reduce GHGs and improve landscape resiliency
+through multipurpose water storage and
+management practices that protect farmland, water
+supplies, and infrastructure.
+
+Clean energy: Transition to 100% carbon-free,
+reliable, and affordable electrical power and heat
+through policies, investments, and partnerships.
+Smarter buildings and construction: Reduce GHG
+emissions in the building sector by promoting
+conservation, efficiency, and lower-carbon design,
+materials, and fuels.
+
+Carbon sequestration and storage in forested lands,
+grasslands, and wetlands: Manage forests, grasslands
+and wetlands for increased carbon sequestration and
+storage.
+Resilient landscapes and ecosystems: Enhance the
+ability of plants and animals, including crops, to adapt
+to the effects of climate change.
+
+Climate-smart communities: Build the capacity
+of Minnesota communities to protect against and
+withstand the effects of climate change.
+Healthy community green spaces and water
+resources: Expand and protect tree canopies;
+parks and other green spaces; and lakes, rivers, and
+wetlands that provide community resilience benefits.
+
+Connected communities: Maintain and improve
+multimodal transportation connections to reduce
+emissions and congestion.
+Clean and efficient vehicles: Accelerate the
+transition to electric vehicles, alternative fuels, and
+greater fuel efficiency.
+
+Climate-smart
+natural and
+working lands
+
+Resilient
+communities
+
+Clean economy
+
+Business innovation and entrepreneurship: Invest
+in research and development, innovation, and
+partnerships.
+Equitable access to jobs and a just transition:
+Support workers to adapt and evolve their skills
+through inclusive strategies, ensuring familysustaining jobs.
+
+8
+
+Minnesota is changing
+Minnesota’s climate has changed and will continue
+to change, affecting the health and economy of our
+communities. Frequent and intense storms — now
+occurring more often than at any time on record — are
+damaging homes, businesses, infrastructure, farms, and
+natural resources, and the trend is projected to continue.
+Record-breaking floods, like those in Duluth in 2012
+and Faribault in 2010 and 2016, have damaged streets,
+wastewater facilities, businesses, and homes, costing local
+governments, business owners, and residents millions of
+dollars in cleanup and repairs.
+Huge wildfires in Canada and the western U.S., brought
+on by changing conditions, have caused unhealthy air
+quality in our state. Minnesota lakes have lost an average
+of 10 to 14 days of ice cover in the past 50 years, affecting
+lake and fish health, outdoor recreation opportunities,
+and business owners. Climate change effects are harming
+wildlife habitat, like those of trout and walleye. Beloved
+northern tree species such as spruce, aspen, black ash,
+and birch are expected to decline. Minnesota’s state grain,
+wild rice (manoomin, psíŋ), and the habitats it supports are
+also affected. In addition, our health is threatened by more
+floods, longer allergy seasons, warmer temperatures, and
+expanded tick ranges.
+
+Minnesota is getting warmer,
+especially winter nights in
+the northern parts of the
+state.
+Change in daily average minimum
+temperature during winter (DecFeb), 1895-2021.
+
+Minnesota is getting wetter,
+especially the southern parts
+of the state.
+Annual
+precipitation
+change by
+watershed for
+2000-2019,
+compared to
+20th century
+averages.
+
+9
+
+Leading with action
+We can build climate
+solutions that work for
+Minnesota.
+
+The Climate Action Framework identifies immediate actions to help both avoid the worst impacts
+of climate change and become resilient to the changes ahead. To reduce the severity of future
+climate-change impacts, we must reduce GHG emissions in every sector of our economy by:
+• Accelerating our transition to clean energy
+• Improving energy efficiency and using clean energy in buildings and industrial processes
+• Developing more efficient modes of transportation and producing cleaner fuels
+• Reducing emissions from activities on natural and working lands
+• Building carbon storage in forests and soils
+Technological tools, such as electric vehicles, wind and solar energy, and better battery storage,
+are helping us limit climate change, while creating jobs and boosting the economy. But technology
+alone won’t solve our climate change challenges. We also need smart planning and new ways of
+working and collaborating. Investments in job training, grants to organizations to build expertise,
+and peer-to-peer learning among businesses are just some examples of how we build skills and
+create opportunities across the state. We also need to support communities planning for and
+implementing new technologies, so they are prepared to capitalize on innovations.
+Partners across Minnesota are already leading with action. Local and tribal governments
+are prioritizing climate adaptation planning, expanding urban and community forests, and
+transitioning to clean energy. Our utilities are taking bold steps to phase out coal plants and
+increase investments in renewable energy. Large and small businesses have committed to
+reducing their emissions and developing the technology that will help others worldwide reduce
+their emissions.
+
+10
+
+Climate change affects everyone,
+but some are hit harder.
+
+Let’s acknowledge: Some
+people carry a bigger
+burden.
+
+People at higher risk from climate change due to social, economic, historical, and political
+factors have less ability to prepare for, cope with, and recover from climate change impacts.
+Groups at greater risk from the effects of climate change include:
+• Indigenous people and tribal nations
+
+• People who are socially and economically
+disadvantaged
+
+• Older adults and children
+
+• Pregnant people
+
+• People with disabilities and chronic illnesses
+
+• People who are incarcerated
+
+• People in rural areas
+• People without housing
+
+• Future generations
+
+• People of color
+
+For instance, people with lower incomes; Black, Indigenous, and people of color; and tribal
+nations are exposed to higher levels of pollution due to ongoing structural racism and
+inequitable policies and decision-making processes. Conversely, some Minnesotans will benefit
+from economic opportunities related to climate change and have greater access to climatechange decision-making. Addressing these inequities and understanding the experiences of
+high-risk communities is essential to making Minnesota more resilient and prosperous.
+
+11
+
+Inequalities & climate change
+Unequal exposure to pollution: Black, Indigenous, people of color, and
+residents with low incomes are more likely to live near industrial sites
+and highways, with elevated exposure to air pollution that increases their
+vulnerability to climate-related health impacts. Children, older adults, and
+people with underlying health conditions may also see poor health outcomes
+from degraded air quality, excessive heat, increased pollen, and wildfire smoke.
+Technology deficits: Rural communities may lack access to broadband
+and other technologies, impeding their full participation in the economy,
+education, and decision-making.
+Barriers to energy-efficient housing and improvements: Long-term
+discrimination against Minnesotans of color in home buying has limited their
+access to money-saving home weatherization programs and energy-efficiency
+upgrades. Rental property owners have little incentive to invest in these
+upgrades that benefit tenants.
+Uncertain access to resources: Climate change threatens many of the natural
+resources and landscapes that Indigenous communities, recent immigrant groups,
+and others depend on for subsistence foods and deep cultural connections.
+Higher costs: Higher home energy bills during very hot summers
+disproportionately affect people with low incomes.
+
+12
+
+Working together to meet global goals
+Along with many other states and countries, Minnesota
+will work to meet the Intergovernmental Panel on
+Climate Change (IPCC) greenhouse gas reduction goals.
+This includes:
+• Reducing GHG emissions by 50% by 2030
+• Achieving net-zero emissions by 2050
+The IPCC also recognizes that climate adaptation
+reduces risk, enhances resilience, and provides cobenefits. The next 10 years is the most effective
+timespan to get this done. Once temperatures escalate
+over 1.5 degrees Celsius, opportunities for successful
+adaptation rapidly diminish.
+These global goals are ambitious. Meeting them
+will require Minnesota to increase efforts to better
+understand current conditions, improve data on GHG
+emissions and storage, implement the Framework’s
+action steps, and identify new approaches, technologies,
+and partnerships. The framework lays the foundation to
+meet these targets, but will not get Minnesota all the
+way there. To achieve these reductions, we will need the
+efforts of federal, tribal, state, and local governments,
+businesses, nonprofits, and individuals all working
+together to rapidly cut climate pollution.
+
+13
+
+The opportunity
+Acting to prevent and prepare for climate change is a chance to make
+Minnesota a better place to live for all. It is a once-in-a-generation
+opportunity to create new jobs for Minnesotans, support innovation,
+and protect our health and environment.
+We have already seen our state economy grow while decreasing GHG
+emissions. We know that investing in clean energy and a sustainable
+future will help Minnesota continue to grow and become more
+resilient and equitable for all Minnesotans. Climate action can help
+create well-paying jobs and save consumers, businesses, and taxpayers
+money.
+• W
+ eatherizing homes and buildings will employ workers, reduce
+energy use, and lower Minnesotans’ energy costs.
+• I ncreasing wind production could lower property taxes and provide
+additional revenue for rural Minnesota counties.
+• Installing and maintaining thousands of new electric vehicle
+charging stations will bring more jobs to communities across
+Minnesota.
+• E
+ xpanding our forests and urban tree canopy to reduce the impacts
+of rising temperatures will require the expertise of foresters.
+The farms, forests, grasslands, and wetlands that stretch across
+our state are natural parts of our climate solutions. Expanding
+sustainability initiatives, voluntary action incentives, and emerging
+
+14
+
+markets provide opportunities to strengthen rural economies, build
+climate resilience, deliver ecosystem benefits, protect water quality,
+improve soil health, and help our farmers and forest landowners
+continue to meet the demand for food and natural resources. We can’t
+meet our goals without climate-smart land management practices.
+Storing more carbon in both natural and working lands can help us slow
+the carbon buildup in our atmosphere.
+There will be many jobs in sectors commonly considered part of the
+growing clean economy, such as electric vehicles, energy efficiency,
+and sustainability, and expanded job opportunities in more traditional
+areas of Minnesota’s economy, such as agriculture, forest products,
+manufacturing, natural resource management, and construction.
+Across these sectors, workers will be needed to develop new products,
+implement new land management practices, grow and maintain trees,
+improve our heating and cooling systems, retrofit our existing buildings,
+engineer interconnected alternative energy systems and efficiency
+improvements, upgrade our electricity transmission grid, and more.
+
+More benefits of
+climate action
+Reducing the number of fossil-fuel vehicles on the
+road will have an immediate impact on air quality,
+especially in urban areas.
+Incentivizing regenerative agricultural helps
+farmers meet consumer demands and protects
+water quality.
+Growing native plants and shade trees reduces
+heat islands and improves air quality.
+Developing our clean economy, especially in
+underserved communities, helps bridge longstanding wealth gaps.
+
+Acting on climate change is also an opportunity to protect our
+environment and improve our health. Preserving and growing our
+forestland will store carbon and improve access to the outdoors for all
+Minnesotans. Reducing pollution from our cars can help reduce asthma
+rates and other illnesses. Building local food systems will decrease the
+climate impact of making meals while providing healthier food options
+for our communities.
+Integrating policies across all levels of government, coordinating public
+and private efforts, and including people across diverse communities
+will amplify the impact of our actions. Making progress towards our
+carbon-neutral, resilient, and equitable future is critical and depends on
+everyone making choices that meet our economic goals while reducing
+emissions and prioritizing risk reduction.
+
+15
+
+Minnesota today
+Reclaiming our role as
+climate leaders.
+
+In 2007, Minnesota was a national leader in climate action with the adoption of the bipartisan
+Next Generation Energy Act, setting statutory goals to reduce GHG emissions by 15% from
+2005 levels by 2015, 30% by 2025, and 80% by 2050. Minnesota missed its goal in 2015 and
+is not on track to meet future goals. Since 2005, overall GHG emissions have declined by
+just 8%.
+The Next Generation Energy Act also
+launched Minnesota’s efforts to track
+and analyze GHG emissions across all
+parts of our economy. Understanding
+emissions sources and trends helps the
+state identify priorities and challenges in
+reducing GHGs.
+Minnesota was once a leader on climate
+solutions, and by taking the actions
+included in this framework, we will be
+again.
+Each sector has its own challenges and
+opportunities for reducing emissions,
+and each is at a very different place in
+planning and implementing strategies.
+Electricity producers have made
+important progress towards the
+Next Generation Energy Act goals. In contrast, other sectors are just now beginning to
+understand and implement opportunities for reductions.
+
+In Minnesota, the largest sources of GHG emissions are transportation, electricity generation,
+and agriculture. While Minnesota has made important progress towards these goals in some
+sectors, we must do more to achieve our Next Generation Energy Act goals and reduce our
+contribution to global climate change.
+
+16
+
+20 years of climate action in Minnesota
+Minnesota has a strong foundation for climate action, and now is the time for our state to
+accelerate our work.
+2003: Minnesota Climate Change Action Plan: A Framework for Climate Action published.
+2007: Next Generation Energy Act created GHG emission reduction goals for the state.
+2008: Minnesota Climate Change Advisory Group publishes its final report recommending a comprehensive
+set of state-level climate policies.
+2016: Climate Solutions and Economic Opportunity report identifies near-term emission reduction
+opportunities between 2016 and 2030.
+2017: Adapting to Climate Change in Minnesota 2017 report identifies efforts by Minnesota state agencies
+to address climate change impacts. Minnesota hosts the National Adaptation Forum biennial conference.
+2019: Climate Change Subcabinet and Governor’s Advisory Council on Climate Change established.
+Governor Walz directs state agencies to engage communities and identify policies to reduce emissions
+and build resiliency. In addition, Executive Order 19-27 affirmed the State of Minnesota’s goals to
+reduce greenhouse gas emissions, waste, energy and fuel consumption, water usage, and the sustainable
+procurement of goods and services in government operations.
+2021: Legislature passes the ECO Act, a critical update to Minnesota’s Conservation Improvement Program,
+creating additional energy efficiency opportunities. Legislature also funds climate adaptation planning
+grants for local stormwater, wastewater, and other community-focused resilience projects.
+2021: Clean Cars Minnesota rule adopted, preserving access for Minnesotans to the cleanest, most efficient
+vehicles and increasing access to EVs.
+
+17
+
+What’s next
+The framework will continue
+to accelerate climate action in
+Minnesota. The conversations and
+collaboration in developing the
+framework have helped identify
+key priorities and critical next
+steps in Minnesota’s climate work.
+The framework will guide the
+state agencies’ priorities in the
+coming years. From the actions
+identified in the document, we
+will develop legislative proposals
+for new policies, programs,
+and grants. We will identify
+new data and analyses that
+must be developed and more
+conversations we need to have
+with Minnesotans.
+The following are some of the
+initial priorities for action from
+the state agencies as we begin
+implementing the framework.
+
+Building momentum
+The Climate Change Subcabinet is
+charged with ensuring meaningful
+public engagement, collaboration, and
+involvement in policy and strategy
+development and implementation. To build
+momentum for climate action, we need all
+Minnesotans to be informed, invested, and
+involved in the effort. Together, we must:
+• F
+ oster a better understanding of climate
+change and its effects, and develop skills
+for addressing it
+• H
+ arness the potential economic,
+environmental, and social benefits that
+come from taking climate action
+• S
+ eek climate solutions informed by the
+creativity and knowledge of people of all
+ages and walks of life
+
+To get there, we need to:
+• B
+ uild capacity at the state, local, and
+individual levels for climate action
+through education and training
+opportunities
+
+• R
+ aise public awareness about the
+urgency of climate change and ways to
+respond
+• Provide access to information and
+resources
+• Ensure consistent and meaningful
+opportunities for participation in
+decision-making and implementation
+especially for communities who are often
+left out of decisions that impact them
+• S
+ trengthen opportunities for
+partnerships and knowledge exchange
+to maximize our impact
+• Ensure information, opportunities
+for participation and decisionmaking, resources, and training are
+equitably distributed and actively
+include disproportionately impacted
+communities
+The good news is that these efforts can
+be great or small. They can happen at the
+State Capitol, city halls, boardrooms, or
+at the dinner table. Building momentum
+for climate action will require a diversity
+of skills, where everyone has something
+to contribute.
+
+18
+
+Moving forward, the state agencies will
+continue to engage Minnesotans to drive
+progress on the framework as well as look for
+ways to deepen and improve engagement and
+partnerships to ensure that climate action
+in Minnesota is collaborative, equitable, and
+effective.
+
+Measuring progress
+Achieving our vision will require that we track
+and report on our progress. The state agencies
+have identified key progress indicators with
+measurable targets associated with each
+goal chapter that will help us understand in
+real time whether our efforts are making a
+difference.
+We will also report on the outcomes of our
+proposed action. Which actions are being
+implemented and what progress is being
+made? What results did we achieve?
+As part of its annual update required under
+Executive Order 19-37, the subcabinet
+will report progress on implementing the
+framework to inform our action planning,
+demonstrate success, and identify areas that
+need greater investment and leadership. As
+we tackle the complexities of mitigating and
+adapting to climate change, we will continue to
+develop the data and information streams that
+best describe the work.
+
+Guiding action
+The framework is a foundational document
+designed to broadly guide the direction of
+climate action in the state for many years
+to come. The The state agencies will use the
+Framework to prioritize legislative proposals,
+administrative actions, and engagement
+efforts to advance our climate goals. We will
+use our measures of progress as well as public
+input to guide action planning.
+As the subcabinet identifies priorities and
+state agencies begin implementation of the
+Framework, we will weigh critical elements of
+our climate effort, including:
+Impact: We will use analysis and the best
+science to identify actions with substantial
+GHG reduction potential and that address the
+greatest resiliency needs.
+Equity: We will review policies and strategies
+with an equity lens, seek input and collaboration from disproportionately impacted communities, and prioritize actions with the greatest
+opportunity for improving equity.
+Economy: We will seek opportunities to grow
+our clean economy, support a just transition
+for workers and communities impacted by
+this transition, and expand well-paying jobs.
+
+How the state agencies
+will approach our work
+
+REVIEW: Reporting
+annually on measures of
+progress and progress on
+action steps.
+
+IDENTIFY opportunities:
+Analyze information from
+progress reporting and
+collect input from the
+Advisory Council and other
+members of the public.
+
+PLAN: Revisit and refine
+action steps and use
+the framework to guide
+budgetary decisions,
+policies, and legislative
+priorities.
+
+EXECUTE: Implementation
+
+Health and environment: We will prioritize
+actions that address climate change while
+also reducing other harmful pollutants that
+damage our environment and our health.
+
+19
+
+Ongoing priorities
+The subcabinet has been leading on climate action over the past
+several years by advancing policy and budget priorities in the
+Legislature and integrating climate action into the operations
+of state government. These priorities will continue in the
+upcoming year and beyond:
+Carbon-free electricity by 2040: It is an ongoing priority for
+Walz-Flanagan Administration to achieve 100% carbon-free
+electricity and 55% renewable electricity by 2040.
+Stormwater management: The state agencies, led by the
+Pollution Control Agency (MPCA), will continue to prioritize
+support for local governments and tribal nations as they adapt
+to major rainfall events by providing funding for stormwater
+planning and infrastructure investments.
+Electric vehicle adoption: The MPCA and Department of
+Transportation (MnDOT) will continue to help expand EV
+adoption through grants to electrify heavy- and mediumduty vehicles and equipment, installation of EV charging
+infrastructure, and implementation of the Clean Cars Minnesota
+rule.
+Enterprise sustainability: The state agencies lead by example
+and aim to reduce GHG emissions by 30% by 2025 from a
+2005 baseline. Priorities include purchasing EVs, installing solar
+on state properties, and improving energy efficiency of state
+buildings.
+Transportation options: MnDOT will finalize and implement the
+Statewide Multimodal Transportation Plan to expand options for
+Minnesotans to bike, walk, roll, and take transit.
+Sustainable land management: Continue to manage stateowned lands and provide technical and financial assistance to
+
+other landowners to promote sustainable land management
+practices, which enhance climate mitigation and resiliency while
+providing additional benefits.
+
+Foundational steps
+There are key areas where the subcabinet agencies will
+work to further their understanding of the current baseline,
+opportunities for action, and potential costs and benefits of
+action. Improving our understanding in these areas will provide
+critical foundational understanding for future action. The
+following are priorities for further exploration:
+Natural and working lands data: The MPCA, Department
+of Natural Resources (DNR), Department of Agriculture
+(MDA), and the Board of Water and Soil Resources (BWSR)
+will work to refine and standardize methodologies for tracking
+GHG emissions and carbon sequestration and storage on our
+landscapes. This is an emerging field of understanding and
+Minnesota has an opportunity to be a leader.
+Measures of resiliency: The state, with leadership from
+the MPCA, DNR, and the University of Minnesota Climate
+Adaptation Partnership, is working to further develop metrics to
+measure success of adaptation and resiliency strategies, which
+will help the state and local communities understand the impacts
+of adaptation actions and guide future implementation.
+Setting goals for our landscapes: In collaboration with partners
+and stakeholders, the DNR, BWSR, MDA, and other state
+agencies must establish landscape-level goals for strategic
+restoration and management of our forests, grasslands,
+wetlands, and peatlands to maximize benefits to the climate,
+our environment, and our economy. Working with tribes, local
+governments, landowners, and others will be a critical part of
+setting goals.
+
+20
+
+Leveraging federal action
+The federal government has recently adopted
+major climate-related statutes, namely the
+Infrastructure Investment and Jobs Act
+(IIJA) and the Inflation Reduction Act. These
+critical climate actions direct substantial new
+funds towards both reducing GHG emissions
+and adapting to our changing climate. These
+new investments are in addition to existing
+federal funding ­— such as Farm Bill programs,
+Pittman-Robertson Act funding, and the Land
+and Water Conservation Fund – that support
+conservation activities with multiple climate
+benefits. The subcabinet will use the framework
+to guide us as we develop plans and direct
+funds from the federal government. Some of
+the major federal policy and funding activities
+occurring in the near term include:
+National Electric Vehicle Infrastructure
+Program (IIJA): MnDOT developed and will
+begin implementing a plan that will direct
+$68 million of federal funds over the next
+five years to develop a long-distance EV fast
+charging network across the state.
+Transportation resiliency and emissions
+(IIJA): MnDOT will be developing plans
+for the Carbon Reduction Program and
+the Promoting Resilient Operations for
+Transformative, Efficient, and Cost-Saving
+Transportation Program to increase resiliency
+and reduce emissions from transportation,
+especially through multimodal transportation
+options.
+
+Community forestry (IIJA): The federal
+government is providing increased
+funding to the DNR to expand
+community tree canopy, as well as
+partner training and engagement.
+
+Advancing critical policy and
+programs
+The state agencies continue to enhance
+existing policies and programs, as well as
+explore, analyze, and engage on possible
+new policies and programs. Some of
+these critical state actions include:
+Sustainability in affordable housing:
+Minnesota Housing will enhance the
+Qualified Allocation Plan and existing
+sustainability standards for buildings
+the agency finances to improve energy
+efficiency and access to renewables,
+while reducing utility bills for residents
+and providing a healthier place to live.
+Building codes: The Department of
+Labor and Industry is conducting a
+rulemaking process to adopt the most
+current building codes for commercial
+and large multi-family residential
+dwellings, which will improve the energy
+efficiency of these buildings.
+
+practices that improve soil health and
+support a healthy climate.
+Support emerging farmers: MDA will
+explore opportunities to expand and
+strengthen existing programs that
+support access to suitable farmland for
+emerging farmers.
+Assistance to local and tribal
+governments: The MPCA plans to
+increase opportunities to develop
+and share resiliency and adaptation
+strategies, as well as best practices and
+expand community capacity through
+programs such as GreenStep Cities and
+Minnesota GreenCorps.
+Clean fuels standard: The subcabinet,
+with leadership from MnDOT and
+MDA, continues to analyze and discuss
+with stakeholders the opportunities and
+challenges of possibly adopting a clean
+fuels standard to support the use of
+cleaner transportation fuels.
+Next generation highways: MnDOT
+will explore the opportunities and
+challenges of possibly locating
+transmission lines in highway right
+of ways to efficiently expand the
+transmission of clean energy.
+
+Soil health: MDA and BWSR are
+increasing technical and equipment
+assistance to farmers to implement
+
+21
+
+The important role and
+leadership of Minnesota
+tribal nations
+The Daķota and Anishinaabe, whose cultural, spiritual,
+and economic practices are intrinsically woven into this
+landscape, hold this land sacred. The relationship that
+the Anishinaabe and Daķota people have with the natural
+environment is interwoven in cultural identity and traditional
+practices. The State of Minnesota recognizes tribal nations
+as original stewards of this land and all the relatives within it,
+who had thriving and vibrant communities prior to European
+settlement.
+
+A shared climate fate
+Today, the State of Minnesota shares geography with 11 tribal
+nations: Bois Forte Band of Chippewa, Fond du Lac Band
+of Lake Superior Chippewa, Grand Portage Band of Lake
+Superior Chippewa, Leech Lake Band of Ojibwe, Lower Sioux
+Indian Community, Mille Lacs Band of Ojibwe, Prairie Island
+Indian Community, Red Lake Band of Chippewa, Shakopee
+Mdewakanton Sioux Community, Upper Sioux Community,
+and the White Earth Nation. In addition, the Ho-Chunk,
+Cheyenne, Oto, Iowa, Hidatsa, Arikara, A’aninin, Cree,
+Blackfeet, Assiniboine, and the Sac and Fox Tribes all also
+acknowledge Minnesota as important to their tribal histories.
+The State recognizes and respects tribal sovereignty and
+
+holds itself accountable to
+counter the historical and
+contemporary injustices
+that continue to impact
+Indigenous people.
+
+Mni Sota Maķoce
+Minnesota comes from
+the Daķota name for this
+region, Mni Sota Maķoce —
+“the land where the waters
+reflect the clouds.”
+
+Due to shared geography,
+history, and people, the
+climate fate of the State
+of Minnesota and tribal nations are deeply intertwined.
+Treaties are nation-to-nation agreements among sovereign
+entities — political groups with the ability to set rules for
+their own communities, determine their own membership,
+care for their own territory, and enter agreements with other
+sovereign entities. Dakota and Anishinaabe are inherently
+sovereign as Indigenous people of this land; sovereignty isn’t
+given, nor can it be taken away. As sovereign governments,
+tribal nations have a unique relationship with the State of
+Minnesota and each tribal nation in Minnesota has their
+own individual priorities, practices, and histories. The State
+recognizes and respects the need to consult and coordinate
+with each individual tribal nation on climate actions.
+
+22
+
+Honoring our responsibility
+Tribal nations and their communities cannot remove
+themselves from their homeland and move to another
+location due to impacts from climate change. Most of the
+land in what is now Minnesota was ceded by the Anishinaabe
+and Dakota people to the United States through treaties
+that allowed the United States to remove Indigenous people
+from their original homelands and move them to smaller land
+bases. These land bases are federally and state recognized
+to this day, but the connection that Anishinaabe and Dakota
+people have to their original homelands remains. As part of
+these treaties, the Anishinaabe and Dakota people reserved
+rights to hunt, fish, and harvest from ceded lands and waters.
+The ability to exercise those treaty rights depends on clean
+water, air, and healthy ecosystems. The State of Minnesota
+must uphold treaty responsibilities in all State decisions,
+public processes, and policies by protecting the land, native
+foods, and the cultural heritage of Indigenous Minnesotans,
+including from the ravages of climate change.
+Indigenous knowledge about the interconnectedness of
+place, subsistence lifeways, and the natural world has been
+passed on for generations. In Anishinaabe and Daķota
+knowledge systems, the earth is sacred and all living beings —
+plants, animals, land, and water — are relatives and ancestors.
+Actions and decisions made by tribal nations are based on
+this holistic knowledge and also consider potential impacts
+to the next seven generations. The interconnectedness
+that tribal nations have with everything that surrounds
+them and the related teachings passed down from
+generation to generation, can be found in the principles of
+science, sustainability, resiliency, resource protection, and
+environmental health. The state respects and acknowledges
+these principles from Indigenous knowledge and will work
+
+with tribal nations on how to apply this knowledge to address
+climate change.
+
+Consultation and collaboration
+State policies have impacts on tribal nations and their
+members living within and outside of reservation and
+community boundaries. The State of Minnesota is committed
+to working with tribal governments both though formal
+consultation between government leaders and informal
+coordination and collaboration. Consultation is required by
+Minnesota Statutes 10.65, Government-to-Government
+Relationship with tribal governments, and informal
+coordination between tribal and state government staff is
+founded on those same principles.
+Climate change policies have the potential to impact
+tribal nations, and timely and meaningful consultation at
+the beginning of policy or program development, along
+with ongoing collaboration, establishes mutually beneficial
+outcomes. State and tribal governments both develop, review,
+and implement their own policies, programs, rules, and laws
+related to climate change with their jurisdiction. Consultation
+helps improve interactions across these interconnected
+regulatory structures.
+
+Supporting tribal priorities
+Each tribal nation has its own climate, environmental, health,
+and economic priorities. Often these priorities may be
+shared with the state government and are an opportunity
+to collaborate. In addition, as the State prioritizes its climate
+actions, it can elevate those that align with the priorities of
+tribal nations.
+
+23
+
+Tribal governments also often pursue environmental, energy,
+housing, and other policy priorities that reduce emissions and
+build resiliency, even when climate change may not be the
+primary purpose of the policy. Some tribal environmental,
+energy, housing, or other policy priorities may not be pursued
+explicitly to address climate change, but contribute to reducing
+emissions and building resiliency. Supporting tribal-led efforts
+across all sectors including energy, waste management, air
+quality, forestry, wildlife, carbon sequestration, fisheries, and
+others contributes to mitigating impacts of climate change and
+benefits all residents of Minnesota.
+
+opportunity, it will work to ensure tribal governments are
+eligible to apply, and that the requirements for reporting,
+matching funds, and eligibility consider Tribal needs and
+constraints.
+
+Through coordination meetings with tribal environmental
+staff, review of tribal climate assessments and plans, and
+formal tribal comments on the framework and other of
+State actions, the State recognizesseveral priorities of many
+tribal nations where there are particular opportunities for
+collaboration:
+
+Memorandums of agreement are an important
+tool to formalize collaboration between state and
+tribal governments that recognize and respect tribal
+sovereignty.
+
+Water quality is a shared priority of all tribal nations. Water
+supports and connects all life, including culturally significant
+wild rice, aquatic species, and others that support subsistence
+lifeways.
+Ensuring affordable housing and renewable energy access
+for all tribal communities and members.
+Protecting and restoring native ecosystems and important
+habitats and species where they are threatened, degraded, or
+have been lost due to climate change.
+
+Collaborative data gathering, analyzing, and sharing can
+improve outcomes for both state and tribal governments.
+The state also recognizes the importance of tribal data
+sovereignty, protection, and respectful data collection
+processes which will be determined in consultation with
+each respective tribal nation.
+
+The state recognizes the value of the time and energy
+that tribal nations and their respective tribal staff spend
+working on climate change strategies. The state will
+continue to share information with tribal nations early
+and often regarding climate actions and will continue to
+strive for just and equitable outcomes while recognizing
+and respecting tribes’ sovereign status. Climate change
+directly impacts tribal nations and communities, their
+members, and their lifeways. As the State of Minnesota
+works toward solutions to limit the impacts of climate
+change, these solutions must include the knowledge and
+voices of tribal nations.
+
+Funding is necessary for both the state and tribes to minimize
+the impacts of climate change. The state and tribes have
+the opportunity to collaborate and support each other in
+pursuit of funding. In addition, when the state creates a grant
+
+24
+
+Clean transportation
+
+GOAL
+
+1
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Connect and serve all people through a safe,
+equitable, and sustainable transportation system
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Transportation is the number one
+source of greenhouse gases in Minnesota. Land use
+patterns and unsafe, inconvenient, and unaffordable
+alternatives to driving alone make car travel the first
+choice for many. Most cars are powered by fossil
+fuels and produce health-harming air pollution with
+disproportionate effects on communities close to
+traffic corridors. Climate change impacts are also
+damaging transportation infrastructure.
+
+Increase funding for nonmotorized transportation.
+Direct resources towards
+a statewide pedestrian and
+bicycle network.
+
+The vision Minnesota’s transportation system is
+sustainable, resilient to a changing climate, and
+supports equitable transportation options for all
+Minnesotans. Air pollution is reduced, especially in
+communities most affected by it. Walking, biking,
+rolling, and transit options are accessible, safe, and
+plentiful.
+
+Increase transit services.
+Create more reliable and
+convenient transit networks,
+prioritize services in
+communities where transit
+is essential and residents are
+disproportionately affected
+by air pollution.
+
+Plan land use and
+transportation together.
+Prioritize land use that
+facilitates multimodal
+transportation options.
+
+25
+
+CLEAN TRANSPORTATION
+
+Priority
+actions
+
+Measures
+of
+progress
+
+GOAL 1
+
+MN CLIMATE ACTION FRAMEWORK
+
+Continue exploring
+opportunities for a clean
+fuels standard. Incentivize
+investment and create
+markets for cleaner fuels,
+such as advanced biofuels,
+renewable natural gas,
+sustainable aviation fuels, and
+electricity.
+
+Reduce GHG
+emissions from the
+transportation sector
+80% by 2040.
+
+Expand regional charging.
+Coordinate with neighboring
+states, tribes, and other
+partners to establish a
+Midwest regional EV charging
+network.
+
+Decrease vehicle
+miles traveled 20%
+per capita by 2050.*
+
+Develop a Minnesota EV plan.
+Create a strategy to increase
+EV-charging infrastructure
+and EV access and availability.
+Educate communities about
+the benefits of EVs.
+
+Reach 20% EVs on
+Minnesota roads by
+2030.
+
+*This target was proposed as part of
+the Statewide Multimodal Transportation Plan and will be finalized
+after public input on that plan.
+
+26
+
+CLEAN TRANSPORTATION
+
+GOAL 1
+
+CONTEXT
+
+MN CLIMATE ACTION FRAMEWORK
+
+Transportation sector 2018
+
+The largest sector
+
+by source of GHGs
+
+The transportation sector is
+the largest source of GHGs in
+Minnesota, accounting for about
+a quarter of total emissions. GHG
+emissions from transportation have
+decreased by about seven percent
+since 2005, but have leveled off
+since 2016.
+Within transportation, more
+100% of MN
+than 70% of emissions come
+transportation
+from passenger vehicles. More GHG
+emissions
+stringent tailpipe emissions
+standards helped lower
+vehicle GHG emissions, but
+consumers increasingly own larger
+vehicles and drive them more miles,
+hampering emission-reduction
+efforts.
+
+Light-duty trucks 38%
+
+Passenger cars 20%
+
+Heavy-duty trucks 16%
+
+Multimodal transportation options
+Supporting different modes of transportation,
+like walking, biking, and transit, as well as
+access to high-quality broadband can reduce
+emissions. Increased access to diverse types
+of transportation facilities and networks
+supports those who rely on driving alternatives
+due to disability, age, economics, or personal
+preference. We can add new and complete
+existing walking, biking, and transit networks in
+our state.
+Electric vehicles
+Replacing vehicles with electric versions will
+reduce carbon pollution. EV sales will increase as
+more manufacturers transition to producing only
+EVs. Minnesota has more than 1,300 EV chargers,
+but more are needed for a fast and reliable
+charging network that supports EV users in all
+parts of the state. We
+must also explore ways
+to power EVs with clean
+energy and recycle EV
+batteries, to further
+reduce their impact on
+the environment.
+
+Aviation 10%
+Natural gas transmission 5%
+Marine & railroad 4%
+Off-highway 4%
+Air conditioning 3%
+Other on-road 1.3%
+(bus, motorcycle, RV)
+
+Minnesota is building out a
+network of EV fast chargers
+along highway corridors.
+
+27
+
+CLEAN TRANSPORTATION
+
+GOAL 1
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Make a cleaner, low-carbon transportation future
+Minnesota’s future transportation system will be safer, cleaner, and more comfortable, affordable,
+and convenient for all users, whether they drive, bike, walk, roll, or meet their needs virtually
+without transportation.
+
+Initiative 1.1
+
+Connected communities
+Maintain and improve multimodal transportation connections to reduce emissions and
+congestion.
+Create more opportunities for biking, walking, transit, and telecommuting
+Improving infrastructure for biking, walking, transit, and telecommuting will make these options
+more reliable, safe, convenient, and affordable. For example, building bike lanes with increased
+separation from vehicles make them safer and more comfortable for riders of all skill levels.
+Expanding high-speed internet coverage can enable telecommuting and less driving. Safe walking
+environments and expanded transit networks with increased service will benefit everyone. To
+successfully encourage multimodal transportation, we must understand Minnesotans’ needs and
+preferences, provide education, and demonstrate success.
+ lan land use that supports multimodal transportation
+P
+Climate-smart land use can make both communities and transportation safe, pleasant,
+convenient, and affordable to bikers, pedestrians, and transit riders.
+Maximize resiliency and GHG mitigation in infrastructure projects
+Choosing the right materials, equipment, and work practices can minimize the carbon footprint
+of transportation construction projects. Coordinating other improvements, such as broadband
+expansion and stormwater management, with those projects provides added benefits.
+
+28
+
+CLEAN TRANSPORTATION
+
+Initiative 1.2
+
+GOAL 1
+
+MN CLIMATE ACTION FRAMEWORK
+
+Clean and efficient vehicles
+Accelerate the transition to electric vehicles, alternative fuels, and greater fuel efficiency.
+Increase the use of clean fuels, including lower-carbon biofuels
+Cleaner fuels such as electricity, hydrogen, and advanced biofuels, can reduce GHGs and other
+emissions from vehicles. Hydrogen and advanced biofuels may be particularly helpful in reducing
+emissions from heavy-duty vehicles and other hard to electrify modes, such as air travel. Both
+electricity and biofuels can get cleaner with investments in renewable energy and advanced
+industrial technology.
+ xpand EV charging infrastructure
+E
+To enable all Minnesotans to drive electric, we need to expand the network of EV charging
+stations across the state using public and private investments.
+I ncrease EV availability and access
+EVs must be widely available and affordable to encourage consumers to make the switch.
+Providing incentives and supporting dealerships in supplying a wide variety of EVs will encourage
+EV adoption.
+ ccelerate the transition to EVs and clean transportation
+A
+Opportunities for EV ownership, EV-related jobs, and clean transportation investment are
+expanding. Supporting the transition will require educating consumers about EVs in partnership
+with auto dealers, especially in underserved communities, training the clean transportation
+workforce, and attracting transportation investment.
+I mprove vehicle efficiency and emissions standards
+State and federal rules can require improved vehicle efficiency and reduced emissions from new
+vehicles. GHG emissions go down over time as older vehicles are replaced with new, cleaner ones.
+Programs can encourage more rapid replacement of older vehicles.
+
+29
+
+CLEAN TRANSPORTATION
+
+GOAL 1
+
+MN CLIMATE ACTION FRAMEWORK
+
+We all have a role
+Transportation touches all Minnesotans and all
+parts of our economy. We all have a role to play in
+achieving a cleaner transportation system.
+• Federal, state, tribal, and local governments must
+work together to plan, fund, and build a resilient transportation
+system that prioritizes safe, affordable, and clean multimodal
+transportation options.
+• Governments, businesses, and non-profits must invest in
+expanding the infrastructure needed to support active
+transportation, low-carbon fuels and electric vehicles.
+• Organizations can use education and incentives to encourage
+employees and visitors to choose cleaner transportation
+options.
+• Individuals can walk, roll, bike, take transit, telecommute,
+consolidate short trips, rideshare, and prioritize electric options.
+Individuals can also call on government bodies to implement
+infrastructure improvements.
+
+Benefits of shared action
+Connected communities, low-carbon
+fuels, and clean vehicles support many
+additional benefits:
+• Jobs in clean fuel infrastructure and clean
+transportation manufacturing
+• Healthier communities from more active
+transportation and reduced pollution
+• Safer communities with fewer traffic crashes
+• More accessible transportation that supports
+people of all physical abilities
+• Cleaner air and water
+• Economic growth in rural communities
+
+Big impacts
+Which actions
+will achieve the
+largest GHG
+reductions?
+
+• Transitioning to cleaner fuels, including electricity and biofuels, through incentives and policies
+such as a low carbon fuel standard
+• Increasing EV adoption by making EVs more affordable, requiring and incentivizing
+manufacturers to sell EVs in Minnesota, and expanding charging infrastructure
+• Increasing efficiency of vehicles fueled by traditional fuels, such as gasoline and diesel, so they
+pollute less
+
+30
+
+CLEAN TRANSPORTATION
+
+GOAL 1
+
+MN CLIMATE ACTION FRAMEWORK
+
+EQUITY
+Transportation is critical for Minnesotans to access jobs, education, healthcare, recreation, family,
+and more. An equitable transportation system would fairly and justly distribute the benefits and
+burdens of transportation spending and services, and ensure that all Minnesotans can travel safely,
+conveniently, and affordably. Understanding how transportation services and decision-making help
+or hinder people in underserved communities is necessary to create equitable clean transportation
+strategies.
+Rural areas have fewer reliable, safe, and practical options for transportation, such as public
+transit and non-motorized transport. More older adults and those with lower incomes live in
+rural areas, and they need reliable and affordable transportation options. Investments in cleaner
+fuels, EV infrastructure, and alternative modes of transportation, where feasible, can help rural
+communities thrive and transition away from internal combustion engines. Supporting cleaner-fuel
+development can ignite new businesses in rural areas and create new jobs.
+Historically and today, low-income communities and communities of color disproportionately
+bear the burdens of our transportation system without having fair and just access to its benefits. In
+Minnesota, Black, Indigenous, people of color, and lower-income individuals are exposed to higher
+levels of air pollution as a result of an ongoing history of structural racism. Inequitable policies
+such as racial covenants, redlining, the destruction and division of Black neighborhoods to build
+Interstates 94 and 35W, and zoning and permitting decisions that concentrate pollution sources
+in marginalized communities continue to cause harm. As a result, the health of residents in these
+communities is at risk from traffic pollution, noise, and physical hazards, such as crashes.
+As Minnesota plans for climate action, we must address these inequities and redress past harms by
+prioritizing investments in infrastructure and improved transportation options for populations that
+have historically been underserved or harmed by our transportation system.
+
+31
+
+Climate-smart natural
+and working lands
+
+GOAL
+
+2
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Enhance climate benefits by absorbing and storing carbon,
+reducing emissions, and sustaining resilient landscapes
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Long-term trends in climate and
+weather patterns, such as increasing temperatures
+and more extreme rain events, present formidable
+challenges to management of natural and working
+lands. Certain activities on our working lands, as
+well as conversion of our native landscapes to more
+intensive uses are also significant sources of GHGs.
+
+Accelerate forest, grassland
+and wetland restoration
+to store more carbon in
+our landscapes, and avoid
+conversion to other land uses
+that reduce carbon storage.
+
+The vision Healthy natural and working lands
+absorb and store more carbon, produce food and
+other products, sustain local economies, enhance
+climate resiliency, and improve the quality of life for
+Minnesotans.
+
+Store more carbon. Promote
+actions that store more
+carbon on croplands, in yards
+and open spaces, and on
+public lands.
+
+Restore and expand habitat
+complexes and corridors.
+Increase species diversity to
+promote climate resiliency
+and adaptation of natural
+landscapes.
+
+32
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+Priority
+actions
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+Expand climate-resilient
+agriculture and forestry.
+Incentivize beneficial practices
+and assist in implementation,
+including increased access to
+technologies, equipment, and
+seed and plant material.
+
+Manage agricultural lands
+in a way that reduces GHG
+emissions, particularly potent
+gases such as methane and
+nitrous oxide.
+
+Measures
+of
+progress
+
+By 2035, increase by
+25% the amount of
+carbon sequestered
+and stored annually in
+natural and working
+lands, compared to
+2014-2018 average
+levels.
+
+Increase water storage and
+infiltration, and manage
+drainage. Reduce runoff and
+minimize downstream flooding,
+erosion, and habitat loss.
+
+Invest in new markets
+and supply chains for
+crops and that keep soil
+covered year-round, and
+for wood products that
+increase carbon storage and
+substitute for more fossil
+fuel-intensive materials.
+
+Prioritize groundwater and
+drinking water protection in
+vulnerable areas.
+Promote local and
+community-based agriculture
+to reduce transportation
+needs and increase food
+access, especially in
+underserved communities.
+
+By 2035, reduce
+annual GHG emissions in the working lands sector
+by 25% from 2018
+levels.
+
+By 2030, all statefunded or sponsored
+land, water, and
+species management
+plans identify
+actions to increase
+adaptation.
+
+33
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+CONTEXT
+Storing carbon and reducing emissions
+
+Minnesota’s varied landscapes — croplands, pastures, forests, woodlands, prairies,
+wetlands, and our more than 10,000 lakes — are part of our identity. They are also an
+essential part of our climate solution. An acre of grassland can hold as much as 78 tons
+of carbon while an acre of mature evergreen forest can hold up to 140 tons. Harvested
+forest products store carbon — sometimes for long periods of time — and can replace
+fossil-fuel-intensive products. We also have opportunities to reduce GHG emissions
+on agricultural lands from fertilizer, livestock, and energy use, while storing carbon in
+healthy soils.
+
+Economically viable solutions
+
+The expense of changing land management practices and adopting new technologies
+can be prohibitive, particularly for family-owned farms. We must identify innovations
+that benefit the climate and avoid undue financial risks for landowners. We must also
+choose the best solutions for all types of landscapes, based on site conditions, climate
+vulnerability, market conditions (for timber and agricultural lands), and government
+policies and practices.
+
+Additional research
+
+Our understanding of how land use practices affect climate change is rapidly evolving,
+though we have a solid basis for immediate actions. We need further research to
+explain how GHGs flow into and
+out of landscapes, and to identify
+effective ways to make natural
+and working lands more resilient
+to climate change. Filling these
+gaps in our knowledge will help
+support strategic decision-making,
+investments, policy development,
+and goal setting.
+
+Land and water
+stewardship
+The actions we take to reduce GHG
+emissions and sequester carbon on
+natural and working lands — such as
+soil health initiatives, water retention
+projects, and certain forestry
+practices — also enhance our ongoing
+land and water protection efforts.
+The added benefits include improving
+habitat for wildlife, pollinators, and
+endangered species; protecting food
+production; and safeguarding water
+quality.
+Many landscapes are both “working”
+and “natural.” Natural lands may
+provide critical fishing, hunting,
+and gathering resources, especially
+for tribal nations and Indigenous
+communities. Agricultural and other
+developed landscapes, including
+yards, can support native plant and
+animal species. Integrating tribal
+perspectives, traditional ecological
+knowledge, and culturally important
+species and foodways into our efforts
+to address climate change will ensure
+that we consider both the needs of
+people and the needs of landscapes
+and ecosystems.
+
+34
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Innovative approaches to create a more resilient landscape
+Minnesota’s agricultural and natural lands will increasingly absorb and store more carbon while
+producing food and other products, sustaining local economies, and improving quality of life
+around the state.
+
+Initiative 2.1
+
+Carbon sequestration and storage in forested lands, grasslands,
+and wetlands
+Manage forests, grasslands, and wetlands for increased carbon sequestration and storage.
+ aintain, expand, and actively manage forestlands
+M
+Active forest management promotes carbon uptake, adapts forests to current and future climate
+stressors such as pests and diseases, and reduces emissions from wildfires. Maintaining existing
+forests and expanding forest cover where appropriate strengthens the carbon sink.
+Protect, restore, and manage peatlands and other wetlands
+Peatlands (bogs and fens) hold some of Minnesota’s largest carbon reserves, but emit large
+quantities of carbon when ditched and drained. Protecting existing peatlands and other wetlands,
+and restoring drained, farmed or pastured peatlands and wetlands will increase carbon storage.
+ rotect, restore, and manage grasslands
+P
+Grasslands with high native plant diversity are more beneficial for wildlife and pollinators, and
+store more carbon, than low-diversity grasslands. Grasslands are important to ecosystems and to
+livestock production.
+Encourage individual actions that increase carbon storage
+Most landowners and managers can take steps to store more carbon and boost climate resilience,
+with pollinator plantings, neighborhood gardens, community boulevard trees, woodland
+stewardship projects, and more. The improvements can be accomplished almost anywhere, from
+residential and commercial landscaping to small woodlots or city parks.
+
+35
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+Initiative 2.2
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+Resilient landscapes and ecosystems
+Enhance the ability of plants and animals, including crops, to adapt to the effects
+of climate change.
+ onserve and enhance biodiversity
+C
+Landscapes with high native plant diversity provide the best wildlife and pollinator habitat, the
+most resistance to invasive species, and the greatest adaptability to climate change.
+Use land management practices that enhance climate resilience
+Certain timber harvest, soil health, grazing, and other land management practices can enhance
+climate resiliency, create wildlife habitats, and contribute to the economy. Strategic habitat
+restoration helps connect plant and wildlife populations.
+ romote the benefits of natural lands in climate adaptation
+P
+Natural landscapes that effectively store and filter water, reduce erosion, and support habitats
+also provide economic and cultural benefits to the state, including livestock, timber, recreation,
+and tourism.
+
+Initiative 2.3
+
+Healthy farmland
+Accelerate soil health and nitrogen and manure management practices that reduce emissions and
+enhance carbon storage, water quality, and habitat.
+Increase organic carbon content and reduce erosion
+Practices such as cover crops, conservation tillage, diverse crop rotations, buffers, shelterbelts,
+and hedgerows can help to store carbon in soils, reduce use of nitrogen fertilizers, and improve
+resilience to precipitation fluctuations. Emerging practices such as the use of green fertilizers and
+biochar on cropland and pastureland are promising options.
+Manage fertilizer and manure to reduce emissions
+The nitrous oxide produced from nitrogen fertilizer and manure is about 300 times more
+powerful as a GHG than carbon dioxide. The methane in manure is about 30 times more
+powerful. Precision agriculture, plant selection, and breeding, soil amendment technologies,
+nitrification inhibitors, split nitrogen fertilizer applications, and similar nutrient management
+practices can reduce nitrous oxide emissions. Advanced technologies for manure management,
+
+36
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+such as acidification and anaerobic digestion, can reduce methane emissions. Proper nutrient
+management also provides agronomic benefits and improves profitably.
+Manage land for multiple benefits
+Helping farmers combine climate-resilient best management practices through programs such
+as the Minnesota Agricultural Water Quality Certification Program and various state and USDA
+conservation programs can improve profitability while decreasing emissions and improving soil
+health, water quality, and wildlife habitat.
+
+Initiative 2.4
+
+Sustainable landscapes and water management
+Reduce GHGs and improve landscape resiliency through multi-purpose water storage and
+management practices that protect farmland, water supplies and infrastructure.
+Manage agricultural landscapes to hold nitrogen and retain rainfall and snow melt
+Planting native vegetation, cover crops, and perennial crops in source water protection areas can
+promote infiltration, store more carbon, reduce nitrous oxide emissions, and protect drinking
+water supplies.
+Manage agricultural landscapes to hold water and reduce runoff
+Climate change is making Minnesota’s climate wetter, with more frequent and higher-intensity
+storms. Water storage and treatment in targeted areas can reduce downstream flooding and
+erosion. Practices such as wetland and floodplain restoration, drainage water management, and
+buffer establishment can build resiliency by reducing flow rates and velocities, improving stream
+stability, and enhancing wildlife habitat.
+
+37
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+Initiative 2.5
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+Investments in emerging crops, products, and local economies
+Support emerging agricultural and forest technologies and products that reduce waste, create
+jobs, and expand economic opportunities.
+Invest in climate-smart agriculture and develop markets for climate-benefitting products
+Supporting end markets for cover crops and perennial crops that keep soil covered in spring and
+fall, increase carbon storage, and decrease use of nitrogen fertilizer can encourage farmers to
+plant them and boost local economies. Minnesota can be a leader in developing technologies and
+products for climate-smart agriculture, such as plant and soil amendments that decrease nitrous
+oxide while increasing nitrogen use efficiency; manure management practices that decrease
+methane emissions; and fuel, fertilizer, and fiber products that capture, repurpose, or sequester
+carbon.
+Promote forest products that store carbon and reduce GHG emissions
+Long-lived wood products, such as building materials, store carbon for the life of the product.
+Many emerging forests products — engineered wood, biochemicals, biofuels, and environmental
+remediation products — are low-carbon substitutes for fossil-fuel-intensive products. Extracting
+energy from waste wood and wood residuals can diversify forest-product markets and reduce the
+need for energy from other sources.
+Support local food markets, urban agriculture, and emerging farmers
+Food produced and consumed locally can reduce emissions from transportation of goods. It
+can also support local farmers and entrepreneurs, promote economic vitality, and provide
+underserved communities with access to healthy, fresh food, and economic opportunities.
+Reduce waste and promote beneficial use of materials
+Increasing composting as an agricultural practice will enhance soil health. Supporting local and
+regional composting programs, zero waste challenges, and beneficial uses of waste wood will
+contribute to emission reductions.
+
+38
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+Big impacts
+Which actions
+will achieve the
+largest GHG
+reductions?
+
+• Applying agricultural
+practices to reduce emissions
+and sequester carbon.
+
+• Protecting, restoring, and
+managing grasslands and
+wetlands to sequester more
+carbon.
+
+We all have a role
+How our parks, yards, agricultural lands, forests,
+wetlands, and grasslands are managed affects our
+climate and our quality of life. We all have a role to play
+in managing, protecting, and restoring our natural and
+working lands.
+• Businesses, educational institutions, and governments must
+fund research to find and develop climate-smart land practices,
+educate landowners on their use and benefits, and support
+workforce training and development in these areas.
+• Governments and organizations can protect key natural lands
+and implement best practices such as green infrastructure on
+developed lands.
+• Individuals can purchase locally produced food and consumer
+goods, reduce food waste, and plant and tend trees and native
+plants.
+
+• Increasing carbon
+sequestration and storage in
+forests and harvested wood
+products.
+
+Benefits of shared action
+Climate-smart natural and working land
+management supports a broad array of
+additional benefits, including:
+• Reduced surface and groundwater pollution, which
+helps protect drinking water and keeps lakes and
+rivers swimmable and fishable
+• Stronger agricultural, forest, recreation, and
+tourism economies, especially in rural communities
+• A more resilient food supply that supports healthy
+lives, especially in underserved communities
+• Healthy native plant and animal communities
+• Natural lands that serve our cultural, recreational,
+health, and spiritual needs
+
+39
+
+CLIMATE-SMART NATURAL AND WORKING LANDS
+
+GOAL 2
+
+MN CLIMATE ACTION FRAMEWORK
+
+EQUITY
+Opportunities to benefit from Minnesota’s natural and working lands are not
+equitably distributed. Structural injustices have historically influenced land access,
+ownership, management, and protection. Tribal nations have lost treaty-protected
+resources and rights due to inequitable policies such as the 1889 Nelson Act.
+Underserved racial and ethnic populations have also been disproportionately
+affected by limited access to nature, exposure to pollution, lack of shared decisionmaking, and inequitable land ownership and land use laws and practices. Agricultural
+opportunity has not been equally accessible to all Minnesotans due in part to laws
+and programs, such as the 1862 Homestead Act, which distributed essentially free
+land to mostly white Americans and immigrants, and 20th-century U.S. Department
+of Agriculture grant and loan programs, which had documented racial bias in their
+distribution. Challenges continue today, including access to capital, government
+programs, and land.
+While acting to address climate change, we must also address these inequities by:
+• Removing barriers
+to participation
+in sustainable
+farming and timber
+production, such
+as lack of access to
+capital and land.
+
+• Developing
+career paths and
+employment
+programs for urban
+populations who are
+underrepresented
+in agriculture,
+forestry, and natural
+resource conservation
+professions.
+
+• Increasing access
+to healthy food,
+especially in
+underserved
+communities, to
+improve community
+health, reduce
+emissions, and support
+local economies.
+
+• Ensuring all
+Minnesotans have
+access to, and feel
+welcome in, natural
+lands and open spaces,
+especially publicly
+owned lands.
+
+• Preserving and
+protecting traditional
+cultural resources and
+outdoor spaces.
+
+40
+
+Resilient communities
+
+GOAL
+
+3
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Provide each Minnesota community with tools to plan
+for and become resilient to its unique climate impacts
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Communities experience a variety
+of climate-change effects, including wastewater
+releases, stormwater flooding, shoreline erosion,
+drought, and more. Solutions must be tailored to
+each community’s needs.
+
+Provide more resources for
+adaptation. Expand funding,
+staff capacity, technical
+support, and training for
+planning and implementation
+of adaptation and resiliency
+projects.
+
+The vision Communities across Minnesota have the
+resources and support to plan for and implement
+projects to build a more resilient future for
+themselves. Physical infrastructure, natural systems,
+and communities are more prepared for climate
+impacts and can recover from extreme events.
+
+Increase capacity of the
+GreenStep Cities program.
+Share resilience best
+practices and adaptation
+resources and expand pilot
+programs that include tribal
+nations, schools, counties,
+and townships.
+
+Plant climate-ready trees
+and preserve mature
+trees. Climate-ready tree
+species are well-adapted
+to challenges such as heat,
+drought, extreme weather,
+and pests. Along with mature
+trees, they decrease energy
+use in homes and buildings
+and mitigate heat islands.
+They should be used to
+replace diseased trees.
+
+41
+
+RESILIENT COMMUNITIES
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+Priority actions
+Expand green infrastructure and stormwater management
+control flooding, restore
+lost habitat, and improve
+water quality.
+
+Measures
+of
+progress
+
+Adopt resilient
+building policies.
+Adopt provisions in
+construction and
+remodeling codes that
+prioritize adaptive reuse,
+and create resilient
+design standards.
+
+By 2030, 100% of
+Minnesotans live in
+communities with
+plans that identify
+climate risks and
+actions to build
+resiliency.
+
+Assess vulnerabilities
+at critical facilities. Use
+climate projections to
+predict future hazards
+and make plans to ensure
+continuity of operation.
+
+By 2026, at least
+25 adaptation
+projects that
+increase
+community
+resiliency are fully
+funded.
+
+Combat heat islands.
+Provide funding and
+technical assistance
+to help communities
+reduce their urban heat
+island effect.
+
+Achieve 30% overall
+tree canopy cover in
+Minnesota communities by 2030 and
+40% by 2050.
+
+42
+
+RESILIENT COMMUNITIES
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+CONTEXT
+
+Urban heat
+In urban space, hard surfaces and buildings
+absorb and radiate heat, which can increase
+temperatures significantly. This is called the
+heat island effect. Green infrastructure,
+including growing and maintaining trees and
+making smart land use decisions, can help offset
+and lower temperatures and reduce the heat
+island effect.
+Land surface
+Land Surface Temperature,
+Twin Cities Metro Area
+temperature
+Twin Cities Metro
+Temperature in Degrees
+Fahrenheit
+
+July 22, 2016 at 12:00 PM CDT
+
+ANOKA
+
+High : 125.21
+
+Extreme weather effects
+Communities must manage the
+cleanup and repair of the flood
+damage, infrastructure failure,
+downed trees, and other destruction
+that comes with increasingly
+frequent and intense storms.
+Climate adaptation strategies can
+be implemented at the individual
+and community levels. Collective
+adaptation action protects and
+sustains local assets and services that
+are fundamental to a community’s
+prosperity.
+
+Aging infrastructure
+Many communities have aging and
+inadequate water infrastructure
+(stormwater systems, sewers,
+septic systems, and wastewater
+treatment plants) that can’t handle
+this extreme precipitation. The
+result is flooded streets, sewage
+backing up into homes and
+businesses, wastewater treatment
+system overflows, and millions of
+dollars in damages to public and
+private property. Development of
+resilient design standards can help
+communities build and upgrade
+infrastructure to better handle
+current and future climate impacts.
+
+July 22, 2016, 12 p.m.
+
+Low : 74.17
+
+High: 125F
+
+WASHINGTON
+
+Low: 74F
+RAMSEY
+
+HENNEPIN
+
+CARVER
+
+SCOTT
+
+0
+
+5
+
+10
+
+DAKOTA
+
+15
+
+20
+
+1/5/2018
+
+Miles
+
+County Boundaries
+City and Township Boundaries
+Lakes and Major Rivers
+
+Support for communities
+National Wetlands Inventory
+
+Cities, towns, and residents need support to
+assess vulnerabilities and identify, plan, and
+implement climate resiliency projects. We
+must provide data, resources, and technical
+assistance.
+
+43
+
+RESILIENT COMMUNITIES
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Minnesota communities will be prepared for the effects of climate change
+Local planners will have the data, tools, and technical expertise they need to implement
+community-specific adaptation actions and increase resilience, including equity-based solutions.
+
+Initiative 3.1
+
+Climate-smart communities
+Build the capacity of Minnesota communities to protect against and withstand the effects of
+climate change.
+ rovide needed technical assistance, tools, maps, and data
+P
+Communities need resources and support for asset management, risk assessment, adaptation,
+and resilient metrics and performance measurements. Adaptation technical assistance and tools
+provide communities with access to expertise, enable them to evaluate and implement strategies,
+and expand their capacity to pursue funding. Maps show flood-prone areas, key infrastructure,
+community assets like hospitals and parks, and areas most vulnerable to climate change. High
+quality climate-projection data, along with data on past and current temperature, humidity,
+precipitation, air quality, and drought, also help communities with resilience planning.
+ eliver necessary funding
+D
+Federal, state, and local funds will be invested in building community resilience, and
+supplemented by private funding sources.
+Share best practices through learning networks
+Create community connections to circulate successful adaptation strategies and project results.
+Build community capacity through GreenStep Cities, Minnesota GreenCorps, and the University
+of Minnesota Climate Adaptation Partnership. Expand pilot programs with tribal nations, schools,
+counties, and townships.
+
+44
+
+RESILIENT COMMUNITIES
+
+Initiative 3.2
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+Healthy community green spaces and water resources
+Expand and protect tree canopies; parks and other green spaces; and lakes, rivers, and wetlands
+that provide community resilience benefits.
+ xpand tree planting and preservation
+E
+Planting and preserving shade trees in urban areas is a remedy for heat island effects that helps
+decrease energy use in homes and buildings. Increasing tree canopy — and engaging residents
+in planning and decision-making — is especially important in low-income and marginalized
+communities. Planting climate-ready trees and managing tree stressors, such as emerald ash
+borer, are important parts of the overall strategy.
+ lant beneficial vegetation on urban land
+P
+Parks, community gardens, yards, and other public and private green spaces have underused
+potential for lowering temperatures, providing habitat, and managing stormwater. Growing native
+and climate-adapted species in these areas can also support pollinators, protect biodiversity, and
+boost ecosystem resiliency and the food web.
+ rotect and improve water quality and quantity
+P
+Minnesota’s groundwater and our many lakes, rivers, and wetlands support ecosystems, provide
+drinking water, offer recreation, sustain industries and food producers, and bear important
+cultural and spiritual significance for us. We must take action to counteract the precipitation and
+temperature changes and other climate change effects that threaten water quality and quantity.
+
+Initiative 3.3
+
+Resilient buildings, infrastructure, and business
+Help the built environment and local economies become more resilient to climate change.
+ lan for climate adaptation in residential and commercial development
+P
+Buildings must be able to withstand the extreme precipitation, flooding, extended heat waves,
+urban heat islands, and grid failures caused by climate change. Building codes, permits, and
+policies for land use, new construction, and rehabilitation should encourage or require adaptive
+planning. New research, innovation, and design standards are needed to ensure buildings are
+climate resilient.
+
+45
+
+RESILIENT COMMUNITIES
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+ und resilient infrastructure and critical facilities
+F
+We must support the building and maintenance of climate-ready water and wastewater treatment
+facilities, hospitals, energy infrastructure, roadways, and other critical facilities and infrastructure,
+to ensure they are accessible and continue to operate during and after extreme weather.
+ xpand green infrastructure and stormwater management
+E
+Using plants, soils, and permeable surfaces to reduce runoff and divert it from storm drains can
+help restore lost habitat, control flooding and manage intense rain events, improve water quality
+and watershed health, protect infrastructure, and provide other benefits to vulnerable people.
+ educe the urban heat island effects
+R
+Cities and towns of all sizes need funding and technical assistance to reduce urban heat island
+effects. Replacing or limiting hard surfaces, adding green infrastructure, and preserving mature
+trees will significantly lower temperatures and reduce the impacts of excessive heat. Investments
+should be prioritized to address local vulnerabilities, equity, and impact.
+Support adaptation for local businesses
+Providing better access to capital and technical expertise will help small businesses plan for
+effects such as unseasonable conditions, flooding, or supply chain disruptions due to extreme
+weather. Some industries, such as construction and remodeling, may see opportunities in building
+climate-resiliency knowledge and skills and supporting community adaptation efforts.
+
+46
+
+RESILIENT COMMUNITIES
+
+GOAL 3
+
+MN CLIMATE ACTION FRAMEWORK
+
+We all have a role
+Building resiliency will require
+localized planning, and action
+and expertise from federal, state,
+tribal, and local governments,
+researchers, businesses, and
+community members.
+• Federal, state, tribal, and local governments
+need to collaborate to develop, share, and
+use the data necessary for analyzing and
+planning for climate impacts.
+• Educational institutions and organizations
+can provide training and technical expertise
+to help communities understand their
+vulnerabilities to climate change and
+implement strategies to build resilience.
+
+Benefits of shared action
+Action to build resilience and adapt to climate change can
+also support:
+• Resilient ecosystems that provide habitat, protect water quality,
+promote the inherent value of wildlife and plants and their right to
+exist, and support tribal hunting and gathering.
+• Jobs in emergency preparedness, community resource and asset
+management, and planning and implementing resilience projects,
+particularly for stormwater and wastewater systems.
+• Parks, natural areas, and community forests that nurture community
+well-being and require less energy to maintain.
+• Well-designed buildings, critical facilities, and infrastructure that
+require less ongoing funding and repair.
+• Residents feeling safe and healthy in their communities.
+
+47
+
+EQUITY
+Communities of color and lower income communities are often least able to invest in
+adaptive strategies. Historical policies of housing segregation, such as redlining and
+mortgage discrimination, have caused housing insecurity in these communities, which
+are often located on land vulnerable to flooding, erosion, and other climate change
+impacts. Minnesotans with fewer financial resources and renters are less able to make
+home upgrades, maintain their indoor air quality, and safely and affordably heat and
+cool their homes.
+Under-investment in these communities means that they often have fewer trees and
+parks and are more vulnerable to urban heat islands. We must prioritize the needs of
+climate-vulnerable communities and ensure their meaningful involvement and fair
+treatment at all stages of adaptation planning and implementation.
+An equitable transition to a more resilient Minnesota will:
+• Prioritize engagement
+of front-line
+communities in work to
+assess climate risks and
+identify priority actions
+to mitigate risks.
+
+• Fund resiliency planning
+and infrastructure
+improvements in
+communities that have
+been under invested
+in historically through
+use of a climate &
+equity index and other
+resources.
+
+• Prioritize clean-up
+strategies and climate
+adaptation investments
+in neighborhoods
+with fewer resources
+and that are
+disproportionately
+affected by unhealthy
+water, soil, and air.
+
+48
+
+Clean energy and
+efficient buildings
+
+GOAL
+
+4
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Expand the use of carbon-free electricity and create healthy,
+comfortable buildings that are cheaper to operate and pollute less
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Electrical utilities are producing
+less carbon and more renewable energy, yet we still
+must address the energy burdens of low-income
+households, energy grid inadequacies, and equitable
+access to clean energy. Most existing buildings predate the current efficiency standards, and buildings’
+GHG emissions are rising. Reducing emissions from
+electricity and heating will drive reductions from
+buildings.
+
+Establish a standard to achieve 100%
+carbon-free electricity and 55%
+renewable electricity by 2040.
+
+The vision Minnesotans have reliable, clean, and
+lower-cost energy through equitable investments
+in energy efficiency, clean energy, and low-carbon
+technology. The transition creates more jobs and
+more comfortable homes and businesses.
+
+Adapt the grid. Promote electrical grid and
+transmission upgrades and research and
+development to enable greater reliability and
+renewable energy access and integration.
+
+49
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+Priority
+actions
+
+GOAL 4
+
+MN CLIMATE ACTION FRAMEWORK
+
+Reduce emissions related
+to heating and cooling
+homes and businesses.
+Explore and evaluate new
+regulatory and policy options
+such as, but not limited to, a
+clean thermal standard and
+incentive programs. Maximize
+emission reductions through
+implementation of the Energy
+Conservation Optimization
+Act and the Natural Gas
+Innovation Act.
+
+Measures
+of
+progress
+
+By 2030,
+reduce
+thermal GHG
+emissions by
+at least 20%,
+compared to
+2005 levels.
+
+Reduce energy use and waste. Support
+opportunities for additional incentives,
+loans, and policies for existing homes,
+businesses, government, and schools
+in order to reduce energy use for all
+Minnesotans as well as to improve health
+through better air quality. Investigate
+supply-side supports, or pricing supports,
+for energy-efficient appliances, heating
+and air conditioning equipment, and
+domestic water heaters so that the lowcost-choice is also an energy-efficient
+choice.
+
+Improve codes
+and standard
+for all new
+commercial
+and large multifamily buildings
+to achieve netzero by 2036.
+
+By 2040, all
+of Minnesota’s
+electricity is
+carbon-free.
+
+By 2030,
+weatherize
+a quarter of
+dwellings where
+occupants earn
+50% or less
+of the state
+median income.
+
+By 2035, reduce
+GHG emissions
+from existing
+buildings by
+50% compared
+to 2005 levels.
+
+By 2030, reduce
+energy use by
+10% and total
+waste heat
+and waste
+electricity by
+15%, compared
+to 2005 levels.
+
+By 2030,
+reduce the
+energy burden
+so at least 80%
+of Minnesotans
+spend less than
+5% of their
+household
+income on
+energy costs.
+
+By 2030,
+reduce
+statewide
+primary
+energy usage
+by 10%,
+compared to
+2005 levels.
+
+50
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+GOAL 4
+
+MN CLIMATE ACTION FRAMEWORK
+
+CONTEXT
+Making strides in electricity
+generation and distribution
+
+Rising GHG emissions from
+buildings
+
+Electricity generation in Minnesota is
+getting cleaner as coal plants retire and
+renewable energy grows, and we need to
+continue the trend. Tribal nations and many
+other communities need better access to
+energy conservation opportunities and
+renewable energy. We must also address
+energy-grid reliability, transmission, and
+distribution costs and barriers.
+
+Since 2005, GHG emissions from
+commercial buildings have risen 15%,
+and 32% from residential buildings.
+Reversing this trend will require lowcarbon and energy-efficient building
+technology, investing in building
+electrification, and retrofitting
+existing buildings.
+
+Projected electricity generation by source Minnesota, 2020-2034
+
+Utilities are already planning to transition to an energy mix that is over
+75% carbon-free by 2034.
+
+51
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+GOAL 4
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Transitioning to clean energy and more efficient buildings
+Investments in renewable energy, electrification, energy efficiency, lower-emitting technologies
+and materials, and building resiliency will help mitigate climate change, create jobs, and improve
+our quality of life.
+
+Initiative 4.1
+
+Clean energy
+Transition to 100% carbon-free, reliable, and affordable electrical power and heat through
+policies, investments, and partnerships.
+Transition to 100% carbon-free electricity
+By 2040, Minnesota’s electricity generation will add no carbon to the atmosphere. The
+transition will lay the groundwork for emission reductions in other sectors as they move towards
+electric vehicles and other electric alternatives. We must also ensure the power grid is reliable
+and affordable and has adequate capacity, and that all Minnesotans have equitable access to
+renewable energy and energy efficiency opportunities.
+ tilize waste heat
+U
+The machines used to produce electricity and the systems that heat and cool buildings generate
+by-product “waste heat” that can be captured and utilized. Currently, more than half of this
+energy is not captured. Introducing new mechanisms to trap and use the heat can lower costs,
+improve efficiency, and reduce GHG emissions.
+
+52
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+Initiative 4.2
+
+GOAL 4
+
+MN CLIMATE ACTION FRAMEWORK
+
+Smarter buildings and construction
+Reduce GHG emissions in the building sector by promoting conservation, efficiency, and lowercarbon design, materials, and fuels.
+Increase efficiency and reduce emissions in existing buildings
+Support opportunities for energy-efficient upgrades by providing tools to assess building performance and promoting energy and emissions benchmarking. Target investments in lower-income
+communities that are challenged by older buildings and a lack of resources. Train building professionals on energy-efficient and low-carbon equipment and strategies.
+ esign and build climate-smart new buildings
+D
+Ensure new buildings are energy efficient, climate-resilient, and powered by renewable energy.
+We must also update building codes and construction standards to mandate net-zero energy
+construction; incorporating energy efficiency in new buildings is much less expensive than
+retrofitting existing structures.
+Building reuse and preventing waste
+Incentivize the rehabilitation of existing buildings that include energy, resilience, and efficiency
+upgrades. Provide tools to assess buildings’ adaptive reuse potential. Promote the reuse and
+recycling of demolition materials.
+
+Big impacts
+
+Electricity generation:
+
+Buildings sector:
+
+Which actions
+will achieve the
+largest GHG
+reductions?
+
+• P
+ roducing only carbon-free
+electricity in Minnesota by 2040
+
+• U
+ pdating building codes to ensure the highest
+possible efficiency and lowest possible emissions
+in new buildings
+
+• Increasing the renewable energy
+standard
+
+• P
+ roviding tools and incentives to improve the
+efficiency and reduce emissions from existing
+buildings
+
+53
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+GOAL 4
+
+We all have a role
+Many partners must contribute
+to the efforts to advance energy
+efficiency, increase the availability
+of renewables, and make buildings
+more efficient and resilient.
+• Individuals can lower their energy use though
+new technologies, behavior changes, and
+home upgrades using utility and governmentoffered weatherization programs.
+• Government units can provide weatherization
+and energy-efficiency education, funding, and
+implementation assistance for homeowners and
+renters.
+
+MN CLIMATE ACTION FRAMEWORK
+
+Benefits of shared action
+Actions to reduce emissions and improve efficiency in
+the power sector and buildings have other benefits:
+• Cost savings for businesses and residents from lowered energy
+use.
+• Improved health from less indoor and outdoor air pollution and
+from home-weatherization efforts, and lower medical costs,
+along with fewer missed school and work days.
+• New jobs in energy efficiency and clean energy industries.
+
+• Businesses, nonprofits, governments, and
+utilities can work together to improve energy
+efficiency and reduce GHG emissions in their
+existing and new buildings.
+
+54
+
+CLEAN ENERGY AND EFFICIENT BUILDINGS
+
+GOAL 4
+
+MN CLIMATE ACTION FRAMEWORK
+
+EQUITY
+Power generation and building efficiency affect everyone,
+but not all Minnesotans are able to access the available
+benefits. People with lower incomes pay a larger portion
+of their income on energy and housing than those earning
+more. Due to decades of housing segregation, redlining,
+and other harmful policies, Minnesotans of color are
+more likely to rent homes rather than own them, which
+limits their access to energy efficiency and renewable
+energy opportunities. These communities also suffer
+disproportionate rates of utility disconnection, which can
+be life-threatening during extreme weather.
+
+An equitable transition to our clean
+energy future would include:
+
+Renewable Energy Partners in Minneapolis does solar installation and skill training
+in an underserved part of the city.
+
+· Expanding incentives and other
+mechanisms for businesses in
+overburdened communities to
+transition to renewable energy.
+
+• Help lower-income households access
+local and affordable renewable energy,
+with options such as community and
+rooftop solar.
+
+• Invest in energy efficiency programs,
+and ensure that communities of color,
+tribal nations, and lower-income
+communities have access to them.
+Eliminate inequities by fuel used or area
+of the state.
+
+• Support job training in rural and lowincome communities for work in
+energy-efficiency retrofits of current
+housing stock.
+
+• Promote community-driven
+solutions to affordable housing that
+incorporate energy efficiency, address
+gentrification, and prevent climaterelated displacement.
+
+55
+
+GOAL
+
+Healthy lives and
+communities
+
+5
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Protect the health and wellbeing of Minnesotans in the
+face of climate change
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Changes in Minnesota’s climate
+threaten the health of all our communities, but not
+everyone contributes to nor experiences these
+impacts equally. Existing inequities based on race,
+age, gender, geography, economic status, and more
+place some communities at greater risk.
+
+Raise awareness of health
+impacts. Build partnerships
+to improve education and
+raise awareness of the health
+impacts of climate change.
+
+The vision Minnesotans are healthy, safe, and
+resilient in the face of climate change, especially
+those that live in the communities that are most
+affected.
+
+Fund and support
+community-led initiatives
+across Minnesota that address
+health risks from climate
+change and improve health
+outcomes.
+
+Prepare for diseases. Build
+the capacity of public health
+agencies and communities to
+prepare for and respond to
+new and current diseases that
+are increasing due to climate
+change.
+
+56
+
+HEALTHY LIVES AND COMMUNITIES
+
+Priority
+actions
+
+GOAL 5
+
+Track, monitor,
+and compile a
+regular report
+on the health
+impacts of climate
+change in diverse
+populations in
+Minnesota.
+
+Measures
+of
+progress
+
+CONTEXT
+Our greatest health challenge
+Climate change has been called the
+greatest health challenge because it
+threatens the very basics we depend
+upon for life, including safe and
+available drinking water, clean air,
+and a reliable food supply. Some of
+the known direct health impacts of
+climate change:
+
+MN CLIMATE ACTION FRAMEWORK
+
+Adapt outdoor
+recreation on
+public lands for a
+changing climate
+and to serve
+changing
+demographics.
+
+By 2030, reduce
+the age-adjusted
+rate of heatrelated ER visits to
+10 per 100,000.
+
+Assess healthcare
+resilience. Ensure
+hospitals and
+other facilities
+can withstand
+extreme weather
+and other hazards.
+Plan and implement
+adaptation projects.
+
+By 2025, ensure at
+least 40% of the
+benefits of certain
+state and federal
+climate investments
+are in disadvantaged
+communities.
+
+Provide proactive
+health services. Deliver
+culturally-appropriate,
+affordable, and
+responsive healthcare
+and mental health
+services to protect
+public health and
+create a foundation for
+climate resiliency.
+
+Increase the
+diversity of state
+agencies’ leadership
+to reflect the
+state’s changing
+demographics.
+
+• More heat-related illnesses due to extreme heat waves
+• Injuries and death from extreme precipitation and flooding
+• Increasing societal and healthcare costs from more emergency
+department visits, hospitalizations, and premature deaths
+• Increase in diseases transmitted by animals to humans that may
+then spread from humans to humans and diseases transmitted
+by ticks and mosquitoes
+• Respiratory and cardiovascular impacts from increased wildfire
+smoke and pollen
+• Mental health impacts from experiencing extreme weather
+events, climate-related instability, and other changes
+
+57
+
+HEALTHY LIVES AND COMMUNITIES
+
+GOAL 5
+
+MN CLIMATE ACTION FRAMEWORK
+
+Impacting things that support our health
+Climate change also impacts our health indirectly, by affecting the many things
+that create our health, such as safe housing, reliable transportation, nutritious
+and affordable foods, and job stability. Indirect impacts can make other health
+conditions worse. For example, if increased precipitation creates problems with
+mold in a family’s home, this could increase their child’s allergies. Other indirect
+health impacts include:
+• Disruptions to transportation systems from extreme weather making it more
+difficult to access grocery stores, jobs, and medical care.
+• Loss of neighborhood tree canopy from invasive pests making extreme heat
+worse.
+• Loss of income to families when businesses and farms are impacted by
+drought or extreme weather.
+
+Health is affected by all parts
+of our society
+All parts of our economy and society affect
+our health, including transportation, jobs,
+energy, housing, and agriculture. The rest
+of the actions in the framework will support
+healthier communities as we address climate
+change and build resiliency across Minnesota.
+It is also necessary to specifically focus on
+supporting community health, public health
+infrastructure, healthcare systems, and other
+ways climate change impacts our health.
+
+58
+
+HEALTHY LIVES AND COMMUNITIES
+
+GOAL 5
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Protect health and improve health equity
+Minnesota will invest resources and implement policies and strategies that address the health
+impacts of climate change on individuals and communities.
+
+Initiative 5.1
+
+Healthy communities
+Protect communities from the direct and indirect health effects of climate change.
+ upport healthy communities and workplaces
+S
+Help workplaces protect employees who are vulnerable to climate-related health risks, such as
+those working outdoors in extreme heat. Ensure communities have access to safe places during
+climate-related disasters. Educate Minnesotans on the health effects of climate change, and help
+communities address them.
+ rotect culturally important activities
+P
+Conserve species and habitats that are critical to tribal nations and other communities. Safeguard
+outdoor recreation opportunities, such as ice fishing, hunting, ricing, swimming, hiking, biking, and
+skiing, that are important to Minnesotans’ health and wellbeing.
+
+Initiative 5.2
+
+Climate-smart public health and healthcare systems
+Bolster public health resources and promote strategies to reduce GHGs from healthcare facilities.
+Increase public health capacity and adaptation resources
+Increase capacity of public health agencies to prepare for and respond to changing and novel
+diseases and illnesses related to climate change, collect and develop climate-related data, track
+the health impacts of climate change, implement health-protection strategies, and ensure
+healthcare and mental health services are available through climate-related disasters.
+ upport climate-smart healthcare systems
+S
+Encourage healthcare facilities and organizations to lower their GHG emissions and reduce waste.
+
+59
+
+HEALTHY LIVES AND COMMUNITIES
+
+GOAL 5
+
+MN CLIMATE ACTION FRAMEWORK
+
+We all have a role
+Working together with climate-vulnerable communities, businesses,
+nonprofits, faith-based organizations, educational agencies and
+institutions, public health, healthcare systems, and others, we can build
+resiliency while reducing health disparities for those most impacted by
+climate change.
+• Local governments and organizations can create resiliency hubs to protect people
+during extreme weather events.
+• Employers can protect workers from extreme weather and offer telecommuting
+options that reduce greenhouse gas emissions and support families.
+• Public health organizations can track the health impacts of climate change and
+partner with communities in implementing health-protective strategies.
+
+Benefits of
+shared action
+Addressing the health
+impacts of climate change through
+mitigation and adaptation actions
+serves to:
+• Protect public health and reduce
+health disparities
+• Protect the environment and
+culturally important places
+• Improve community climate
+resiliency
+
+• Educational institutions and universities can prepare future generations by raising
+awareness of climate change and resiliency strategies and researching the health
+effects of climate change.
+• Healthcare systems can reduce their carbon footprint and prepare for extreme
+weather to ensure delivery of services.
+
+60
+
+HEALTHY LIVES AND COMMUNITIES
+
+GOAL 5
+
+MN CLIMATE ACTION FRAMEWORK
+
+EQUITY
+Many Minnesota communities have demonstrably poorer health
+due to unequal access to health care, biased housing practices
+that placed them closer to sources of pollution, and other
+factors. These health disparities are made worse by climate
+change. For example, American Indian and African American
+middle and high school-aged kids are more likely than other
+students to have been diagnosed with asthma. Asthma is
+exacerbated by poor air quality and wildfire smoke. Historically
+racist housing policies (such as redlining) are associated with
+urban heat islands and lack of tree canopy in low-income
+neighborhoods of color, which suffer more from extreme
+heat as a result. Communities that already lack resources
+are burdened by the costs of increased healthcare and of
+withstanding or recovering from climate-related events.
+Climate change amplifies existing health and economic
+inequities. Protecting the health of our communities requires
+protecting communities at the greatest risk of health burdens.
+
+61
+
+GOAL
+
+Clean economy
+
+6
+
+MN CLIMATE
+ACTION
+FRAMEWORK
+
+Build a thriving carbon-neutral economy that produces goods
+and services with environmental benefit and equitably provides
+family-sustaining job opportunities
+
+SHORT
+FORM
+
+Priority
+actions
+
+The challenges Minnesota’s economic activity
+produces GHG emissions and other air pollutants,
+while climate change is threatening jobs and our
+economy. Some Minnesotans have limited access
+to well-paying careers and the training that allows
+entry to career paths that help mitigate and adapt
+to climate change. The clean economy future will
+require workers, communities, and businesses to
+acquire new skills and build resiliency.
+
+Complete a clean economy
+workforce and economic
+development plan.
+Assess high-growth sectors,
+potential job losses, and
+workforce and skill set needs,
+using an inclusive definition
+of clean jobs.
+
+The vision Minnesota has a strong economy, aided
+by public and private investments in emerging
+research, technology, and businesses. Tens of
+thousands of people are employed in mitigating
+and adapting to climate change. Minnesota
+companies sell sustainable products made with
+green processes. Labor, businesses, and educational
+institutions collaborate to support skills training for
+in-demand jobs.
+
+Encourage innovation.
+Work with tribal nations,
+universities, commercial
+consortiums, and private labs
+to nurture new technologies
+and clean economy
+businesses.
+
+Develop worker skills.
+Create workforce
+strategies that train,
+upskill, and reskill workers
+to adapt to changing
+technologies and job
+needs.
+
+62
+
+CLEAN ECONOMY
+
+Priority
+actions
+
+Measures
+of
+progress
+
+GOAL 6
+
+MN CLIMATE ACTION FRAMEWORK
+
+Support power-plant
+host communities. Assist
+communities with aging
+fossil fuel-run power plants
+to ensure a successful
+transition. Provide long-term
+planning and support to
+retrain workers and promote
+economic development.
+
+Identify and remove
+barriers to employment
+and training for women,
+people of color and
+individuals with disabilities.
+In addition, diversify the
+clean economy workforce
+in both leadership
+positions and frontline
+careers.
+
+Assist businesses moving
+toward sustainability.
+Identify supply chain
+needs and support
+environmental goals.
+
+In 2023, create a clean
+economy workforce and
+economic development plan
+with trackable metrics.
+
+Increase the number
+of apprentices in the
+construction trades’
+registered apprenticeship
+programs and the percentages
+of people of color and women
+who enroll in and complete
+the programs.
+
+Increase jobs in all sectors
+of the clean economy,
+including new and
+emerging sectors such
+as land management,
+transportation, long-lived
+wood products, etc.
+
+Increase the number
+of clean technology
+businesses and the number
+of jobs they provide.
+
+63
+
+CLEAN ECONOMY
+
+GOAL 6
+
+MN CLIMATE ACTION FRAMEWORK
+
+CONTEXT
+An economy in transition
+Climate change is negatively affecting jobs,
+natural environments, and our economy.
+Customers and businesses are increasingly
+asking for energy efficient, lower-carbon
+products, and building owners want options to
+reduce their carbon footprint and save money.
+Businesses need help adapting to remain
+competitive. Workers also need support to
+transition or retrain to successfully adapt to
+new technologies and in-demand job skills.
+Several communities host large electric-generating power facilities that
+are retiring in the coming years, which will impact jobs, tax base, and
+community prosperity.
+
+Clean economy opportunities
+Existing careers will be the foundation of a
+carbon-neutral economy, many requiring
+new skills or functions as they become
+more sustainable. Blue-collar work and the
+construction industry will be major components.
+In energy efficiency, renewable energy, clean
+transportation, power grid, and clean fuels
+alone Minnesota boasts more than 55,000
+jobs — more than a third of which are in
+Greater Minnesota —and there are many jobs beyond the energy sectors
+that contribute to sustainability. People of color and women are largely
+underrepresented in these careers, and employers must address this lack
+of diversity. Workforce training for the clean economy should ensure
+access by communities disproportionately impacted by climate change
+and workers disadvantaged by systemic racism and other barriers.
+
+Adaptation and growth
+Minnesota businesses and workers will need more
+economic development and training assistance to
+power the transition to a clean economy. Business
+innovation and entrepreneurship spurs job growth,
+and a well-trained workforce is needed to fill
+those jobs. The movement towards an inclusive
+clean economy is a win-win-win for employees,
+consumers, and businesses.
+
+64
+
+CLEAN ECONOMY
+
+GOAL 6
+
+MN CLIMATE ACTION FRAMEWORK
+
+WHAT WE WILL DO TOGETHER
+Grow clean economy jobs and businesses that provide equitable opportunities for all Minnesotans
+Minnesota will support the businesses and workers that are part of the clean economy with training, research, incentives, and partnerships.
+
+Initiative 6.1
+
+Business innovation and entrepreneurship
+Invest in research and development, innovation, and partnerships.
+ ecome a national leader in clean innovation
+B
+Attract new industries and innovative thinkers through multi-sector partnerships and technical
+and financial support for entrepreneurs. Invest in research and development. Support businesses
+owned by women, people of color, veterans, people with disabilities, and others who have historically been left out of investment opportunities.
+
+Initiative 6.2
+
+Equitable access to jobs and a just transition
+Support workers to adapt and evolve their skills through inclusive strategies, ensuring
+family-sustaining careers.
+ upport transitions as industries evolve
+S
+Plan how to connect people with workforce training and apprenticeship opportunities to prepare
+them for the carbon-neutral economy, and gain skills that will adapt to new, cleaner technologies
+as they develop. Help workers in declining industries adapt and redevelop their skills. Assist
+communities where large power plants will be retired to plan for a prosperous future. Ensure
+training and work opportunities are accessible to all. Transition planning and support should
+be long-term and take into account the amount of time it may take to train workers, execute
+economic development strategies, and other considerations.
+Develop career pathways
+Outreach, education, and training should lead to employment in clean economy jobs that pay a
+family-sustaining wage with skills that can be adapted to new and cleaner technologies as they
+develop.
+
+65
+
+CLEAN ECONOMY
+
+GOAL 6
+
+MN CLIMATE ACTION FRAMEWORK
+
+ nsure good wages and benefits for workers and address systemic barriers
+E
+Engage with businesses, educational institutions and policymakers to develop strategies
+to ensure jobs provide family-sustaining wages and benefits. Make job opportunities and
+training accessible for communities that have faced structural bias and discrimination that are
+disproportionately impacted by climate change.
+
+We all have a role
+Helping Minnesota’s workforce and businesses to
+succeed and transition to a clean economy will require
+partnerships across government, unions, industry,
+trades, colleges and universities, training programs, and businesses of
+all sizes.
+
+Benefits of shared action
+Growing clean economy jobs and businesses and
+ensuring a just transition have other benefits:
+• Vibrant and healthy communities across the state
+
+• Local governments offer incentives for economic development —
+and can help link businesses with communities to retain and create
+homegrown jobs.
+
+• Reduced income disparities
+
+• Businesses and industry will develop and seek clean technologies,
+participate in energy efficiency programs, and optimize supply chain
+and production proficiencies.
+
+• More Minnesota workers with
+adaptable skills to meet workforce
+demand
+
+• More innovative business practices
+
+• Educational institutions and labor training programs can work with
+governments and businesses to train Minnesotans for clean economy
+jobs that pay family-sustaining wages.
+
+66
+
+CLEAN ECONOMY
+
+GOAL 6
+
+MN CLIMATE ACTION FRAMEWORK
+
+EQUITY
+Many clean economy jobs are and will continue to be in the construction trades.
+While overall construction jobs tend to provide good wages and benefits, the
+industry continues to be dominated by white men. Attracting and retaining
+women and people of color in the trades — such as through outreach in schools
+career guidance programs to align education and training; safe, hands-on learning
+opportunities; mentoring; and financial support during seasonal layoffs — will be
+critical to achieving an inclusive and equitable clean economy.
+We know that health, environmental, and economic crises disproportionately
+affect overburdened communities and can displace workers. Job training and
+job placement efforts should focus on reaching communities disproportionately
+impacted by climate change and communities that have faced structural bias and
+discrimination.
+Other key activities will include:
+• Ensuring unique regional needs are addressed and there is equitable access to
+training.
+• Identifying potential high-demand clean economy sectors, and training resources
+and needs by region. Targeting training to populations that are underrepresented
+in the trades.
+• Consulting and coordinating with tribal nations, to support and learn from their
+workforce development efforts and clean economy initiatives.
+• Exploring the multifaceted opportunities to grow a clean economy with strategies
+such as educating consumers on sustainable options.
+
+67
+
+Contributors
+Climate Change Subcabinet
+Grace Arnold
+Nicole Blissenbach
+Nancy Daubenberger
+Steve Grove
+John Harrington
+Jennifer Ho
+John Jaschke
+Margaret Anderson Kelliher
+Katrina Kessler
+Jan Malcolm
+Thom Petersen
+Katie Pratt
+Alice Roberts-Davis
+Roslyn Robertson
+Jim Schowalter
+Sarah Strommen
+Charle Zelle
+Governor’s Advisory Council
+on Climate Change
+Khalif Bashir Ahmed
+Mike Birkeland
+Christopher Clark
+Eric Dayton
+Wayne Dupuis
+Marco Hernandez
+Lucinda Johnson
+Alexandra Klass
+Patrick Lunemann
+Ann Mulholland
+
+Micah Niermann
+Kevin Pranis
+Hilda Martinez Salgado
+Anne Schwagerl
+Dave Sunderman
+State agencies
+Lindsay Anderson
+Nora Bateman
+Jeff Berg
+Kristen Bergstrand
+Katherine Blauvelt
+Kenneth Blumenfeld
+Peter Brickwedde
+Levi Brown
+Jessica Burdette
+Erin Campbell
+Peter Ciborowski
+Anne Claflin
+Peter Clevenstine
+Barbara Conti
+Kirk Crowshoe
+Jennifer Davis
+Adway De
+Aisha Ellis
+Tannie Eshenaur
+Tony Fischer
+Tom Gile
+Michelle Gransee
+Marcus Grubbs
+Brad Harrington
+
+Greg Hoch
+Emily Houser
+Anne Hunt
+Amanda Jarrett Smith
+Gratia Joice
+Brad Jordahl Redlin
+Megan Kelly
+Shannon Kesner
+Jack Kluempke
+Frank Kohlasch
+Faith Krogstad
+Amanda Kueper
+Lorna LaGue
+Kevin Lee
+Megan Lennon
+Mauricio Leon
+Shannon Lotthammer
+Marc Majors
+Henry McCann
+Valerie McClannahan
+Craig McDonnell
+Kevin McKinnon
+Scott McLellan
+Jeffrey Meek
+Greg Metz
+Laura Millberg
+Kristin Mroz-Risse
+Nancy Omondi
+Bob Patton
+Kate Perushek
+Ann Pierce
+
+Rebecca Place
+Laura Preus
+Kristin Raab
+Aditya Ranade
+Heidi Rantala
+Suzanne Rhees
+Stephan Roos
+Jen Schaust
+Tim Sexton
+Dan Shaw
+Beverly Sidlo-Tolliver
+Siri Simons
+Glenn Skuta
+Emily Smoak
+Sharon Stephens
+Ceil Strauss
+Corey Strong
+Katherine Teiken
+Doug Tillma
+Nissa Tupper
+Dana Vanderbosch
+Andrea Vaubel
+David Wall
+Helen Waquiu
+David Weirens
+Maggie Wenger
+Natascha Wiener
+Eric Wojchik
+Editing and design
+Paul Andre
+
+Scott Andre
+Mary Connor
+Kevin Gaffney
+Facilitation
+Alissa Bemis
+Carolyn Berninger
+Trevor Drake
+Abby Finis
+Rebecca Heisel
+Brendan Jordan
+Rolf Nordstrom
+Emma Parkson
+Brian Ross
+Doug Scott
+Kate Sullivan
+Mariem Zaghdoudi
+Workgroup members
+Amira Adawe
+Ellen Anderson
+MK Anderson
+Charles Androsky
+Peter Aube
+Jennyffer Barrientos
+Chris Beach
+Colin Beere
+Jamie Beyer
+Adam Birr
+Robert Blake
+Eartha Borer-Bell
+
+68
+
+Anne Borgendale
+Jim Bowyer
+Lindsay J. Brice
+Carolyn Brown
+LeAnn Buck
+Mike Bull
+Peter Calow
+Ellen Candler
+Anna Carlson
+Katie Cashman
+Diana Chaman Salas
+Gabriel Chan
+Laura Connelly
+Chris Conry
+Andrea Crabtree Nayes
+Clovis Curl
+Joseph Dammel
+Troy Daniell
+Jen Davis
+Angela Dawson
+Sharon Delcambre
+Kathleen Doran-Norton
+Bill Droessler
+Tim Dufault
+Craig Engwall
+James Erkel
+Catherine Fair
+Abdulahi Farah
+Neal Feeken
+Sydney Finn
+Janne Flisrand
+Warren Formo
+Erick Francis
+Katie Frye
+Peg Furshong
+Dale Gentry
+
+Jason George
+Metric Giles
+Elizabeth Glidden
+Sarah Goodspeed
+Mindy Granley
+Blake Grams
+Sally Grans Korsh
+Bill Grant
+Richard Graves
+Jason Grenier
+Nicole Griensewic
+Dorian Grilley
+Shannon Guernsey
+Todd Guerrero
+Bree Halverson
+J. Drake Hamilton
+Kathy Hartley
+Joel Haskard
+Erik Hatlestad
+Kim W. Havey
+Don Hickman
+Cheryal Hills
+Holly Hinman
+Hannah Hoeger
+Sara Hollie
+Dawn Hood
+Rick Horton
+Alexa Horwart
+Robert Jagusch
+Mark Jacobs
+Ralph Jacobson
+Emily Javens
+Craig A. Johnson
+Kelsey Johnson
+Madi Johnson
+Emily Johnston
+
+Katie Jones
+Nicholas R. Jordan
+Jen Kader
+Alexander Kangas
+Maggie Karschnia
+Tina Koecher
+Mark Kulda
+Channon Lemon
+John Lenczewski
+Jane Leonard
+Tanessa Lewis
+Sydnie Lieb
+LeAnn Littlewolf
+Lee Lucas
+Rhys MacPherson
+Sandy Malecha
+Marc Majors
+Nick Mark
+Gregg Mast
+Nicholas Martin
+Brian Martinson
+Jason Metsa
+Simeon Matthews
+Josiah McClellan
+Jess McCullough
+John McGuine
+Sarah Mooradian
+Leslie Moore
+Steve Morse
+Taj Mustapha
+Suzie Nakasian
+Randy Neprash
+Sadie Neuman
+Jed Norgaarden
+Michael Northbird
+Kimberly Norton
+
+Mari Ojeda
+Patty O’Keefe
+Melissa Partin
+Audrey Partridge
+Seth Patterson
+John Paulson
+David Pelikan
+Violet Penman
+Abi Phillips
+Kristel Porter
+Sam Rockwell
+Heidi Roop
+Steven Rosenzweig
+Mary Rothchild
+Kateri Routh
+Joe Rozza
+Nathan Runke
+Timothy J. Rudnicki
+Eran Sandquist
+Lauren Servick
+Karin Schaefer
+Eric Schenck
+Sawyer Scherer
+Rhyan Schicker
+Shawn Schloesser
+Susan Schmidt
+Jon Schneider
+Emma Schoppe
+Laura Schreiber
+Kathleen Schuler
+Kurt Schultz
+Maggie Schuppert
+Michelle Shaw
+Penny Simonsen
+Lucas Sjostrom
+Madelyn Smerillo
+
+Ken Smith
+Hilarie Sorensen
+Russ Stark
+John Linc Stine
+Shane Stennes
+Patrick Stieg
+Laura Schreiber
+Emma Struss
+Lisa Syverson
+Jodi Teich
+Whitney Terrill
+Gary Thaden
+Beth Tomlinson
+Chad Trebilcock
+Aaron Vande Linde
+Allison VanDerWal
+Analeisha Vang
+Josh Vest
+Peter Wagenius
+Tate Walker
+David Wanberg
+Anna Wasescha
+Maddie Wazowicz
+Elizabeth Wefel
+Eric Weiss
+Patrick Weldon
+Angela Williams
+Chris Wilson
+Amanda Wold
+Hli Xyooj
+Ansha Zaman
+Emily Ziring
+Karen Zumach
+
+69
+
+

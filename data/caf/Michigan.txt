@@ -1,0 +1,2082 @@
+MI HEALTHY CLIMATE PLAN
+
+APRIL 2022
+
+This report is available digitally at Michigan.gov/EGLE
+
+The Michigan Department of Environment, Great Lakes, and Energy does not discriminate on the basis of race, sex, religion,
+age, national origin, color, marital status, disability, political beliefs, height, weight, genetic information, or sexual orientation
+in the administration of any of its programs or activities, and prohibits intimidation and retaliation, as required by applicable
+laws and regulations. Questions or concerns should be directed to the Nondiscrimination Compliance Coordinator at
+EGLE-nondiscriminationCC@michigan.gov or 517-249-0906.
+To request this material in an alternative format, contact EGLE-Accessiblity@Michigan.gov or call 800-662-9278.
+
+LETTER FROM EGLE DIRECTOR
+Dear fellow Michigan residents:
+I am proud to present the MI Healthy Climate Plan, with thanks to Governor
+Gretchen Whitmer for trusting the Michigan Department of Environment, Great
+Lakes, and Energy to lead this work and deep appreciation for the hundreds of
+Michiganders who contributed to it over the past year through thousands of hours
+of research, reflection, and conversation.
+This plan lays out a broad vision for fulfilling the governor’s fall 2020 commitment for Michigan to achieve
+100% economy-wide carbon neutrality by midcentury – the global science-based benchmark for
+reducing greenhouse gas emissions to avoid the most devastating and costly impacts of climate change.
+As its name suggests, this is a uniquely Michigan plan. It was shaped by a multitude of Michiganders with
+varied perspectives on climate change. We heard from environmental justice, public transit, local food, and
+climate action advocates; an array of business and labor leaders; academic experts and local government
+officials; and concerned residents of all political persuasions and walks of life. I firmly believe conversation
+leads to better outcomes. In this case, it has produced a bold plan that a broad cross-section of
+Michiganders can rally around.
+This Plan is also rooted in what makes our state special. No state is better positioned than Michigan to
+advance equity, create good-paying jobs, increase economic competitiveness, and improve quality of life in
+pursuing carbon neutrality – thanks to our unmatched freshwater resources and heritage as a global
+manufacturing innovator, diverse agricultural producer, world-class outdoor recreation hub, and home to
+talented people and vibrant communities.
+Finally, the responsibility for implementing this Plan and refining it over time is ours. All 10 million of us have
+big parts to play in decarbonizing our economy – from the governor and state lawmakers who will make the
+necessary state policy changes and budgetary decisions to the workers, business leaders, and entrepreneurs
+who will turn cutting edge climate solutions into high-quality jobs and economic prosperity; the community
+leaders and advocates who will ensure this work reaches every corner of the state and benefits every
+Michigan family; and each of us as individuals and consumers who will take myriad actions in our daily lives.
+It is essential that we act now to greatly accelerate the decarbonization of Michigan’s economy, building on
+the recent progress Michigan has made thanks to our public and private sector leaders. While some
+solutions to achieve a 100% decarbonized economy that delivers good jobs and justice are still on the
+drawing board, most are well known to us and awaiting our commitment to getting the job done and
+equitably sharing the burdens and benefits.
+Fortunately, we have the resources to demonstrate that commitment and kickstart progress. Governor
+Whitmer’s 2023 state budget recommendation includes over $500,000,000 for climate, clean energy, and
+mobility initiatives. And the state is committed to fully leveraging the current dramatic influx of federal
+dollars to move Michigan closer to our decarbonization goals.
+In other words, we have a commitment, a plan, and a financial platform. We have what we need, so let’s get
+to work.
+
+Liesl Eichler Clark, Director
+Michigan Department of Environment, Great Lakes, and Energy
+
+TABLE OF CONTENTS
+Executive Summary .......................................................................................................................................3
+Introduction ....................................................................................................................................................7
+Governor Whitmer’s Commitments ..........................................................................................................7
+A Climate Plan Shaped by Michigan Residents .......................................................................................8
+Why Climate Action Matters for Michigan ................................................................................................. 10
+Michigan is Feeling the Impacts of Climate Change ............................................................................ 10
+Action is an Opportunity to Improve Health Outcomes ........................................................................ 13
+Action is an Opportunity to Right Environmental Injustices................................................................. 16
+Action is an Economic Opportunity for Michigan .................................................................................. 19
+Michigan’s Greenhouse Gas Emissions .................................................................................................... 23
+A Carbon Neutral Michigan ........................................................................................................................ 25
+A Roadmap to 2030 ................................................................................................................................... 27
+Commit to Environmental Justice and Pursue a Just Transition ......................................................... 29
+Clean the Electric Grid ............................................................................................................................ 33
+Electrify Vehicles and Increase Public Transit ...................................................................................... 37
+Repair and Decarbonize Homes and Businesses ................................................................................ 41
+Drive Clean Innovation in Industry ........................................................................................................ 44
+Protect Michigan’s Land and Water ...................................................................................................... 47
+Leading by Example in State Government ................................................................................................ 51
+Conclusion................................................................................................................................................... 55
+Appendices.................................................................................................................................................. 56
+
+MI Healthy Climate Plan
+
+EXECUTIVE SUMMARY
+The real and costly impacts of the climate crisis are irrefutable and that was especially obvious on the
+ground in Michigan during 2021. Severe, climate-induced weather events over the summer caused
+more than one million Michiganders to lose power, some for a week or more. Southeast Michigan was
+hit by intense rain, causing widespread floods and sewer backups. All this came on the backend of a
+decade in which our state has experienced massive flooding and dam failures, high water levels and
+erosion that destroyed public and private property, major crop failures from erratic spring temperatures,
+and three polar vortexes that challenged Michigan families to keep the heat on.
+Sadly, Michigan is not alone. We all remember Texas freezing over after unprecedented cold and ice
+storms in February 2021, taking lives, freezing pipes, and causing historic damage.
+Meanwhile, California was ablaze, hit by twice as many wildfires as the previous record year. A “heat
+dome” that settled over the Pacific Northwest in late June broke the previous record temperature by
+more than 10 degrees.
+Globally, the seven warmest years in recorded history have occurred since 2015, a trend the United
+Nations’ Intergovernmental Panel on Climate Change has called “a code red for humanity.”
+If we do not act aggressively to reduce greenhouse gas (GHG) emissions, these changes will only
+intensify, and the impacts will become more challenging, dangerous, and expensive for Michigan
+residents. It is imperative that we reduce emissions as quickly as possible and simultaneously prepare
+for the changes we cannot prevent.
+
+MI Healthy Climate Plan
+
+The good news is we have made progress in recent years in reducing our GHG emissions. In the
+process, we have learned that aggressive action on climate change presents a variety of significant
+opportunities to better the lives of all Michiganders, including offering immediate opportunities to
+reduce costs and create good-paying jobs for working families.
+Governor Whitmer has taken bold action to
+dramatically accelerate Michigan’s progress down
+that promising path, including committing
+Michigan to economy-wide carbon neutrality no
+later than 2050 with aggressive interim targets on
+the way to midcentury and net negative GHG
+emissions thereafter. To achieve these ambitious
+goals, she charged the Michigan Department of
+Environment, Great Lakes, and Energy’s (EGLE)
+Office of Climate and Energy with developing the
+MI Healthy Climate Plan (Plan). (See Introduction)
+
+MICHIGAN - one of only 14 states with bold
+economy-wide goals
+ Reduce GHG emissions 28% below
+2005 levels by 2025 and 52% by 2030
+ Achieve economy-wide carbon
+neutrality by 2050
+ Maintain net negative GHG emissions
+thereafter
+
+OBJECTIVES
+
+Mitigate the
+worst impacts of
+climate change
+
+Spur economic
+development
+and create goodpaying jobs
+
+Capture economic
+development and
+create good-paying
+jobs
+
+Protect and
+improve the
+health of
+Michiganders
+
+OBJECTIVES OF THE MI HEALTHY CLIMATE PLAN
+
+Position
+Michigan as a
+leader in climate
+action
+
+Page | 4
+
+Protect our
+natural
+resources and
+wildlife
+
+Make Michigan
+energy
+independent
+
+Address
+environmental
+injustices
+
+MI Healthy Climate Plan
+
+The Plan strongly emphasizes environmental justice to ensure Michigan’s climate strategies uplift every
+portion of the state, including individuals and communities that have borne the brunt of climate impacts
+and are at the greatest risk of being left behind in the transition ahead. It also spotlights
+decarbonization strategies that will yield significant health, economic, and other benefits. (See Why
+Climate Action Matters for Michigan).
+The Plan is meant to identify what needs to happen for Michigan to reach carbon neutrality by 2050
+with a prioritization on actions from now until 2030. It focuses most heavily on the areas where the
+biggest, most rapid gains in GHG reductions can be made – energy, transportation, and buildings. The
+Plan’s full complement of recommendations are detailed in the Roadmap to 2030 section. The
+following briefly summarizes the highlights across the six categories the Plan uses to group the climate
+actions needed to achieve our goals.
+Commit to Environmental Justice and Pursue a Just Transition: Ensure that at least 40 percent of
+state funding for climate-related and water infrastructure initiatives benefit Michigan’s disadvantaged
+communities (in line with the federal government’s Justice40 guidelines for federal funding); that
+Justice40 is developed in partnership with leaders in disadvantaged communities; and that Michigan
+emphasizes a just transition for all workers through proactive engagement, job training, and workforce
+development.
+Clean the Electric Grid: Generate 60 percent of the state’s electricity from renewable resources and
+phase out remaining coal-fired power plants by 2030. Limit energy burden from powering and heating
+homes to not more than 6 percent of annual income for low-income households.
+Electrify Vehicles and Increase Public Transit: Build the infrastructure necessary to support 2 million
+electric vehicles on Michigan roads by 2030. Increase access to clean transportation options –
+including public transit – by 15 percent each year.
+Repair and Decarbonize Homes and Businesses: Reduce emissions related to heating Michigan
+homes and businesses by 17 percent by 2030. Increase investments in repairing and improving
+buildings to reduce costs for working families and small businesses.
+Drive Clean Innovation in Industry: Encourage clean innovation hubs where private enterprises
+strategically co-locate and collaborate to develop and deploy new, cleaner manufacturing
+technologies and conduct research and development to reduce emissions from hard to decarbonize
+industries. Triple Michigan’s recycling rate to 45 percent and cut food waste in half by 2030.
+Protect Michigan’s Land and Water: Protect 30 percent of Michigan’s land and water by 2030 to
+naturally capture GHG emissions, maintain and improve access to recreational opportunities for all
+Michiganders, and protect biodiversity. Leverage innovative strategies to support climate-smart
+agriculture.
+
+Page | 5
+
+MI Healthy Climate Plan
+
+The Plan’s comprehensive set of policy recommendations in these areas will help reduce GHG
+emissions at the scale and pace necessary to reach our interim goal of reducing GHG emissions 52% by
+2030. However, they do not go far enough on their own. Additional policy changes and actions in every
+sector will be necessary to get all the way to that target. That is why we must continue to evaluate and
+update strategies (and this Plan) and seek new emissions-reduction pathways that will spur a selfreinforcing cycle and more fully unleash Michigan ingenuity.
+Beyond 2030, the steps necessary to make Michigan’s economy carbon neutral by 2050 are no less
+urgent. In many cases, the actions necessary to fully achieve this goal over the next 28 years will
+require substantial efforts in the sectors of our economy that are hardest to decarbonize, including
+industry, buildings and housing, and agriculture. The Plan takes a balanced approach to these issues,
+identifying the actions we can take today to make real progress between now and 2030, while also
+immediately digging into the hard work of identifying strategies to get us the rest of the way to carbon
+neutrality by 2050. To achieve our goals, we must also avoid actions between now and 2030 that make
+it more difficult to reach carbon neutrality.
+It is also important to note that this Plan is a climate mitigation and greenhouse gas reduction plan, not
+a comprehensive plan to adapt and become resilient to the effects of climate change. That said, as we
+work toward our 2030 and 2050 goals, the State will support residents and communities in adapting to
+the climate impacts we are already facing, especially those in historically disadvantaged and
+underserved communities. Additionally, mitigation and adaptation are not mutually exclusive – their
+actions often overlap and benefit each other. Still, while there are climate adaptation considerations in
+this document, they do not constitute a holistic climate adaptation strategy for Michigan.
+Concerted action by all Michiganders will be required to achieve the steep reductions in GHG emissions
+our state needs to achieve its goals. Fortunately, our communities, businesses, and institutions have
+already stepped up and created strong momentum for us to build upon. As described further below, the
+State of Michigan is also leading by example with Governor Whitmer directing state departments to use
+all the tools at their disposal to reduce GHG emissions in their operations and otherwise act on climate.
+(See Leading by Example in State Government)
+While the objectives detailed in the rest of this Plan are ambitious—and in some cases daunting—it is
+important to recognize that our journey to carbon neutrality has already begun thanks to the leadership,
+creativity, and ingenuity of Michiganders across our state.
+
+Page | 6
+
+MI Healthy Climate Plan
+
+INTRODUCTION
+
+Michigan’s Commitment
+
+GOVERNOR WHITMER ’S COMMITMENTS
+
+In addition to leadership from state
+government, this progress has been driven
+– and will continue to be driven – by the
+actions and commitments of Michigan’s
+communities, businesses, and institutions,
+including, but not limited to, the examples
+below.
+Leading communities: At least 16 Michigan
+communities, ranging from the City of Ann
+Arbor to Shelby Township, have set goals to
+be carbon neutral or to reach 100 percent
+renewable energy by 2050.
+Tribal leadership: The Sault Ste. Marie
+Tribe of Chippewa Indians has a net-zero
+energy goal and aims to reduce greenhouse
+gas emissions by four percent per year.
+
+Recognizing the urgency of the crisis and the opportunities
+to build a better future for Michigan as we reduce our GHG
+emissions (see Why Climate Action Matters for Michigan),
+Governor Gretchen Whitmer has taken bold and sustained
+action on climate change since taking office.
+In September 2020, she signed Executive Directive 202010, which committed Michigan to a goal of achieving
+economy-wide carbon neutrality no later than 2050 and
+maintaining net negative greenhouse gas emissions (GHG)
+thereafter. Carbon neutrality means that any carbon dioxide
+released into the atmosphere is balanced by an equivalent
+amount being removed. She also reaffirmed the goals in
+Executive Directive 2019-12, which committed Michigan to
+pursue at least a 26-28 percent reduction below 2005
+levels in GHG emissions by 2025. In addition to the goals
+set by these directives, Michigan joined 24 other states and
+Puerto Rico – under the umbrella of the U.S. Climate
+Alliance – in committing to an interim goal of a 52 percent
+GHG reduction by 2030.
+Executive Directive 2020-10 charged EGLE, through its
+Office of Climate and Energy (OCE), with developing the MI
+Healthy Climate Plan to serve as this state’s action plan to
+reduce GHG emissions and transition toward economy-wide
+carbon neutrality with a focus on solutions that support
+communities disproportionately impacted by the changing
+climate.
+Page | 7
+
+Our largest universities: The University of
+Michigan committed to eliminate both direct
+emissions and emissions from purchased
+energy between 2025 and 2040. Michigan
+State University committed to carbon
+neutrality by 2050 with interim reduction
+goals.
+Homegrown businesses: Steelcase has
+achieved carbon neutrality and has set a
+target to become carbon negative by 2030.
+Whirlpool set a net-zero emissions target in
+its plants and operations by 2030. Dow set
+a target of being carbon neutral by 2050.
+General Motors (GM) set a goal of carbon
+neutrality in its global products and
+operations by 2040. Ford Motor Company
+set a goal of carbon neutrality by 2050 and
+committed to powering its manufacturing
+plants with 100 percent locally sourced
+renewable energy by 2035. And many more
+Michigan businesses – large and small –
+are stepping up.
+Our largest utilities: Consumers Energy set
+a goal of net-zero carbon emissions by
+2040. DTE Energy set a goal to achieve netzero carbon emissions by 2050 with interim
+reductions targets.
+MI Healthy Climate Plan
+
+A CLIMATE PLAN SHAPED BY MICHIGAN RESIDENTS
+The Plan was developed by EGLE with input from hundreds of Michigan residents. To serve as the
+primary venue for gathering and channeling that input, Governor Whitmer created the Council on
+Climate Solutions through Executive Order 2020-182.
+The Council consists of 14 Michigan residents appointed by the governor to represent a range of
+sectors, experiences, and expertise relevant to climate issues. Additionally, the Council includes
+the directors (or their designees) of EGLE and the Michigan Departments of Agriculture and Rural
+Development (MDARD), Labor and Economic Opportunity (LEO), Michigan Economic Development
+Corporation (MEDC), Natural Resources (DNR), Transportation (MDOT), and Health and Human Services
+(DHHS), as well as the State Treasurer and the Chair of the Michigan Public Service Commission
+(MPSC).
+The Council met 14 times in 2021 to develop a common knowledge base on the climate challenge and
+discuss the content and recommendations laid out in this Plan and its appendices. To dig deeper and
+tap broader expertise across Michigan in key areas, five topical workgroups were formed to support the
+Council:
+
+Energy Production, Transmission,
+Distribution, and Storage
+Transportation and Mobility
+Buildings and Housing
+Natural and Working Lands and
+Forest Products
+Energy Intensive Industries
+In addition to the above workgroups, an internal group led by EGLE staff provided recommendations on
+decarbonization related to materials management.
+Hundreds of Michiganders participated in these come-one-come-all workgroups, the membership of
+which was open to the public. Each was co-chaired by a State of Michigan official and a private-sector
+resident with subject-matter expertise in the relevant field. These workgroups met periodically through
+much of 2021 and presented their recommendations to the full Council in the closing months of the
+year. Listening sessions were then conducted to receive public input on those recommendations (a
+complete set of which is provided in the appendices).
+
+Page | 8
+
+MI Healthy Climate Plan
+
+In 2022, EGLE released a draft of this Plan for public feedback, welcoming written comments and
+creating forums for the public to engage and comment on the plan. After overwhelming interest, EGLE
+extended the timeline for input. In addition to public forums, EGLE facilitated consultation with tribal
+governments and hosted meetings with Council and workgroup members, key stakeholders, and the
+Michigan Advisory Council on Environmental Justice (MAC-EJ).
+
+17
+
+2
+
+Council on Climate Solutions
+meetings held to date
+(open to public)
+
+10 +
+
+Consultations with
+Tribal government
+
+Presentations from experts
+at Council meetings
+
+6 TOPI C A L W OR KG R OU P S
+
+Energy production, Transmission,
+Distribution, and Storage
+
+Transportation
+and Mobility
+
+Energy Intensive Industries
+
+Buildings and Housing
+
+Natural and Working Lands
+and Forest Products
+
+Materials Decarbonization
+(ad hoc)
+
+1929 PUBLIC COMMENTS RECEIVED ON DRAFT PLAN
+
+243
+
+1,570
+
+Original emails
+
+Form message emails
+
+2
+
+114
+
+Regular mail
+
+Via 3 listening sessions
+
+7 LI STENI NG SE SSI ONS 2 0 2 1 - 2 0 2 2
+April 22, 2021
+
+•
+
+May 5, 2021
+
+January 26, 2022
+
+Page | 9
+
+•
+
+•
+
+December 1, 2021
+
+February 8, 2022
+
+•
+
+•
+
+December 2, 2021
+
+February 14, 2022
+
+MI Healthy Climate Plan
+
+WHY CLIMATE ACTION MATTERS FOR MICHIGAN
+MICHIGAN IS FEELING THE IMPACTS OF CLIMATE CHANGE
+Immediate, aggressive action on climate change ensures that Michiganders – present and future – can
+thrive in Michigan.
+In just the last three years, Michigan has felt the real impacts of climate change. The state has faced a
+polar vortex that forced residents to come together to keep the heat on, high lake levels that crumbled
+personal property and public infrastructure, record flooding that caused sewers to back up into homes,
+increased instances of disease-carrying insects, toxic algal blooms that put our waters in danger, the
+temporary closure of businesses that rely on seasonal consistency, the breaking of dams that led to the
+evacuation of a community, and week-long power outages.
+Historically stable patterns are changing rapidly in unpredictable ways. Compared to 1900, Michigan is
+almost 3 degrees warmer and gets around five more inches of rain per year.
+
+Frequent and intense storms
+Michigan is experiencing historic levels of rain and intense storms. A continuation of extreme rain will
+lead to more property loss and infrastructure failures, an increase in the likelihood of contamination,
+bacteria, algal blooms in water supplies, and the risk of contracting waterborne diseases like
+Legionnaire’s. The state has also seen extreme changes in Great Lakes water levels.
+
+“When the flood hit on June 25th five feet of water flooded our
+basement. We lost everything that was down there. A lot of the stuff we
+lost can’t ever be replaced. My husband and I had to leave the house
+for 2-3 days because we didn’t have any air conditioning and the heat
+was unbearable. It’s been a devastating experience – and it wasn’t just
+me, it was the whole community.”
+
+– Frankie, a 65-year-old woman from Ypsilanti, Michigan.
+Page | 10
+
+MI Healthy Climate Plan
+
+Rapid temperature changes
+Michigan summers are becoming hotter and drier. The latest science suggests that summers in Detroit
+in 2100 will feel like summers in Dallas do now. Extreme heat will lead to increased hospitalizations due
+to heat exhaustion and heatstroke, wildlife loss from habitat changes, and increased levels of mosquito
+and tick populations that carry diseases like West Nile Virus and Lyme Disease. As with intense rains,
+high heat can damage infrastructure and personal property. Michigan is already seeing roads and
+sidewalks buckle and break from rising temperatures. On the other side of the calendar, Michigan
+winters are becoming more unpredictable. In the last 10 years, the state has experienced three polar
+vortexes leading to irregular cold blasts.
+Along with more severe extremes, uncertainty in temperatures has also presented newfound
+challenges, especially for seasonal activities and industries like farming, hiking, camping, boating,
+skiing, snowmobiling, and ice fishing. This uncertainty was especially prominent in March 2012 when
+the state experienced a record-breaking crop loss event when temperatures hit over 80 degrees causing
+Michigan cherry trees to bloom, only for the crop to be almost entirely lost when temperatures dipped
+back below freezing in April.
+
+“In 2012, Michigan lost over 90% of its tart cherry crop because of erratically
+warm weather that fooled our cherry trees into blossoming while in frost
+season. Michigan’s agriculture relies on relatively predictable, stable weather
+conditions. As the climate changes, we have to operate with increasing
+uncertainty. Some farmers have been forced to import cherries to make up for
+the losses, make expensive updates, or just leave the industry. Our industry has
+a rich, proud history in Michigan rooted in its soil, built by its waters, but now
+those same natural forces are having devastating impacts on our bottom line.”
+– Bob Sutherland, President of Cherry Republic
+
+Page | 11
+
+MI Healthy Climate Plan
+
+If we don’t act aggressively to reduce GHGs, these impacts will only intensify and become more
+challenging and expensive for Michigan residents. It is imperative that we reduce emissions as quickly
+as possible and simultaneously prepare for the changes we cannot prevent.
+
+Importance of adaptation
+The MI Healthy Climate Plan is a climate mitigation and greenhouse gas reduction plan, not a
+comprehensive plan to adapt and become resilient to the effects of climate change. That being said,
+Michigan families are already feeling the impacts of climate change – with the most vulnerable being
+hit hardest. Governor Whitmer and the State of Michigan are committed to continuing to support
+communities as they prepare for and adapt to climate change. This will be done through regular
+engagement and communication, the sharing of tools and best practices, and a commitment to robust
+emergency response protocols in the event of a disaster.
+The State is also working to make state-owned infrastructure more resilient and is providing funding
+and guidance to communities to help them do the same. Mitigation and adaptation are not mutually
+exclusive. In fact, combining the two is essential. According to the IPCC’s most recent report on impacts,
+adaptation, and vulnerability, adaptation measures become less effective the more the planet warms, and
+mitigation efforts that do not anticipate future conditions are less effective. We must adapt to the
+existing impacts of climate change as we work to decarbonize our economy.
+
+FLOODED HOMES
+
+Page | 12
+
+DAMAGED CROPS
+
+DAM FAILURES
+
+ROADS WIPED OUT BY
+HIGH LAKE LEVELS
+
+MI Healthy Climate Plan
+
+ACTION IS AN OPPORTUNITY TO IMPROVE HEALTH O UTCOMES
+Protecting our public health, air, and water by reducing our reliance on fossil fuel technologies like coalfired power plants.
+As Michigan implements the strategies in the Plan to reduce GHG emissions, levels of other harmful
+pollutants in our environment will continue to drop in tandem. That’s why determined action to achieve
+carbon neutrality is an opportunity to dramatically improve public health outcomes, reduce health costs,
+and avoid lost wages from trips to the doctor, emergency room, or worse. This is especially true for
+families and communities historically impacted by pollution.
+
+Easier to breathe
+To take the example of one air pollutant, studies have found that breathing in particle pollution—of
+which coal-fired power plants are a major source – leads to decreased lung function, increased levels of
+asthma, exacerbated respiratory symptoms such as coughing or difficulty breathing, and even
+premature death in people with heart or lung disease. According to state and national data, Michigan’s
+particulate matter pollution from power plants has dropped 73 percent since 2005 as the state has
+transitioned away from coal-fired power to cleaner energy sources.
+As Graph A shows, closing coal-fired power plants and transitioning to cleaner energy sources has
+spurred similar emissions reductions in Michigan across the five common air pollutants for which the
+U.S. Environmental Protection Agency sets National Ambient Air Quality Standards (because of their
+respiratory, cardiovascular, and other harms). Emissions of those pollutants from energy generation in
+Michigan has dropped 85 percent since 2005. With the closure of our state’s remaining coal-fired
+power plants by 2030, that figure is expected to rise to 96.4 percent. In addition, estimated PM2.5
+emissions from electric generating utilities declined from 2,302 tons in 2005 to 1,349 tons in 2020.
+
+Criteria Pollutants from EGUs
+
+All data is in estimated
+tons of emission in 2017
+Sources: Michigan Air
+Emissions Reporting
+System (MAERS) and the
+EPA’s triennial National
+Emissions Inventory (NEI)
+
+Page | 13
+
+MI Healthy Climate Plan
+
+Demonstrating how this Plan’s primary focus on decarbonizing Michigan’s energy production,
+transportation, and buildings will drive public health benefits, Table A shows the extent to which each of
+those sectors contribute to emissions of those five common air pollutants.
+The transportation sector is currently the largest source of those pollutants in Michigan (Table A).
+Federal auto emission standards have and will continue to reduce pollution from internal combustion
+engines. In fact, total emissions dropped around 20 percent between 2014 and 2017. However, we can
+accelerate those reductions by electrifying our transportation sector. As Michigan residents transition to
+electric vehicles, we can expect greater improvements in air quality and a decline in related health
+problems. Better public transit and an increased availability of walking and biking opportunities will also
+reduce harmful emissions and give residents better opportunities for exercise and enjoyment of
+Michigan’s recreational amenities.
+This is particularly important in areas disproportionately impacted by pollution from the concentration of
+major transportation corridors there. As Michigan works to decarbonize our transportation sector
+according to this Plan, state and local transportation planning processes should more fully account for
+health impacts and emphasize solutions that will accelerate the reduction in transportation-related air
+pollution.
+
+Emissions by Pollutant
+
+Page | 14
+
+MI Healthy Climate Plan
+
+While improved air quality is the most direct and widely recognized link between reduced GHG
+emissions and improved public health, Michigan’s pursuit of carbon neutrality can also benefit our land
+and water. To take one example, Michigan’s more than two dozen coal ash landfills are another legacy
+of our state’s historic coal-fired power production. Located close to current and former plants—and in
+some cases residential areas—these landfills have a history of leaking into underlying aquifers that
+residents rely on for drinking water. Our transition away from reliance on coal-fired power production will
+help avoid this contamination in the future.
+Finally, we must recognize that climate change is already—and will continue to—have significant public
+health consequences. Power outages, extreme heat events, exposure to bacteria during sewer backups,
+and other such climate-related impacts harm Michigan families. Avoiding the most severe such
+consequences by reducing our GHG emissions as rapidly as possible will help Michigan avoid costly and
+devastating health outcomes to the greatest extent possible.
+In short, decarbonizing Michigan’s economy is a powerful strategy for improving the health and wellbeing of our 10 million current residents and the generations to come.
+
+“The [Midland] flood in 2020 had great impact on those with diabetes
+in this area. We had patients that lost homes or were living outside of
+their home for a long time after the flood. This led to issues with
+refrigeration for their insulin and obtaining supplies for their insulin
+pump because they had no address for their durable medical
+equipment company to ship their diabetes supplies to.”
+– Erin, RN, CDCES, Diabetes Center Manager,
+MyMichigan Medical Center, Midland
+
+Page | 15
+
+MI Healthy Climate Plan
+
+ACTION IS AN OPPORTUNITY TO RIGHT ENVIRONMENTAL INJUSTICES
+Addressing historical harms, prioritizing environmental justice, and creating equitable opportunities for
+all Michigan residents.
+The State of Michigan should be a place where everyone, no matter their zip code or what is in their
+wallet, should have the opportunity to thrive – to meet their basic needs, enjoy the dignity of good work,
+and live in a healthy community with access to affordable housing, water, heat, power, and
+transportation. Unfortunately, this has not always been the case, particularly for Black, brown,
+indigenous, rural, and low-income people.
+Environmental justice communities are most often communities of color and/or low-income
+The State of Michigan defines environmental justice as the equitable
+treatment and meaningful involvement of all people, regardless of race,
+color, national origin, ability, or income in the development and
+application of laws, regulations, and policies that affect the environment,
+as well as the places people live, work, play, worship, and learn.
+communities. In addition to facing disproportionate impacts from environmental harms, they generally
+have been excluded from the opportunities enjoyed by most of society and left behind during major
+historic economic shifts like our current transition to carbon neutrality.
+Environmental injustices are part of a long history
+of race-based discrimination rooted in the
+sustained actions, behaviors, and attitudes of
+institutions and individuals and encoded in our
+laws at every level. As a result of this structural
+racial discrimination, environmental justice
+communities disproportionately neighbor
+highways, power plants, factories, and other
+facilities that release pollution into the air and
+water. Exposure to this pollution over time leads
+to health issues and lower quality of life. These
+communities also tend to enjoy fewer trees and
+lack access to green spaces and other quality
+outdoor recreation amenities.
+Environmental justice considerations are a key component of equitable climate action and will continue
+to be a priority for the state as it works to eliminate racial disparities impacting the health and wellbeing of Michiganders. Recognizing that bringing communities of color off the frontlines of the climate
+crisis and ensuring that they will be full beneficiaries of a carbon neutral economy, Governor Whitmer
+called on those developing the MI Healthy Climate Plan to design and recommend decarbonization
+strategies that will prioritize and advance equity and environmental justice. The transition to a carbon
+neutral economy has the potential to help alleviate existing environmental injustices, address historical
+harms, and create new opportunities for Michiganders.
+Page | 16
+
+MI Healthy Climate Plan
+
+Disproportionate impacts
+While Michiganders have relied for generations on the burning of fossil fuels for everything from driving
+to work to cooking dinner and turning on the lights, many of Michigan’s most disadvantaged
+communities and communities of color have faced the brunt of the environmental and other impacts of
+an economy based on fossil fuels.
+In the electricity sector, high-emitting power generation facilities and related fossil-fuel infrastructure
+are often located in low-income communities and communities of color. Meanwhile, in Michigan,
+households with an income below the Federal Poverty Line spend 18 percent of their income on energy,
+compared to an average of 3 percent for the overall population.
+In the transportation sector, high-emitting transportation corridors often run right through low-income
+communities and communities of color, splitting historic neighborhoods in two, burdening them with
+higher pollution, and otherwise undermining their quality of life.
+In homes and businesses, many disadvantaged communities live
+and work in subpar buildings, face higher energy burden, and are
+subject to health-related impacts from natural gas appliances, all
+while lacking access to the investments in energy efficiency and
+onsite renewable energy seen in other communities.
+In the industrial sector, low-income communities and communities
+of color often endure the environmental and other harms of life on
+the fence lines of heavy industrial facilities.
+Michigan recognizes that tribal nations have also faced disproportionate burdens in our fossil fuel
+economy and are especially vulnerable to the impacts of climate change because of their deep ties to
+the land and reliance on hunting, fishing, and gathering. Oil spills and other such contamination have
+impacted resources like wild rice. The changing climate threatens the sustainability of the Great Lakes
+fishery which tribal fishers rely upon to earn a living and feed their families. Many cultural practices and
+traditions require access to species, like the maple tree, that are put at risk by climate change.
+Michigan’s climate strategies and actions must honor, embrace, benefit, and not interfere with the
+cultural heritage and treaty rights of federally recognized tribal nations in Michigan and preserve the
+fragile balance of the Great Lakes ecosystem at the heart of that heritage and those rights.
+
+Page | 17
+
+MI Healthy Climate Plan
+
+Just transition
+As Michigan transitions away from fossil fuels and traditional carbon heavy industries, it is critical to
+prepare our workforce for the new opportunities of a carbon neutral economy and ensure all Michigan
+families have access to those opportunities, particularly those who have not enjoyed equitable access
+in the past. To ensure our transition to carbon neutrality is just—and avoid responding to climate change
+in a way that reinforces challenges that historically disadvantaged communities have faced—we need to
+proactively and intentionally plan for equity and environmental justice. During the transition to a carbon
+neutral economy, Michigan’s most vulnerable communities must be prioritized. The transition to a
+carbon neutral Michigan needs to happen as fast as possible without leaving anyone behind.
+
+In response to a 100-year rain event, the Macomb County Health Department surveyed
+homes.
+“The responses to our post-flood survey allowed us to see the impact socioeconomic factors
+have on our population's health. We found it concerning that low-income households (37%)
+were more than twice as likely to report a decline in their health status than high income
+households (16%). This has provided an opportunity to focus our messaging and community
+engagement activities going forward to help us better prepare for future emergencies.”
+Tom, Environmental Health Services Division Director, Macomb County Health Department
+
+Page | 18
+
+MI Healthy Climate Plan
+
+ACTION IS AN E CONOMIC OPPORTUNITY FOR MICHIGAN
+Creating good paying jobs for Michigan families, increasing our state’s economic competitiveness, and
+lowering costs as we pursue carbon neutrality.
+Climate change is already resulting in economic costs to families and businesses across the state, but
+strategic and aggressive climate action also presents immediate and long-term opportunities to create
+economic growth, support good-paying union jobs, and lower costs for working families. Immediate and
+sustained action on climate is also
+necessary for Michigan to remain
+globally competitive in the decades
+ahead. The transition to a carbon
+neutral Michigan needs to happen
+as fast as possible without leaving
+anyone behind.
+
+Economic opportunities
+Businesses are increasingly
+focused on climate and are looking
+to invest and locate in states that
+embrace clean energy, advanced
+manufacturing, and the next
+generation of transportation. If the
+State acts aggressively on climate
+and builds on Michigan’s strengths
+in manufacturing and the automotive sector, we can ensure that homegrown companies stay in
+Michigan and that the state is more attractive to new economic development opportunities.
+In 2021, Michigan was ranked as a top 3 state for sustainable development. Over the past three years,
+according to the Michigan Economic Development Corporation, Michigan has received more than $16
+billion in private investment from mobility and automotive companies. In early 2022, GM announced
+the company’s largest ever investment—a total of $7 billion to develop a new battery factory in the
+Lansing area and convert an existing factory in Orion Township to electric pickups. This major stake in
+making Michigan an electrified transportation leader will create 4,000 new jobs and retain another
+1,000 existing ones in our state. Michigan has also seen significant investments in clean energy
+projects with more than $5 billion worth of renewable energy projects coming online since the passage
+of the state’s clean energy law in 2008.
+
+Page | 19
+
+MI Healthy Climate Plan
+
+Good-paying jobs
+Michigan is home to over 113,000 clean energy jobs in every region of Michigan with the majority in
+manufacturing (57 percent) and construction (21.7 percent). Showing its resilience and staying power,
+Michigan’s clean energy industry rebounded faster than the state’s overall economy following the initial
+onset of the COVID-19 pandemic.
+
+The largest number of clean energy jobs in Michigan are
+in energy efficiency, ranging from HVAC installation to
+advanced materials manufacturing. The fastest-growing
+industry is advanced transportation, which employs more
+than 24,000 Michiganders. Over two-thirds of Michigan’s
+clean energy jobs are with small businesses employing
+less than 20 workers. Clean energy jobs pay up to 25
+percent more than the national median wage and are
+more likely to be unionized and come with health care and
+retirement benefits than the rest of the private sector.
+Many of these jobs do not require college degrees.
+Growing our clean energy workforce, connecting
+opportunities to the Michiganders who need them most,
+and providing workers the training and skills that they
+need to succeed will take sustained, deliberate action
+from the State and the business community.
+
+Page | 20
+
+“The transition to electric vehicles is a big
+deal for union workers, union electrical
+contractors, businesses, and working
+families. As a union journeyman, I've
+worked to provide safe, reliable electrical
+systems for communities and
+homeowners, but I am so excited about the
+new opportunity to install and provide
+service for electric vehicle charging
+stations and be a part of this transition.
+This transition is critical to secure
+Michigan's spot as the home to the future
+of electric vehicles."
+- Karen from Detroit
+
+MI Healthy Climate Plan
+
+Reduced costs for working families
+Climate action will also lower costs for working families and small businesses. To achieve our GHG
+reduction goals, Michigan must make transformative investments in weatherizing and reducing energy
+waste in our homes and places of business. Combined with the increased use of renewable energy, this
+will lower the monthly utility bills for Michigan families and businesses. At the same time, the transition
+to electric vehicles will reduce costs related to fueling and maintaining our cars, while improved public
+transit will help Michiganders cut the share of our incomes spent on transportation and provide the 8%
+of Michigan households without personal vehicles greater access to jobs and other opportunities.
+Examples of the powerful math behind these benefits include the following:
+ For every $1 invested in reducing energy waste in our homes –
+through more efficient windows, lighting, and other energy-saving
+technologies – homeowners save more than $3.20 in reduced future
+energy bills. Energy efficiency also reduces energy burden by as
+much as 25 percent, translating into more than $400 in annual
+savings for households.
+
+$400
+Annual
+Savings
+
+ The levelized cost of electricity for new onshore wind and solar
+resources that are coming online in 2023 was $25.55/MWh and
+$25.89/MWh respectively, compared with $34.78/MWh for new
+combined-cycle natural gas units. Adding new wind and solar
+resources is comparable – and in many cases cheaper – to the cost
+of running existing power plants.
+ Michigan sends billions of dollars out-of-state annually to purchase fossil fuels. If we produce more
+of our energy right here in Michigan from clean, renewable resources, we will be more energy
+independent and lower costs for working families.
+ Owners of electric vehicles are expected to save between $6,000 to $10,000 over the life of the
+vehicle, compared to a gas-powered vehicle, because charging is half as expensive as the
+equivalent amount of gas and electric vehicles require half as many repairs and cost half as much
+to maintain.
+
+“We recently bought an electric vehicle, installed solar panels on our roof, and switched to a
+geothermal HVAC. We're saving money on utility bills and gasoline without compromising
+any of our needs. When I tell people about this, they wonder how I could afford it. There are a
+lot of generous financing options and federal tax credits for these investments. Depending
+on the project, the payments might be around the same as the energy savings and the
+project will pay for itself right away! You can make modest investments, lower your bills, and
+be a part of the climate solution right now.”
+– John, Farmington Hills resident
+
+Page | 21
+
+MI Healthy Climate Plan
+
+High cost of inaction
+While the opportunities to create good jobs, cut costs, and grow our economy should be more than
+enough to inspire ambitious action to decarbonize our economy, it is also important to remember that
+climate inaction will come at a high price for Michiganders. Climate change increases the likelihood of
+natural disasters, damaging infrastructure that is costly to repair and disrupts business. More erratic
+and unpredictable temperatures lead to uncertainty and losses for our farmers and other sectors that
+rely on seasonal consistency. And extreme weather worsens health outcomes leading to lost
+productivity and wages.
+
+Michigan currently spends millions of dollars annually responding to climate-related emergencies and
+other impacts. Early intervention is a much sounder strategy with a much better return on investment.
+According to a recent study, the state will avoid $4 to $11 worth of future damages for every $1 it
+commits to climate adaptation.
+Climate action will spur innovation, increase the state’s economic competitiveness, create good-paying
+jobs for Michigan workers, and cut costs for working families. This Plan sets the state on track to a more
+prosperous and sustainable Michigan.
+
+Page | 22
+
+MI Healthy Climate Plan
+
+MICHIGAN’S GREENHOUSE GAS EMISSIONS
+Governor Whitmer’s emissions reduction goals use a 2005 baseline for Michigan’s GHG emissions,
+which can be categorized into five key sectors: energy production, transportation, the built environment,
+natural and working lands, and energy-intensive industries. The following uses Rhodium Group’s 2021
+emissions outlook data to summarize the share of Michigan’s GHG emissions that come from each
+sector and provide a basic sense of the task ahead and the areas of our economy with the furthest to
+go in our quest for carbon neutrality.
+The electric power sector and the transportation sector are the state’s two leading sources of GHG
+emissions with the transportation sector set to eclipse the electric power sector imminently. Emissions
+from heating Michigan’s buildings and running fossil-fuel-burning appliances account for the third
+largest contribution. Energy-intensive industries contribute a similar level of emissions to buildings—
+from onsite fuel usage and emissions inherent in certain industrial processes like cement
+manufacturing. Natural and working lands – which include emissions from agriculture and land-use
+changes (i.e., developing green spaces or impacting wetlands) – contribute the smallest percentage of
+overall emissions. However, because natural and working lands also present an opportunity to capture
+GHG emissions—an important piece of the carbon neutrality puzzle—they should not be undervalued or
+overlooked.
+
+Greenhouse Gas Emissions by Source
+
+Page | 23
+
+MI Healthy Climate Plan
+
+ENERGY PRODUCTION
+In 2005, the power sector in Michigan emitted 76.55 million metric tons (mmt) of carbon dioxide
+equivalent emissions (CO2e). Those emissions came primarily from coal-fired power plants, followed by
+natural gas power plants. Michigan also benefits from a diverse power sector that includes nuclear
+power plants and the pumped hydro facility at Ludington. Through the closure of coal plants and the
+expansion of renewable energy resources, power sector emissions in Michigan fell to 58.2 mmt CO2e in
+2019 – a 24 percent decrease over that decade and a half period.
+
+TRANSPORTATION
+In 2005, the transportation sector in Michigan emitted 59.26 mmt CO2e. Most of those emissions
+came from light-duty passenger vehicles and heavy-duty freight trucks (our state of 10 million people
+has nearly 7 million vehicles!). As electric vehicles became more available and modern internal
+combustion engine (ICE) vehicles became more fuel efficient, transportation emissions dropped slightly
+to 53.04 mmt CO2e in 2019 – a 10 percent reduction since 2005.
+
+BUILT ENVIRONMENT
+In 2005, homes and businesses emitted 33.39 mmt CO2e, mostly from the use of sources like natural
+gas, fuel oil, or propane for heating and appliances. Driven by increased emissions from commercial
+buildings, this sector saw a slight uptick to sector-wide emissions of 35.61 mmt CO2e in 2019.
+
+ENERGY-INTENSIVE INDUSTRY
+In 2005, Michigan’s oil, gas, and industrial sectors emitted 33.78 mmt CO2e. Michigan has a rich
+history of manufacturing, and most of these emissions came from the process of producing new goods,
+like iron, steel, cement, and chemicals. Industry is always innovating and improving efficiency, leading
+to reduced emissions of 28.05 mmt CO2e in 2019 – a 17 percent change in the right direction.
+
+NATURAL AND WORKING LANDS
+Michigan has a unique diversity of land uses and ecosystems. Agricultural soil management is a major
+source of emissions from this sector, primarily from the large-scale farm operations in the southern
+portion of the state, while the forests in the north are the state’s major carbon sink. This sector’s net
+GHG emissions have remained almost unchanged over the past decade and a half. Agriculture and
+waste sources emitted 17.12 mmt CO2e in 2005 and 17.37 mmt CO2e in 2019. Natural lands
+sequestered 41.35 mmt CO2e in 2005 and 41.41 mmt CO2e in 2019.
+While our emissions are projected to stay on a downward trend, we need to accelerate reductions
+across all sectors to meet our decarbonization goals on our established timelines. Reducing our
+emissions at the scale necessary will take concerted action at the international, federal, state, local,
+and individual levels. To track progress of the MI Healthy Climate Plan and help identify the areas for
+greatest GHG reduction potential, Michigan will develop a GHG inventory working with public and private
+partners and stakeholders.
+
+Page | 24
+
+MI Healthy Climate Plan
+
+A CARBON NEUTRAL MICHIGAN
+While we are immediately focused on the short-term—and the objectives in the Roadmap to 2030
+section below—our long-term goal to achieve economy-wide carbon neutrality by 2050 is no less urgent.
+Economy-wide carbon neutrality means that every sector of Michigan’s economy – energy production,
+transportation, built environment, natural and workings lands, and energy-intensive industry – will work
+together to meet our decarbonization goals. Reaching our mid-century milestone will require particularly
+substantial effort and innovation in the sectors of our economy that are hardest to decarbonize,
+including industry, buildings and housing, and agriculture. Since these sectors will take strategies and
+approaches that are not yet fully developed, we must start now. Also, we cannot take steps between
+now and 2030 that will jeopardize our ability to meet our 2050 goal.
+But what does a carbon neutral Michigan look like? If we take a creative, strategic, and aggressive
+approach to reducing our GHG emissions, Michigan will be a state where residents enjoy better health
+outcomes and an improved quality of life; working families have more opportunities, high-paying jobs,
+and a lower cost of living; equity is centered in every decision; our global leadership in clean innovation
+and related economic development drives sustained prosperity; and everyone has greater access and a
+deeper connection to our state’s natural beauty.
+
+Page | 25
+
+MI Healthy Climate Plan
+
+In Michigan in 2050…
+As we implement the strategies in this Plan and transition Michigan to a thriving carbon neutral
+economy—while mitigating and adapting to the negative impacts of climate change—Michigan can take
+transformative steps toward a future in which:
+Every individual has clean air to breath and clean water to drink.
+Every business and household has access to affordable energy sourced from reliable, clean
+energy.
+Every worker has a good-paying, sustainable job to support their family.
+Every resident has access to clean, affordable transportation.
+Every family lives in a healthy, sustainable, efficient home.
+Every individual has easy access to healthy, affordable, local food.
+Every resident has safe, natural spaces to enjoy.
+Every community has the resources to be resilient to the impacts of climate change.
+Michigan has addressed racial disparities in health outcomes.
+Michigan is globally known for its leadership in clean innovation and industry.
+Michigan’s land and resources are abundant and healthy.
+Michigan has mitigated the worst impacts of climate change and worked to adapt and
+become resilient to existing impacts of climate change.
+As we look to this bright future, we know the best solutions to achieve these goals will emerge and
+evolve through innovations in technology, strategy, and policy, as well as individual and community
+level problem-solving. This work must start now and continue through 2050 and beyond.
+
+Page | 26
+
+MI Healthy Climate Plan
+
+A ROADMAP TO 2030
+
+The State of Michigan has committed to carbon neutrality by 2050 with 52 percent GHG emissions
+reductions by 2030 as an interim target. Achieving our 2030 goal will require Michigan to reduce
+annual GHG emissions by approximately 92.95 million metric tons of CO2 equivalent based on
+today’s emissions levels.
+Sustained, aggressive action across Michigan’s economy is necessary to reach these targets. A
+variety of factors will determine the extent to which various sectors and subsectors reduce emissions
+during this time, including technological breakthroughs and constraints, economic opportunities and
+costs, and public support/consumer demand for change.
+The MI Healthy Climate Plan intends to spur the changes that are imperative—that must happen, and
+happen now, to meet our goals. It also seeks to shape how Michigan achieves carbon neutrality by
+recommending strategies that will maximize the benefits for Michigan families from decarbonization.
+To that end, the Plan focuses most heavily on the three sectors with the greatest opportunity for rapid
+and substantial gains in GHG reductions—energy production, transportation, and the built
+environment. It also prioritizes environmental justice across all actions and spotlights pathways to
+carbon neutrality that will lead Michigan to better health outcomes, good jobs, and economic
+prosperity for all Michiganders.
+This ‘Roadmap’ provides recommendations but should not limit additional actions. State government,
+local governments, tribal governments, and private institutions should strive to move beyond these
+recommendations and seek innovation and new approaches to reduce GHG emissions. Across all
+sectors, Michigan should use every tool and chase every dollar available, including Infrastructure
+Investment and Jobs Act funds, to help meet our climate goals.
+Page | 27
+
+MI Healthy Climate Plan
+
+NOTE: This section borrows liberally from the concepts and language that the five topical workgroups
+submitted to the Council on Climate Solutions along with their recommendations. The workgroups included:
+Energy Production, Transmission, Distribution, and Storage; Transportation and Mobility; Buildings and
+Housing; Energy Intensive Industries; and Natural and Working Lands and Forest Products. In addition to the
+above-listed workgroups, an internal group led by EGLE staff provided recommendations on decarbonization
+related to materials management. This section intentionally includes environmental justice recommendations
+in every sector, not just the environmental justice section.
+
+Key Recommendations
+In the pages that follow, this Roadmap offers several recommendations in each of the areas below
+with a brief background discussion of each. A brief summary of key recommendations is provided
+here.
+Commit to Environmental Justice and Pursue a Just Transition: Ensure that at least 40 percent
+of state funding for climate-related and water infrastructure initiatives benefit Michigan’s
+disadvantaged communities (in line with the federal government’s Justice40 guidelines for federal
+funding); that Justice40 is developed in partnership with leaders in disadvantaged communities;
+and that Michigan emphasizes a just transition for all workers through proactive engagement, job
+training, and workforce development.
+Clean the Electric Grid: Generate 60 percent of the state’s electricity from renewable resources
+and phase out remaining coal-fired power plants by 2030. Limit energy burden from powering and
+heating homes to not more than 6 percent of annual income for low-income households.
+Electrify Vehicles and Increase Public Transit: Build the infrastructure necessary to support
+2 million electric vehicles on Michigan roads by 2030. Increase access to clean transportation
+options – including public transit – by 15 percent each year.
+Repair and Decarbonize Homes and Businesses: Reduce emissions related to heating Michigan
+homes and businesses by 17 percent by 2030. Increase investments in repairing and improving
+buildings to reduce costs for working families and small businesses.
+Drive Clean Innovation in Industry: Encourage clean innovation hubs where private enterprises
+strategically co-locate and collaborate to develop and deploy new, cleaner manufacturing
+technologies and conduct research and development to reduce emissions from hard to
+decarbonize industries. Triple Michigan’s recycling rate to 45 percent and cut food waste in half by
+2030.
+Protect Michigan’s Land and Water: Protect 30 percent of Michigan’s land and water by 2030 to
+naturally capture GHG emissions, maintain and improve access to recreational opportunities for all
+Michiganders, and protect biodiversity. Leverage innovative strategies to support climate-smart
+agriculture.
+
+Page | 28
+
+MI Healthy Climate Plan
+
+COMMIT TO ENVIRONMENTAL JUSTICE AND PURSUE A JUST TRANSITION
+We are committed to addressing past, present, and future environmental injustices and providing
+equitable access to the jobs and other benefits of Michigan’s carbon neutral future. This section of
+the Plan focuses on policies and programs that will ensure the equitable treatment and meaningful
+participation of all Michiganders in that future.
+
+Key Strategies
+ Justice40 – Ensure that at least 40 percent of state funding for climate-related and water
+infrastructure initiatives benefit Michigan’s disadvantaged communities, in line with the
+federal government’s Justice40 guidelines for federal funding. Develop Justice40 in close
+partnership with leaders in disadvantaged communities.
+ Environmental justice analysis – Engage all state agencies in determining how
+environmental justice screening tools can assist them in designing better information
+gathering, outreach, engagement, and decision-making processes to reduce existing and
+future impacts to residents (this includes permitting decisions). Expand on the efforts of
+the Michigan Public Service Commission to conduct an environmental justice and health
+impact analysis as part of Integrated Resource Planning (IRP) so the potential community
+impacts of utility investment decisions are more fully considered.
+ Workforce development and job training – Strengthen and create workforce
+development, job training, pre-apprenticeship/apprenticeship, joint labor management
+training, and other such programs for in-demand clean energy jobs – from preweatherization services to grid maintenance, electric vehicles, and renewables. Ensure
+these programs are federally certified by the Department of Labor where applicable.
+Incentivize workforce development and training for workers experiencing energy-related
+employment transitions and those in underrepresented or disproportionately impacted
+communities.
+ Just transition – Expand transparency around the Energy Transition Impact Project’s work
+and provide financial support and best practices to communities addressing economic
+transitions from closures of fossil fuel facilities and other large industrial operations. Work
+with employers and other partners to develop sector-specific retraining solutions.
+ Development, retention, and attraction of clean energy businesses – Expand efforts to
+support business development, retention, and attraction around clean energy businesses.
+Conduct trainings to support minority-owned, veteran-owned, women-owned, tribal-owned
+clean energy businesses and help them compete in utility and state procurement programs.
+Identify tools and best practices to expand opportunities for these firms in Michigan.
+Beyond committing to the actions above, this Roadmap includes recommendations infused with
+environmental justice considerations in each of the major GHG-emitting sectors. For example, this
+Plan also includes commitments to reduce energy burden for disadvantaged communities,
+strengthen ratepayer input at the Michigan Public Service Commission (MPSC), and spur more
+equitable investments in energy saving home repairs, public transportation, and clean energy
+solutions for schools.
+Page | 29
+
+MI Healthy Climate Plan
+
+Background
+The State of Michigan should be a place where everyone has the opportunity to thrive, no matter their
+zip code or the contents of their wallet. This includes the opportunity to enjoy the dignity of good work
+and live in a healthy community with access to affordable housing, water, and utilities. Unfortunately,
+this has not always been the case, particularly for Black, brown, indigenous, and low-income people.
+The United for ALICE project documents the struggle experienced by the Asset Limited, Income
+Constrained, Employed segment of our population. It shows that even with unemployment at record
+low levels, much of our population struggles to make ends meet. In Michigan as a whole, 38 percent
+of the population falls into this category with 13 percent below the poverty line and 25 percent above
+it but still not making ends meet. More than half of Michiganders across much of the Upper Peninsula
+and the central portion of the Northern Lower Peninsula fall into this category. In Detroit, the figure is
+approximately 70 percent.
+These Michigan families face daily “choices” between paying rent, staying current on utility bills, and
+buying food for their children. With limited resources, they are also particularly vulnerable to the
+extreme weather, economic transitions, and other impacts of climate change. If Michigan does not
+proactively intervene, climate change will only deepen these existing harms and inequities. We must
+seize our transition to carbon neutrality as an opportunity to chart a new path.
+
+Guarding against future challenges
+Many of the strategies laid out in this plan will help right environmental justice wrongs from the past.
+Renewable energy and electric vehicles will help clean the air, and green infrastructure will help keep
+our cities cooler and utility bills lower.
+However, if we are not deliberate in moving toward an environmentally just future, we run the risk of
+creating new inequities as we transform the way we create and consume energy. For example,
+electric vehicles are not yet affordable or accessible for all Michiganders, so the Plan includes a broad
+transportation decarbonization strategy to make walking, biking, and public transit more accessible to
+Michigan families and electric vehicles cheaper and easier to charge.
+In the electric sector, there is no automatic guarantee that retiring coal facilities and increasing use of
+other electric generation assets – current or future – will benefit Michigan communities. That is why
+the Plan calls for holistic energy planning and increased consideration of environmental justice in
+decision making. Additionally, while more renewable energy will help all Michiganders, access to the
+benefits of renewable energy may not be equitable. Thus, the Plan calls for funding programs focused
+on Michigan’s disadvantaged communities. Finally, we must take particular care to ensure that the
+energy transition does not result in a disproportionate energy burden for Michigan’s disadvantaged
+communities. In other words, we must do everything we can to avoid a future in which utility bills cost
+families in those communities an even greater share of their disposable income.
+Our frontline communities will also be hit first and hardest by the impacts of climate change. An
+environmentally just future includes making sure that no one experiences disproportionate harm from
+the extreme heat and precipitation that Michigan will experience over the next century no matter how
+quickly we decarbonize. This Plan does not contain a holistic adaptation and resilience strategy,
+though resilience will be core to our Plan implementation work.
+Page | 30
+
+MI Healthy Climate Plan
+
+Justice in funding decisions
+In January 2021, the White House created the Justice40
+Initiative by executive order. It aims to deliver to
+disadvantaged communities 40 percent of the overall
+benefits of relevant federal investments. As a part of this
+Plan, Michigan has committed to aligning our relevant
+federal and state investments with this initiative.
+The State is currently waiting for guidance from the
+federal government on how to effectively implement
+Justice40. The State will also actively seek input from
+environmental justice communities, tribal governments,
+and other stakeholders as we define the scope, benefits,
+and community qualifications for this initiative and
+determine how to best implement Justice40 and track
+progress.
+
+Inclusive and transparent engagement and
+decision-making
+In addition to funding decisions, we must ensure all state
+agencies are considering environmental justice across
+their operations and decision making.
+As mentioned above, the Plan calls for all state agencies
+to evaluate current information gathering, outreach and
+engagement, and decision-making processes and
+determine how environmental justice screening tools can
+assist them in avoiding and correcting disproportionate
+impacts on disadvantaged communities.
+It also calls for the expansion and improvement of efforts
+initiated by EGLE and the MPSC to conduct an
+environmental justice and health impact analysis as part
+of utility Integrated Resource Planning, so that the
+potential community impacts of utility investment
+decisions are more fully and faithfully considered. The
+Plan also includes multiple opportunities to support
+meaningful engagement of Michigan’s environmental
+justice communities, including calling for additional
+funding for the Utility Consumer Representation Fund,
+which is managed by the Utility Consumer Participation
+Board, to support ratepayer advocates in their
+interventions at the MPSC.
+As the Plan is implemented, the OCE will establish
+consistent and transparent practices for engaging
+Page | 31
+
+EXPANDING ON THE WORK OF THE
+ENVIRONMENTAL JUSTICE PUBLIC
+ADVOCATE
+In 2019, through Executive Order 201906, Governor Whitmer created the Office
+of the Environmental Justice Public
+Advocate (OEJPA).
+To gather input from impacted
+communities, the OEJPA has hosted 8
+regional roundtables across the state to
+discuss environmental justice
+challenges and identify opportunities to
+pursue more just outcomes in
+environmental decision-making. It has
+led the State of Michigan in developing
+the Michigan Environmental Justice
+Screening Tool, an interactive mapping
+tool that identifies Michigan
+communities that may be
+disproportionately impacted by
+environmental hazards. The map will
+allow users to explore the
+environmental, health, and
+socioeconomic conditions within a
+specific community, region, or across the
+entire state.
+The OEJPA is also working directly with
+partners in individual communities,
+including a new pilot to build a
+Community Resiliency Plan in the
+48217-zip code in Southwest Detroit.
+And the office coordinates initiatives
+with Michigan’s tribal governments, like
+the Michigan Wild Rice Initiative, which
+brings together specialists and
+managers from all 12 federally
+recognized tribes, multiple state
+departments and federal agencies, and
+others to share information, coordinate
+approaches, and elevate awareness
+about wild rice conservation and
+restoration.
+MI Healthy Climate Plan
+
+environmental justice communities in close collaboration with existing bodies like the MAC-EJ. In
+addition, the OCE will ensure robust engagement with tribal governments continues through the
+existing tribal consultation process.
+
+Invest in workforce and a just transition
+As we transition to a decarbonized economy with more efficient buildings, increased renewable
+energy sources, and expanded electrified transportation solutions, Michigan must invest in our
+workforce. We need to be prepared to capture new, good-paying jobs for Michigan workers and
+support those who may need to transition as the economy changes. Michigan is committed to
+ensuring no Michigan workers get left behind.
+In 2020, Governor Whitmer launched the Energy Transition Impact Project (ETIP) under the leadership
+of the Department of Treasury. ETIP is designed to identify communities that will be impacted by the
+changes to the mix of energy production facilities in Michigan. The program works directly with those
+communities and workers to minimize impacts from a facility closure, including the loss of
+employment, property tax revenues, and related community services. Comprehensive transition
+strategies are developed to reposition communities for future economic development, high-paying
+jobs, new infrastructure investments, housing improvements, and other needs identified by local
+leaders and residents.
+In addition, to support worker transitions and keep Michigan competitive for the clean energy jobs of
+the future, State of Michigan programs expanded their focus on high-quality workforce development,
+job training, pre-apprenticeship and apprenticeship, and joint labor management trainings for indemand clean energy jobs. And, to make sure there is a demand for graduates of these programs, the
+Plan includes business development, retention, attraction, and other supports for minority-owned
+businesses in the clean energy industry. It is critical that workers who may be displaced by the energy
+transition—and residents who have been disproportionately impacted by climate change—are able to
+take advantage of new clean energy job opportunities.
+
+Page | 32
+
+MI Healthy Climate Plan
+
+CLEAN THE ELECTRIC GRID
+In 2019, Michigan’s power sector contributed approximately 30 percent of Michigan’s total GHG
+emissions. In 2020, coal and natural gas, the two primary sources of GHG emissions in the power
+sector, provided 59 percent of all electricity generation in the state. To meet our climate goals,
+Michigan will need to increase the adoption of wind and solar generation, increase energy waste
+reduction, invest in grid infrastructure and planning, and ensure that all of these actions are done in a
+manner aligned with environmental justice.
+
+Key Strategies
+ Clean energy resources – Generate 60 percent of the state’s electricity from renewable
+resources by adopting a renewable energy standard of 50 percent by 2030, supporting
+voluntary utility green pricing programs, and creating more favorable conditions for
+customer-sited behind-the-meter distributed energy resources like rooftop solar. Work with
+Michigan utilities to effectively phase out coal-fired power plants.
+ Holistic and integrated energy system planning – Improve energy system planning by
+fully integrating traditional resources, transmission, distribution, new and emerging
+resources, and considerations related to the interdependency of electric and natural gas
+systems. Elevate community health impacts and equitable access to infrastructure in
+energy planning and investment decisions. Continue to develop and refine innovative rate
+designs to incent behaviors that advance clean energy goals.
+ Affordability and energy burden – Limit energy burden from powering and heating homes
+to not more than 6 percent of annual income for low-income households. Increase
+affordability of utility services through expanded “Percent of Income Pilot Programs” and
+through minimum allocation levels for utility investment in low-income energy efficiency
+programs. Direct additional funding to the Michigan Utility Consumer Representation Fund
+(UCPF) to provide resources to intervenors in MPSC proceedings who represent the
+interests of low-income communities.
+ Siting – Assist clean energy developers and communities in adopting best practices for
+siting renewable energy systems. Implement a plan to site solar on state-owned lands and
+properties as quickly as possible.
+ Energy storage – Adopt a statewide storage target to deploy 4,000 Megawatt (MW) of grid
+scale storage by 2040 with a short-term target of 1,000 MW by 2025 and a medium-term
+target of 2,500 MW by 2030. Increase consideration of energy storage resources in utility
+Integrated Resource Plans through accurate modeling.
+
+Background
+To reach our climate-related goals, attract clean energy jobs, and drive down costs for Michiganders,
+rapid and comprehensive action is needed in the electricity sector. In fact, bolder action is particularly
+wise here—relative to other sectors—because of the cost-effective and scalable nature of
+decarbonizing the electricity sector.
+Page | 33
+
+MI Healthy Climate Plan
+
+This Plan’s recommendations prioritize five key strategies for transforming the electricity sector:
+accelerating the adoption of renewable energy like wind and solar; retiring coal and other fossil fuels;
+investing in energy waste reduction measures that drive down costs for Michiganders; improving
+infrastructure and planning to ensure resource adequacy; and making sure all efforts are done with
+environmental justice in mind.
+It is important to note that energy waste reduction is a key strategy in the electricity sector, but it is
+addressed more robustly in the “Repair and Decarbonize Homes and Businesses” section of the Plan.
+
+Michigan Electric Generation
+
+Drive Adoption of Renewables
+Michigan’s progress over the last decade has shown that an economy powered by clean, renewable
+electricity is not only possible but increasingly preferred. Currently, renewable energy generates about
+11% of Michigan's total in-state electricity. As deployment has increased and the wind, solar, energy
+storage, and related industries have scaled up, the cost of renewable energy has continued to fall.
+According to the MPSC, it cost energy providers an average of $64.48 per megawatt hour to purchase
+renewable energy in the period from 2009 to 2020. However, in some cases, recent contracts have
+dropped in cost by more than 35 percent, thus making them significantly less expensive and more
+stable for major energy providers than non-renewable resources.
+
+Page | 34
+
+MI Healthy Climate Plan
+
+Nearly all of Michigan’s electric utilities have made individual commitments to reduce carbon
+emissions, with some utilities pursuing levels of renewable energy deployment beyond what is
+required under the state’s existing mandates and goals. They are also retiring their fleets of aging
+coal-fired plants. According to utility retirement schedules, just one coal-fired power plant is
+scheduled to continue operating after 2028.
+Despite this progress, Michigan will need a massive scaling up of renewable energy to achieve 60
+percent renewable energy penetration this decade and reach carbon neutrality by 2050. To reach
+that 2030 target, Michigan must adopt a renewable energy standard of 50 percent by 2030 through
+the passage of legislation or via formal commitments from Michigan’s utilities in proceedings before
+the Michigan Public Service Commission. As a demonstration of the feasibility of that standard,
+Michigan’s investor-owned utilities already have plans in place to dramatically scale up their
+renewables. Taking solar for example, DTE intends to have at least 10 million panels in its generation
+mix by 2040, and Consumers Energy is planning for 8,000 MW built by the same year.
+While a 50 percent renewable energy standard serves as a foundation, higher levels of renewable
+energy penetration will be necessary to achieve our goals and customer-enabled renewable energy
+will play a central role in additional gains. In Michigan and across the country, large companies and
+customers are helping to drive the increased adoption of renewable energy through tools like
+voluntary green pricing programs, customer-sited distributed energy, community solar, demand
+response, battery storage, and more. By encouraging the most-cost effective investments in clean
+energy resources for all energy customers, including supporting customer-sited resources, we
+can increase options for customers to participate in the fight against climate change and make our
+electric grid more resilient.
+Of course, adoption of renewable energy on the scale necessary to achieve our goals will require
+Michigan to responsibly locate wind, solar, and storage in communities across the state. Local siting
+challenges have been well documented as a limiting factor in Michigan’s path to reaching carbon
+neutrality. Through Michigan’s Catalyst Communities program and tools like EGLE’s Renewable
+Energy Ordinance Database, the state will expand support for local units of government to adopt best
+practices for siting renewable energy systems within their communities.
+
+Page | 35
+
+MI Healthy Climate Plan
+
+Transition away from fossil fuels
+Retiring coal facilities on an accelerated timeline is fundamental to reaching Michigan’s near-and
+long-term climate objectives. The Plan recommends that Michigan complete its transition away from
+coal-fired generation for powering our homes and businesses no later than 2030. It also calls for
+energy planning that will include options for reducing reliance on natural gas and other pathways for
+decarbonizing the electricity sector that go beyond coal plant retirement. As this transition takes
+place, Michigan must invest in support systems for workers displaced from fossil-fuel-powered
+generation facilities and ensure resource adequacy through investments in new generation assets
+and improved transmission, distribution, and storage.
+
+Ensure resource adequacy through investments in infrastructure and planning
+Building on the current IRP process at the MPSC—established with the passage of the 2016 energy
+laws—Michigan is well-positioned to undertake a comprehensive energy planning process to ensure
+reliability, affordability, and the cost-effective integration of new technologies as the sector
+decarbonizes. Comprehensive energy planning includes rate design, traditional resource planning,
+long-range transmission planning, distribution planning, storage planning, consideration of new and
+emerging resources, planning around areas of interdependency between the electric and natural gas
+systems, consideration of community and health impacts, and identification of viable decarbonization
+pathways aligned with carbon neutrality by 2050.
+To help ensure reliability and affordability for ratepayers while we decarbonize this sector, Michigan
+must continue to invest in transmission and distribution infrastructure and maintain existing clean
+energy and energy storage assets. In addition, Michigan must invest more robustly in grid scale
+energy storage through a deployment target of an additional 2,500 MW by 2030 and 4000 MW by
+2040.
+
+Ensure affordability and justice
+Energy burden is the percentage of household income that a given household spends on home
+heating and electricity costs. Energy burden is often much higher in low-income households, where
+residents may be unable to afford energy efficiency upgrades to their existing homes or the purchase
+of more expensive homes that are already energy efficient. For example, in 2018, households with an
+income between 0-30 percent of the state median had an average energy burden of 24 percent,
+compared to an average energy burden of 2 percent for households with an income at or above the
+state median. Michigan must develop and expand utility programs to ensure no low-income
+household is paying more than 6 percent of their annual income on energy. As these programs are
+developed, Michigan should increase funding to the UCRF, which is overseen by the Utility Consumer
+Participation Board, with the express intent of allowing for more participation from disadvantaged
+communities in the design of these programs.
+
+Page | 36
+
+MI Healthy Climate Plan
+
+ELECTRIFY VEHICLES AND INCREASE PUBLIC TRANSIT
+As of 2019, Michigan’s transportation sector accounted for almost 28 percent of the state’s total
+GHG emissions, the second highest emitting sector after the power sector. Transportation emissions
+are primarily due to the combustion of petroleum products such as gasoline and diesel in light-duty
+vehicles and freight trucks.
+It will take a broad, all-options approach to transportation to put Michigan on track to achieve its
+decarbonization goals, increase equity, and offer new economic opportunities to Michiganders. To
+decarbonize how Michiganders move, Michigan will need to drive a rapid transition to cleaner fuels
+and electrification, make unprecedented investments in electric vehicle charging infrastructure,
+increase access to diverse transportation options, and focus on integrated people- and planetfocused transportation planning.
+
+Key Strategies
+ Purchase incentives – Create and fund an incentive program for the purchase of
+electric vehicles and at-home charging stations. Explore incentives for products like
+electric off-road vehicles, electric recreational vessels, and e-bikes.
+ Electric vehicle charging – Build the infrastructure necessary to support two million
+electric vehicles on Michigan roads by 2030. Leverage the success of the Charge Up
+Michigan program to equip Michigan with a comprehensive, accessible network of
+chargers using various financing tools, including public funding opportunities and
+public-private partnerships.
+ Electrified fleets – Transition the State of Michigan’s fleet to 100 percent zeroemission vehicles. Fund and support local governments and small businesses with fleet
+transitions and work with schools to quickly electrify school bus fleets, with a
+prioritization on communities with high levels of air pollution.
+ Clean Fuels Standard – Adopt a Clean Fuels Standard (CFS) to reduce the carbon
+intensity of every fuel in use.
+ Transit and diverse transportation options – Increase access to clean transportation
+options – from public transit to electric vehicles – by 15 percent each year. Work with
+communities that are mobility insecure to set community-specific targets to expand
+access to clean transportation options. Increase investment in more efficient, cleaner
+public transit systems—as well as bike paths, walking trails, and other such
+infrastructure—to offer the broadest possible range of options to residents.
+ Transportation planning – Implement a Safe Systems Approach in transportation
+planning to work towards the elimination of fatal and serious injuries for all road users.
+Develop a transportation strategic plan focused on electrification to guide state
+agencies in moving Michigan toward our cleaner mobility future. Consider creation of a
+statewide electrification plan for transit.
+
+Page | 37
+
+MI Healthy Climate Plan
+
+Transportation Greenhouse Gas Emissions
+by Sub-Sector Source
+
+Background
+For over a century, Michigan has enjoyed global automotive leadership. To remain at the forefront,
+the State needs to lead on the transition to electric vehicles, invest in infrastructure, support the
+retraining of our transportation workforce to ensure all workers transition into new high-paying jobs,
+and provide an attractive business environment for our auto industry.
+While vehicle electrification is a key technology needed to meet 2050 decarbonization goals for the
+transportation sector, it cannot be the only decarbonization solution for Michigan. Michigan needs to
+employ multiple strategies and effective planning to achieve our state’s transportation
+decarbonization goals and mobility needs as the transition to electrification unfolds over time.
+
+Transition to cleaner fuels and electric vehicles
+Electric vehicles represent a small fraction of Michigan’s current auto sales today. Just 0.62 percent
+of all vehicles sold here in 2020 were electric. Two of the key current barriers to widespread uptake
+are the higher purchase cost typically associated with these vehicles and the real or perceived lack of
+electric vehicle charging infrastructure.
+
+Page | 38
+
+MI Healthy Climate Plan
+
+To address these challenges, the State of Michigan will develop purchase incentives targeted to spur
+sales of electric vehicles throughout Michigan, particularly in the near-term to stimulate market
+growth and help more Michiganders access clean transportation options. To lead by example on this
+path, the State of Michigan will transition its fleet to 100 percent zero-emission vehicles by 2035 for
+light-duty vehicles and 2045 for medium- and heavy-duty vehicles. Leveraging this leadership, the
+State will also expand funding options for fleet conversions for local governments, small businesses,
+and school bus fleets, with a prioritization on communities with high levels of air pollution.
+To build out the necessary charging network, Michigan will expand funding opportunities for direct
+current fast charging stations to make sure that Michigan residents can drive an electric vehicle
+throughout the state without anxiety over where to get their next charge. Through Charge Up
+Michigan, the State has already invested more than $45 million in charging infrastructure and will
+spend millions more in the coming years thanks to the recent and forthcoming influx of additional
+federal resources. By expanding funding through the Charge Up Michigan program and partnering
+with utilities and the private sector, Michigan will deploy enough charging infrastructure to support
+two million electric vehicles on Michigan roads by 2030. In pursuing that 2030 target, Michigan
+should aim for electric models to account for at least 50 percent of light-duty vehicle sales, 30
+percent of medium- and heavy-duty vehicles sales, and 100 percent of public transit vehicles and
+school buses sold that year.
+
+Page | 39
+
+MI Healthy Climate Plan
+
+Michigan should also pass legislation to adopt a CFS, a technology-neutral, performance-based policy
+to reduce the carbon intensity of transportation fuels. These standards ratchet down carbon
+emissions in the transportation sector over time, increasing the use of lower-carbon fuels and
+reducing the use of higher carbon fuels. By setting a standard that grows more stringent over time,
+the program will dramatically increase private investment in lower carbon fuels. While providing
+added encouragement and support for the emerging electrified transportation sector, this policy can
+also incentivize the use of lower-carbon liquid fuels in non-electric vehicles during the transition to a
+fully electric future. In addition, a CFS can be designed to create revenue for reinvestment in electric
+vehicle purchase incentives or charging infrastructure. This policy is a critical bridge between the
+status quo’s carbon-intensive fuels and electrification.
+
+Increase access to diverse transportation options
+Vehicle electrification cannot be the only transportation decarbonization solution for Michigan.
+Vehicle fleets have inherently slow turn-over rates. The vast majority of vehicles on Michigan’s roads
+will still be burning gasoline in 2030, even if we adopt the market incentives recommended in this
+Plan and automakers aggressively pursue their electric vehicle sales goals. In light of this reality,
+Michigan needs to employ multiple strategies to achieve our transportation decarbonization goals as
+the transition to electrification unfolds over time. Expanding access to safe and convenient public
+transit, mobility solutions like car sharing, and high-quality bike and walking infrastructure will play a
+vital role in decarbonization.
+Better and more widely available transit also represents an opportunity to advance equity. It
+increases access to opportunities to learn, earn a living wage, and remain healthy for the many
+Michigan families that currently lack reliable transportation. Almost eight percent of Michigan
+households have no vehicle at all, and that number more than doubles to 19 percent for renters.
+Nearly 3 out of every 5 jobs cannot be reached by public transit, meaning that these opportunities are
+not equitably accessible to all Michigan families. This is particularly true for non-white households,
+which make up 79 percent of transit riders. Public transportation is also the best transportation
+option—and in some cases the only viable one—for many seniors and Michiganders with disabilities.
+This Plan sets goals to diversify transportation options and increase investments in public transit and
+related mobility solutions.
+
+Implement people and planet focused transportation planning
+Strategic transportation planning will help knit traditional and advanced transportation options into
+an integrated system that serves all Michiganders equitably. As Michigan develops a statewide
+electrification plan and related tools to do just that, coordination will be critical given the many key
+players involved, including local, state, and federal agencies and a great variety of private partners.
+The Plan also recommends the implementation of a Safe Systems approach to transportation
+planning that focuses on safe mobility for all road users. Implementing the Safe System approach
+means anticipating and proactively planning for road user mistakes through the design and
+management of road infrastructure and the development of rules and regulations for drivers that
+lower the risk of death or serious injury.
+
+Page | 40
+
+MI Healthy Climate Plan
+
+REPAIR AND DECARBONIZE HOMES AND BUSINESSES
+As of 2019, Michigan’s buildings accounted for almost 18 percent of the state’s total GHG emissions,
+the third highest emitting sector after the power and transportation sectors. While Michigan’s buildings
+use a significant amount of electricity for lighting, appliances, air conditioning, ventilation, and other
+purposes, those emissions are accounted for in the electric generation sector. Emissions related to the
+built environment are primarily due to use of heating fuels such as natural gas, propane, and oil.
+In addition to its pivotal role in achieving our climate goals, investing in our building stock will help lower
+utility and other costs for working families and small businesses, make our homes and workplaces
+healthier, and expand economic opportunities across the state. Decarbonizing our buildings will require
+baseline investments in repairing Michigan’s homes; stronger requirements, incentives, and financing
+options for energy efficiency and waste reduction; and evaluation and adoption of innovative home
+heating alternatives, including electrification in immediately cost-effective use cases.
+
+Key Strategies
+ Heating Michigan homes and businesses - Reduce emissions related to heating Michigan
+homes and businesses 17 percent by 2030. Focus on both public and private-sector
+investments and targeted efficiency and assistance programs to reduce the energy burden
+for low-income residents.
+ Clean financing opportunities – Explore programs, financing options, and public funding
+opportunities – including the allocation of funds to the state’s nonprofit green bank,
+Michigan Saves – to help families, small businesses, and schools invest in clean energy
+projects from weatherization to renewables and building decarbonization. Adopt and promote
+utility on-bill financing and property assessed clean energy programs (PACE). Identify sources
+of consistent, ongoing funding to address homes that are ineligible for weatherization
+assistance.
+ Building codes and climate readiness – Adopt the 2021 Model Energy Code with provisions
+to support electric vehicle charging and consider incorporation of additional climate
+mitigating solutions such as energy storage, renewable energy, and building decarbonization.
+ Energy waste reduction programs – Increase utilization of cost-effective opportunities to
+reduce energy waste. Achieve at least 2% annual electric energy efficiency savings by
+increasing the current energy waste reduction target for electric utilities and maintaining the
+corresponding incentives for exceeding statutory minimums. Restore the energy waste
+reduction target for municipal and cooperative electric utilities. Increase energy waste
+reduction (EWR) for natural gas utilities to a minimum of 1.5% annual savings with enhanced
+cost-effective incentives for exceeding statutory minimums. Work to ensure energy efficiency
+is on a level playing field with supply-side resources (i.e., power generation) in the MPSC
+integrated resource planning (IRP) process which guides the financial investments of
+Michigan utilities. Explore additional pathways to reduce energy demand and energy burden.
+ Incentives for energy efficient appliances – Establish incentives for the sale of electric
+appliances that yield immediate energy and cost savings, particularly for low-income
+Michiganders.
+ Evaluate gas system regulatory and policy options – Undertake a pathway analysis to
+assess options to reduce carbon intensity in the built environment.
+Page | 41
+
+MI Healthy Climate Plan
+
+Building Emissions by Source
+
+Background
+To reach our 2030 goals of reducing emissions relating to heating Michigan homes and businesses
+17 percent by 2030, Michigan must reduce end-use emissions related to heating Michigan homes
+and businesses by approximately three percent per year from now to 2030. We will accomplish this
+objective through investments in energy conservation, energy efficiency, smart consumption,
+cogeneration, and replacing traditional fossil fuel use with cost-effective technologies that rely on
+electricity and alternatives like renewable natural gas and hydrogen.
+Half of Michigan homes are less than 50 years old. With adequate care and maintenance, most will
+remain in use through and beyond 2050. While the other half of Michigan homes are more than 50
+years old, most can be expected to last another 50 years or more with modest investments. However,
+many of these buildings are inefficient and rely on fossil fuels for heating and appliances like gas
+stoves. They will require significant upgrades to be fully decarbonized.
+Energy efficiency and weatherization investments targeted at Michigan’s most inefficient buildings
+will drive significant investments in Michigan’s most disadvantaged communities. Unfortunately, not
+every home is ready for energy efficiency and weatherization upgrades. Many of Michigan’s most
+inefficient buildings need a new roof or upgrades to remove carbon monoxide from the home before
+they can qualify for many available funding programs. In fact, 25 percent of all weatherization
+projects across the state are deferred due to structural challenges. This barrier is even higher in older
+communities like Detroit where deferral reaches nearly 75%. Michigan must increase investments in
+home repairs and streamline access to energy efficiency and weatherization funding programs for
+communities with aging housing stocks. This is a pre-requisite to decarbonizing our building sector
+and achieving our short- and long-term GHG reduction goals.
+
+Reduce energy waste
+Under Michigan law, electricity providers must achieve annual EWR of one percent per year (based on
+total annual retail sales of the prior 12 months) and gas providers must hit 0.75 percent. In addition,
+Michigan law provides financial incentives for energy providers to meet or exceed those standards. In
+just over a decade, these policies have resulted in a lifetime savings of nearly $1.2 billion for electric
+and gas customers. When it comes to reducing emissions—and saving money for Michigan families
+and businesses—it is hard to get more bang for the buck than cutting energy use.
+Page | 42
+
+MI Healthy Climate Plan
+
+Building from their success thus far, Michigan should strengthen existing EWR programs for investorowned utilities – doubling the energy waste reduction target for electricity to two percent and bumping
+it up to 1.5 percent for natural gas. The state should also restore the EWR targets for municipal and
+cooperative electric utilities. In taking these steps, we must create and leverage incentives for overperformance and encourage robust consideration of EWR alongside power generation in IRPs.
+
+Building new, clean buildings
+While Michigan’s existing homes and buildings will account for most of the GHG emissions in this
+sector from now through 2030, we must work to ensure that all new residential and commercial
+buildings are as efficient as possible, use materials with a low carbon footprint like mass timber, and
+prepare for new technologies. To help make this possible, Michigan must adopt the 2021 Model
+International Energy Conservation Code for new buildings. Michigan should also expand on the model
+code to include provisions to support electric vehicle charging and consider the incorporation of
+additional climate mitigating solutions such as energy storage, renewable energy, and building
+decarbonization.
+
+Rethink how we heat our buildings
+Moving forward, Michigan should consider and evaluate alternatives to current strategies for heating
+Michigan’s buildings. According to research from Rewiring America, at least 39 percent
+of Michigan households—or 1.5 million households—could save a total of $710 million a year on
+energy bills if they were using modern heat pump space heaters and heat pump water heaters
+instead of their current appliances, which use electric resistance, fuel oil, or propane. That’s an
+average savings per household of $460 each year. Half of the households with immediate savings
+potential are considered low- and moderate-income. The switch to electric heating and other
+appliances may also yield health benefits, such as helping to reduce the risk of respiratory symptoms
+associated with gas stove use. To make heating less carbon-intensive, Michigan should establish
+incentive programs for electric appliances and heat pumps for use-cases that will save customers
+money today, with an emphasis on energy burden relief for low-income residents.
+To complement immediate policy actions, the Plan recommends the state undertake a pathway
+analysis to assess options to achieve carbon neutrality from natural gas production, transmission,
+distribution, compression, storage, and end uses in a least-cost manner. This analysis should
+consider a full range of options for decarbonizing natural gas end uses, including energy efficiency,
+electrification, fuel switching to renewable natural gas and hydrogen, and other potential
+opportunities.
+
+Increase financing
+To facilitate home repairs, energy efficiency investments, and electrification, Michigan should also
+expand direct state investments and customer-facing financing options. By supporting programs like
+on-bill financing and property assessed clean energy (PACE), Michigan can create easier access to
+capital at better terms for customers and attract more private sector capital to the building
+decarbonization challenge.
+
+Page | 43
+
+MI Healthy Climate Plan
+
+DRIVE CLEAN INNOVATION IN INDUSTRY
+As of 2019, Michigan’s industrial sector accounted for 15 percent of the state’s total GHG emissions,
+the 4th highest emitting sector after the buildings and housing sector. While aggregated together in
+tracking emissions, the state’s industrial sector is remarkably diverse, and makes products like
+chemicals, iron, steel, cement and food using specific manufacturing processes that can cause onsite GHG emissions, often require a lot of power, and/or involve GHG emissions in their supply chains.
+Decarbonizing these sectors will require process-specific solutions with a focus on advancing
+research and development, improving facility efficiency, using cleaner products and fuels, and
+developing new markets for byproducts.
+
+Key Strategies
+ Buy clean, buy Michigan – Strengthen public and private-sector procurement programs to
+favor the use of low-carbon and circular-economy products and identify opportunities to
+support disadvantaged businesses in procurement. Encourage the production and
+purchase of materials made by Michigan workers.
+ Recycling and waste – Triple the state’s recycling rate to 45 percent and cut food loss
+and waste in half by 2030. Expand on efforts like ‘Next Cycle’ to develop markets for
+recycled materials.
+ Shared clean industrial innovation – Encourage clean innovation hubs to collaborate on
+the development and deployment of new, cleaner manufacturing technologies and reduce
+emissions from hard to decarbonize industries. Work to ensure that Michigan communities
+impacted by industrial development and operations are meaningfully engaged in the siting,
+construction, and operation of clean innovation hubs.
+ Clean industry process improvements – Provide incentives and technical assistance to
+advance the energy efficiency and other process improvements necessary to achieve
+carbon neutrality in the industrial sector by 2050. Deploy combined heat and power (CHP)
+in new facilities and convert existing facilities to renewable energy or lower-carbon fuels
+such as biogas, renewable natural gas or biomethane, and clean hydrogen.
+ Carbon capture, utilization, and sequestration – Explore the use of carbon capture,
+utilization, and sequestration in industrial applications where eliminating the use of fossil
+fuels is impossible or cost-prohibitive and for entities attempting to go carbon negative in
+their operations.
+
+Page | 44
+
+MI Healthy Climate Plan
+
+Background
+Michigan’s industrial sector represents one the state’s greatest strengths on the path to carbon
+neutrality. Michigan has the 5th largest advanced manufacturing workforce in the country, with more
+than 65,000 workers employed in that sector in 2019. The state is a national leader for employment
+in industries related to Industry 4.0 and automation. Of the top 100 automotive suppliers to North
+America, 96 have a presence in Michigan and 71 are headquartered here. The state is home to
+nearly 19% of all U.S. auto production, more than any state in the nation.
+This unparalleled industrial heritage and the technological know-how of our workforce positions
+Michigan well to develop and manufacture the next generation(s) of innovative products that will be
+used in every sector of our economy to unlock new decarbonization strategies. To make Michigan the
+trailblazing home for the low-carbon inventions of tomorrow—and create the corresponding
+opportunities for sustained economic growth and job creation—the state will need innovative market
+development and regulatory programs and strong financial incentives.
+In addition to manufacturing the products needed to decarbonize other sectors, Michigan’s industrial
+sector has already taken significant steps in reducing GHG emissions from its operations. Between
+2005-2018, the industrial sector cut their emissions by 5.9 million metric tons – or more than 23
+percent. Additional analysis suggests that the industrial sector has the potential to reduce their
+annual emissions by an additional 5.7 million metric tons by 2030 – a reduction of more than 45
+percent when compared to 2005 levels.
+
+Efficient facilities
+Energy efficiency is a vital tool that can help Michigan’s industrial sector reduce GHG emissions while
+keeping energy costs reasonable. Importantly, industrial energy efficiency and process improvements
+may be able to reduce local air pollution in communities located near industrial facilities and can
+create new workforce opportunities conducting energy audits and implementing the energy saving
+strategies they identify.
+A key efficiency opportunity exists around CHP, which is a process that takes excess heat from an
+industrial process or facility and uses it to generate electricity. CHP is the most fuel-efficient way to
+produce and utilize both electric and thermal energy from a single fuel source. In 2018, the Michigan
+Energy Office released its CHP Roadmap for Michigan, which recommended an optimal level of
+additional CHP deployment in Michigan ranging from 722 MW to 1,014 MW by 2030. The next wave
+of CHP applications will enable deeper decarbonization of the industrial sector through the use of
+renewable energy or lower-carbon fuels such as biogas, renewable natural gas or biomethane, and
+hydrogen.
+
+Page | 45
+
+MI Healthy Climate Plan
+
+Cleaner products
+Michigan is well-positioned to grow its circular economy—a systems approach that emphasizes
+growing markets for recyclable materials so they are (re)used by Michigan workers and business to
+make new products, rather than taken to landfills or other disposal facilities. For example, EGLE’s
+‘Next Cycle’ program works with businesses to incubate ideas that grow Michigan’s recycled materials
+supply chain and end markets. The Plan identifies a number of opportunities to further spur market
+demand for cleaner products, such as lower-carbon cement for use in infrastructure projects. It also
+calls for expanding public and private sector clean procurement programs.
+
+Clean innovation hubs
+While some decarbonization solutions already exist today, many are still waiting to be innovated. As
+home to many energy-intensive industries, Michigan is well-positioned to lead the way on industrial
+decarbonization solutions. Clean innovation hubs can help Michigan’s industrial sector achieve GHG
+emissions reductions as cost-effectively as possible through shared infrastructure, the strategic colocation of industrial facilities, and the efficient use of materials and energy streams. Individual clean
+innovation hubs could focus, for example, on hydrogen technologies or electric vehicle battery
+recycling. Safeguards must be put in place to address any public health and environmental justice
+concerns with these facilities. Potentially impacted communities should have the opportunity for
+adequate consultation in the siting, construction, and operations of any innovation hub.
+
+Page | 46
+
+MI Healthy Climate Plan
+
+PROTECT MICHIGAN’S LAND AND WATER
+As of 2019, Michigan’s natural and working lands accounted for nine percent of the state’s total GHG
+emissions, contributing the smallest percentage of overall emissions from an individual sector. These
+emissions come primarily from agricultural practices and land-use changes. To drive decarbonization
+and sequester carbon in Michigan’s natural and working lands sector, it will be crucial to protect and
+conserve Michigan’s natural resources and support innovative solutions in agriculture.
+
+Key Strategies
+
+
+30 x 30 – As a part of the national ‘America the Beautiful’ initiative, protect 30 percent
+of Michigan’s land and water by 2030 to naturally capture GHG emissions, while
+maintaining and improving recreational opportunities for all Michiganders, expanding
+access in disproportionately impacted communities, and protecting biodiversity.
+
+
+
+Wetlands, waters, soils, forests – Avoid land-use conversion that causes a net increase
+in GHG emissions and prioritize land uses that reduce GHG emissions. Protect and
+restore existing wetlands and waterways and create new wetlands where appropriate.
+Adopt policies to protect the state’s soils and enhance their capacity to capture and
+store carbon. Maintain and develop healthy forests across public and private lands.
+Support and promote tools that expand the use of the mass timber as a sustainable
+building material.
+
+
+
+Treaty rights – As conservation efforts move forward, the state will not interfere with
+treaty rights, treaty resources, and tribal cultural resources and will consult with Tribal
+Nations. Conservation efforts must respect the exercise of treaty rights.
+
+
+
+Farm management and practices – Develop initiatives to support farmers in adopting
+best management practices to improve soil health, store carbon, and utilize other
+greenhouse gas emissions, while also protecting water quality. Create programs to
+catalyze and accelerate the transition to cleaner technologies like electric and hydrogen
+fuel-cell farm equipment.
+
+
+
+Michigan grown products – Fund programs like the ‘Buy Michigan Agriculture
+Campaign’ to encourage the purchase of Michigan grown and raised products, address
+food insecurity challenges, and counter supply chain issues.
+
+Page | 47
+
+MI Healthy Climate Plan
+
+Agriculture and Waste Emissions by Source
+
+Background
+From birdwatching, hunting, and camping to the timber and forest products that are used in our
+homes and businesses, our lands, waters, and forests are essential components of what makes
+Michigan, “Pure Michigan.”
+The lands and waters we call Michigan today are the ancestral territories of the Anishinaabe, who
+have lived in the State of Michigan from before recorded history to present day. The Anishinaabe
+people’s commitment to this place should encourage us to be better stewards of the land we inhabit
+and the waters on which we depend.
+The Michigan Department of Natural Resources manages 4.6 million acres of public lands, 3.86
+million of which are forested, and the state contains roughly 5.5 million acres of wetlands. Michigan is
+also home to over 50,000 farms. If protected and appropriately managed, Michigan’s natural and
+working lands can store and sequester carbon and offer additional benefits including limiting water
+runoff pollution, providing habitats that support biodiversity, and reducing the impacts on Michigan
+communities from more frequent and intense flooding, extreme heat, and other effects of climate
+change. These lands are critical to our economy and the health of all Michiganders.
+
+Page | 48
+
+MI Healthy Climate Plan
+
+Michigan’s natural resources and land use
+Michigan’s forests currently store approximately 537 million tons of live tree carbon and 2,045
+million tons of total forest ecosystem carbon, and they continue to sequester additional carbon from
+the atmosphere with each passing day. Sustainable forest management is key to maintaining and
+expanding the role of forests in reducing carbon emissions – and avoiding the loss of important
+carbon sinks that would make Michigan’s path to carbon neutrality even more challenging.
+In addition, sustainable forestry can encourage responsible sourcing and recycling of forest products.
+Building out a sustainable forestry and forest product industry can create thousands of good-paying
+jobs for Michiganders, capture new economic development opportunities, and provide sustainable
+building materials like mass timber.
+Many of the state’s powerful natural carbon sinks have been developed or converted and lost their
+natural ability to store carbon, increasing net GHG emissions. Wetlands, in particular, are important
+carbon sinks and stocks. Building out green waterway infrastructure, like constructed wetlands, can
+yield both climate adaptation and mitigation benefits. This Plan recommends avoiding further landuse conversions that increase GHG emissions and stewarding Michigan’s natural resources by
+implementing land-use strategies that reduce GHG emissions in partnership with Michigan’s tribal
+governments.
+The federal government signed several treaties with tribal nations in Michigan, which reserved
+hunting and fishing rights for tribal members. Working with and supporting tribal nations will be an
+essential component of managing natural and working lands in a way that respects and does not
+interfere with treaty rights, treaty resources, and tribal cultural resources.
+
+Page | 49
+
+MI Healthy Climate Plan
+
+Soil health and innovation in agriculture
+Michigan is the second most agriculturally diverse state in the country. The state is home to nearly
+50,000 farms, spanning over nine million acres of agricultural land. These lands have an
+opportunity to sequester carbon, but many agricultural practices also emit it. This Plan recommends
+solutions to implement best practices for managing working lands to restore soil health and store
+carbon, provide low-carbon equipment to farmers, increase access to locally sourced agriculture,
+and reduce food waste.
+Promoting climate-smart strategies like cover crops, conservation tillage, and precision agriculture
+can improve soil health, store carbon, improve water quality, and reduce fertilizer needs. Biochar and
+compost also have the opportunity to reduce both food waste and reliance on synthetic fertilizers.
+Innovative animal feed mixes and additives can be used to reduce GHG emissions from livestock.
+Across the state, there are communities that lack access to healthy, high-quality food. As we
+transform our agricultural sector to mitigate and adapt to climate change, we must also take that
+opportunity to ensure that everyone can get the food they need to live healthy lives. Supporting
+Michigan-grown agriculture, urban agriculture, and farmer’s markets by funding programs like the
+‘Buy Michigan Agriculture Campaign’ can promote healthy local food systems and reduce emissions
+from transporting food.
+While some solutions are apparent for Michigan’s working lands, additional funding opportunities,
+research, and technological advancements will be necessary to understand how to fully decarbonize
+this sector in a way that balances the needs of farmers, ecosystems, and all Michiganders.
+
+Page | 50
+
+MI Healthy Climate Plan
+
+LEADING BY EXAMPLE IN STATE GOVERNMENT
+State governments have a variety of tools in their purview to address climate change. For example,
+state agencies use energy, procure or purchase vehicles and other goods/services, and make a wide
+variety of other investments in our communities and economy. Decisions and actions in these and
+other areas are opportunities for the State of Michigan to show the way to carbon neutrality.
+In 2019, the governor’s office launched an interdepartmental workgroup to identify opportunities for
+state government to lead by example and use administrative powers to reduce GHG emissions. This
+work focused on how the state could incorporate climate mitigation into existing state programs and
+identify initiatives that departments could pursue to accelerate the transition toward carbon
+neutrality. This effort demonstrated that every state department – from the Department of Natural
+Resources to the Department of Treasury – has an opportunity to act on climate.
+In response to this work, Governor Whitmer created new offices and initiatives to help strengthen
+climate action across state government, including the Energy Transition Impact Project at the
+Department of Treasury and the Office of Future Mobility and Electrification at the Department of
+Labor and Economic Opportunity (LEO). The leaders of these programs collaborate closely with their
+colleagues in the Office of Climate and Energy and Office of Environmental Justice Public Advocate,
+which Governor Whitmer created at EGLE as one of her first acts in office to lead carbon reduction,
+just transition, and environmental justice efforts.
+
+Solar Panels at Oden State Fish Hatcher – photo courtesy of the Michigan DNR
+
+This focus and planning on climate—along with the structuring of climate work directly into state
+agency organizational charts—has led to bold actions by the State of Michigan to reduce GHG
+emissions. While not an exhaustive list, the following highlights some examples of the state leading by
+example.
+Page | 51
+
+MI Healthy Climate Plan
+
+LEADING BY EXAMPLE IN STATE OPERATIONS
+To reduce GHG emissions in State of Michigan operations, the Whitmer administration and state
+agencies have:
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Signed agreements to power state-owned facilities with 100 percent renewable energy by
+2025.
+Committed to carbon neutrality in state-owned buildings by 2040.
+Pledged to reduce energy usage in state-owned facilities 40 percent by 2040.
+Established a $5 million Energy Efficiency and Green Revolving Fund to expand renewable
+energy and energy efficiency projects at state facilities (and proposed an expansion of this
+investment in the FY 2023 budget proposal).
+Developed a plan to responsibly site solar across state-owned properties.
+Upgraded state systems to deploy more efficient water use (and reuse) techniques, saving
+energy and thousands of gallons of water per year.
+Launched the nation’s first carbon sequestration and carbon market program on state owned
+forest land.
+Committed to electrify the state’s vehicle fleet, starting with a $10 million FY 2023 budget
+proposal.
+Required consideration of vendor environmental track records in the state’s procurement and
+purchasing decisions.
+Required all state facilities to offer recycling services.
+Developed a toolkit for state agencies to review sustainability projects on state properties and
+ensure easy access to information on how to initiate eco-friendly practices.
+Launched a state employee education campaign around sustainability.
+Invested in backup power for all state-owned pumping stations to reduce freeway flooding
+events in Southeast Michigan.
+
+LEADING BY EXAMPLE IN STATE BUDGETS
+Each of the budgets Governor Whitmer has signed so far have delivered millions of dollars for
+strategies and investments to address climate change. Most recently, Governor Whitmer proposed an
+FY 2023 executive recommendation that included over half a billion dollars in climate, advanced
+mobility, and clean energy related funding. These proposals ranged from investments in the state
+green bank and building out electric vehicle charging infrastructure to the reforestation of native trees
+and grants to communities for climate-resilient infrastructure.
+
+Page | 52
+
+MI Healthy Climate Plan
+
+LEADING BY EXAMPLE IN STATE PROGRAMS
+State agencies are also showing the way to carbon neutrality by developing new programs—and
+reshaping existing ones—to jumpstart progress in implementing the strategies in this Plan.
+
+Commit to Environmental Justice and Pursue a Just Transition
+ EGLE developed a Michigan-specific EJ Screening tool that provides maps and data to help
+Michigan move toward environmental equity. It allows users to identify where populations are
+more vulnerable and what challenges communities face. EGLE is also supporting the Michigan
+Public Service Commission (MPSC) in considering environmental justice and health impacts
+as a part of the utility integrated resource plan process.
+ The Department of Health and Human Services published a Climate and Health Adaptation
+Planning Guide for Michigan Communities to help local units of government and their
+residents integrate climate and health concepts into existing community planning and
+decision making.
+
+Clean the Electric Grid
+ The MPSC launched MI Power Grid, a multi-year stakeholder process to maximize the benefits
+of clean, distributed energy resources for Michigan residents and businesses.
+ The Michigan Department of Agriculture and Rural Development (MDARD) developed a policy
+allowing farmers to rent land for large scale solar operations while maintaining preservation of
+farmland by suspending and extending agreements for an equivalent number of years to
+properties enrolled in the PA 116 program.
+
+Electrify Vehicles and Increase Public Transit
+ The Office of Future Mobility and Electrification within LEO has led several projects to promote
+electric vehicle adoption and eliminate range anxiety associated with the availability of electric
+vehicle charging infrastructure.
+ The Michigan Department of Transportation (MDOT) completed a Transportation Asset
+Management Plan which included analysis of risks to the department related to climate
+change. It has also supported external initiatives like the Southeast Michigan Council of
+Government’s climate resiliency and flooding mitigation study to determine which
+infrastructure assets in southeast Michigan—including roads, bridges, culverts, and pump
+stations—are most at risk for flooding
+
+Repair and Decarbonize Homes and Businesses
+ The Michigan State Housing Development Authority (MSHDA) within LEO included a Green
+Policy within their Qualified Allocation Plan to require all its housing projects to achieve a
+green building certification and to add incentives for projects to achieve higher levels of
+sustainability commitments and energy efficiency. MSHDA’s 2022 Statewide Housing Plan
+also includes focuses on environmental justice in housing development and rehabilitation.
+
+Page | 53
+
+MI Healthy Climate Plan
+
+Protect Michigan’s Land and Water
+ The DNR incorporated climate mitigation as a key pillar in their Public Land Strategy to ensure
+the department identified appropriate strategies for emerging, climate-based threats to
+natural resources, and launched the nation’s first carbon sequestration and carbon market
+program on state forest land.
+
+Drive Clean Innovation in Industry
+ The Michigan Economic Development Corporation (MEDC) within LEO has started integrating
+Michigan’s climate goals into its business attraction efforts and has adjusted their focus to
+strategic industries that support the transition to a clean energy future, including energy
+storage businesses, electrified vehicle manufacturers, and companies that perform research
+and development in these sectors.
+
+Governor Gretchen Whitmer and EGLE Director, Liesl Clark speak at an Earth Day Event.
+
+This broad and deep State of Michigan leadership will help spur the state’s
+economy and catalyze rapid progress toward achieving carbon neutrality by 2050.
+
+Page | 54
+
+MI Healthy Climate Plan
+
+CONCLUSION
+The realities of the climate crisis are already directly impacting Michiganders and present our state
+with both an existential challenge and a compelling opportunity. If we fail to act with the urgency
+required, the impacts of climate change will likely only get worse, disproportionately affecting those
+who have long borne the brunt of environmental injustice. Yet a better path exists—a bold and
+strategic response to the climate crisis that will reward our state with enhanced economic
+opportunities, good-paying sustainable jobs, affordable and reliable energy for all, and clean air and
+water for every Michigander.
+The steps to achieving this vision are within reach, though urgent action is needed. This MI Healthy
+Climate Plan lays out in detail the steps we need to take immediately to achieve a 52 percent
+reduction in GHG emissions by the end of this decade, including efforts to clean the electric grid,
+electrify vehicles and increase public transit, repair and decarbonize homes and businesses, drive
+clean innovation in industry, and protect Michigan lands and water. As we drive GHG reductions in
+each of those areas, the Plan calls on us to pursue environmental justice every step of the way and
+commit to a just transition to a carbon neutral economy for all Michigan workers and communities.
+No less importantly, the Plan identifies the equally urgent actions needed now to fully decarbonize
+Michigan’s economy by 2050, including areas where additional work and study are needed for
+harder-to-decarbonize sectors including buildings and housing, industry, and agriculture.
+With bold leadership by example from state government and every Michigan resident and business
+playing their parts, we can – together – build a more equitable, just, healthy, and prosperous future
+and ensure that the benefits of this clean energy transition are enjoyed by all Michiganders.
+
+IMPLEMENTATION
+The State of Michigan is committed to implementing the MI Healthy Climate Plan. As directed by the
+Executive Order calling for this Plan, the Office of Climate and Energy within EGLE will oversee its
+implementation in concert with state departments and agencies, tribal and local governments, and
+key stakeholders. The Council on Climate Solutions and Michigan Advisory Council on Environmental
+Justice will provide advice, feedback, and guidance along the way. And, as required by the Order,
+EGLE will submit publicly available annual reports updating all 10 million Michiganders on our
+progress.
+
+Page | 55
+
+MI Healthy Climate Plan
+
+APPENDICES
+•
+•
+
+Workgroup summaries of Key Recommendations presented to the Council on Climate
+Solutions
+Michigan Advisory Council on Environmental Justice recommendations to the Council on
+Climate Solutions and the State of Michigan.
+
+Page | 56
+
+MI Healthy Climate Plan
+
+
