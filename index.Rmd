@@ -122,7 +122,7 @@ my.corpus.stats
 
 # Exploring Patterns: Types
 
-```{r}
+```{r, out.width = "40%", dpi= 150}
 ggplot(my.corpus.stats, aes(Text, Types, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Types per Document") + xlab("") + ylab("")
 ```
 
@@ -130,7 +130,7 @@ ggplot(my.corpus.stats, aes(Text, Types, group = 1)) + geom_line() + geom_point(
 
 # Exploring Patterns: Tokens
 
-```{r}
+```{r, out.width = "40%", dpi= 150}
 ggplot(my.corpus.stats, aes(Text, Tokens, group = 1)) + geom_line() + geom_point() + theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + ggtitle("Tokens per Document") + xlab("") + ylab("")
 ```
 
@@ -142,10 +142,7 @@ ggplot(my.corpus.stats, aes(Text, Tokens, group = 1)) + geom_line() + geom_point
 ```{r}
 doc.tokens <- tokens(my.corpus) # Creates the tokens for documents
 
-kwic(doc.tokens, "climate") %>%
-  kbl() %>%
-  kable_styling()
-
+kwic(doc.tokens, "adapt*") %>% as_tibble() %>% filter(row_number() > 8 & row_number() <15) %>%  select(docname, pre, keyword, post) %>% kbl() %>% kable_styling()
 
 ```
 
@@ -242,7 +239,16 @@ knitr::include_graphics(
 )
 ```
 ]
+---
 
+# Using a Dictionary to Classify: Environment
+
+- Listing of terms associated with particular dimensions
+
+```{r}
+dict <- dictionary(file = "data/dictionary/policy_agendas_english.lcd")
+dict$environment
+```
 ---
 
 # Using a Dictionary to Classify
@@ -253,7 +259,7 @@ knitr::include_graphics(
 
 # Dictionary - Policy Agendas
 
-dict <- dictionary(file = "data/policy_agendas_english.lcd")
+
 dfm.plans <- dfm(my.corpus, dictionary = dict)
 dfm.plans.prop <- dfm_weight(dfm.plans, scheme = "prop")
 dfm.plans.prop.lib <- convert(dfm.plans.prop, "data.frame") %>% 
@@ -281,7 +287,6 @@ ggplot(dfm.plans.pa, aes(State, Share, colour = Topic, fill = Topic)) +
 
 .pull-left[
 ```{r, warning=FALSE}
-dict <- dictionary(file = "data/policy_agendas_english.lcd") #imports dictionary
 dfm.plans <- dfm(my.corpus, dictionary = dict) #classifies data
 dfm.plans.prop <- dfm_weight(dfm.plans, scheme = "prop") #normalize with proportions
 dfm.plans.prop.lib <- convert(dfm.plans.prop, "data.frame") %>% 
@@ -305,3 +310,18 @@ knitr::include_graphics(
 )
 ```
 ]
+
+---
+
+# Assignment this Week: Content Analysis Report
+
+- 2-3 page report that captures the steps you've taken (codebook *not* in page count)
+- Summarize and discuss:
+  - Research question or interest
+  - Data sources and how you found them
+  - Exploratory findings (this presentation)
+  - Coding results including inter-coder testing
+  - Reflection on what you found
+- Due Sunday at 5:00pm
+
+
